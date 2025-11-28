@@ -22,9 +22,9 @@ If you would like to get in touch, please use the links below.
   <https://cee.rutgers.edu/qizhong-george-guo>
   
 - **LinkedIn**  
-  <https://https://www.linkedin.com/in/qizhong-george-guo-a351102/>
+  <https://www.linkedin.com/in/qizhong-george-guo-a351102/>
 
-- **Google Scholar:**
+- **Google Scholar**
   <https://scholar.google.com/citations?user=WzasdJIAAAAJ&hl=en&oi=ao>
 
 - **ORCID**  
