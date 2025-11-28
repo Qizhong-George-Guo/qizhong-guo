@@ -38,6 +38,6 @@ If you are looking for a comprehensive list of publications, please see:
 
 - **Google Scholar:** <https://scholar.google.com/citations?user=WzasdJIAAAAJ&hl=en>  
 - **ORCID:** <https://orcid.org/my-orcid?orcid=0000-0001-5654-7740>
-- - **ResearchGate:** <https://www.researchgate.net/profile/Qizhong-Guo-2/research>  
+- **ResearchGate:** <https://www.researchgate.net/profile/Qizhong-Guo-2/research>  
 - **CV (PDF):** [/files/cv/Guo_CV.pdf](/files/cv/Guo_CV.pdf)
 
