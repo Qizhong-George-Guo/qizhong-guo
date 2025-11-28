@@ -24,9 +24,9 @@ If you would like to get in touch, please use the links below.
 - **LinkedIn**  
   <https://www.linkedin.com/in/qizhong-george-guo-a351102/>
 
-- **Google Scholar**
+- **Google Scholar**  
   <https://scholar.google.com/citations?user=WzasdJIAAAAJ&hl=en&oi=ao>
-
+  
 - **ORCID**  
   <https://orcid.org/0000-0001-5654-7740>  
 
