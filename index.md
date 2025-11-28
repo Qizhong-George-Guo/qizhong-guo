@@ -63,10 +63,7 @@ A curated collection of peer-reviewed papers, technical reports, invited present
 
 For academic or professional inquiries:
 
-- **Email:** qguo@rutgers.edu  
-
-### University & Professional Links
-
+- **Email:** qguo@rutgers.edu
 - **Rutgers Faculty Page:** <https://cee.rutgers.edu/qizhong-george-guo>  
 - **LinkedIn:** <https://www.linkedin.com/in/qizhong-george-guo-a351102/>
 
