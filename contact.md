@@ -19,16 +19,19 @@ If you would like to get in touch, please use the links below.
 ### 🔗 Professional Profiles  
 
 - **Rutgers Faculty Page**  
-  <https://cee.rutgers.edu/faculty/qizhong-george-guo>
-
+  <https://cee.rutgers.edu/qizhong-george-guo>
+  
 - **LinkedIn**  
-  <https://www.linkedin.com/in/qizhong-george-guo/>
+  <https://https://www.linkedin.com/in/qizhong-george-guo-a351102/>
 
-- **ResearchGate**  
-  <https://www.researchgate.net/profile/Qizhong-Guo>
+- **Google Scholar:**
+  <https://scholar.google.com/citations?user=WzasdJIAAAAJ&hl=en&oi=ao>
 
 - **ORCID**  
   <https://orcid.org/0000-0001-5654-7740>  
+
+- **ResearchGate**  
+  <https://www.researchgate.net/profile/Qizhong-Guo>
 
 ---
 
