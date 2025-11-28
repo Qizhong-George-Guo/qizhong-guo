@@ -3,7 +3,6 @@ layout: home
 title: "Professor Qizhong (George) Guo"
 ---
 
-# Professor Qizhong (George) Guo  
 **Civil & Environmental Engineering – Rutgers University–New Brunswick**
 
 **Urban Stormwater • Estuarine Processes • Flood Resilience • GGBS Systems**
