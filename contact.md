@@ -6,37 +6,43 @@ permalink: /contact
 
 # Contact
 
-For academic or professional inquiries, I can be reached at:
-
-**Email:** <qguo@rutgers.edu>  
-**Office:** <Richard Weeks Hall of Engineering>, Department of Civil & Environmental Engineering  
-Rutgers University–New Brunswick  
-New Brunswick, New Jersey, USA
+If you would like to get in touch, please use the links below.
 
 ---
 
-## Professional Profiles
-
-These links provide access to selected publications, scholarly metrics, and professional background information.
-
-- **Rutgers Faculty Profile:** <https://cee.rutgers.edu/qizhong-george-guo>
-- **Google Scholar:** <https://scholar.google.com/citations?user=WzasdJIAAAAJ&hl=en&oi=ao>
-- **ORCID:** <https://orcid.org/my-orcid?orcid=0000-0001-5654-7740>
-- **ResearchGate:** <https://www.researchgate.net/profile/Qizhong-Guo-2/research>
-- **LinkedIn:** <https://www.linkedin.com/in/qizhong-george-guo-a351102/>
+### 📧 Email  
+**qguo@rutgers.edu**  
+(Primary academic email)
 
 ---
 
-## Mailing Address
+### 🔗 Professional Profiles  
 
+- **Rutgers Faculty Page**  
+  <https://cee.rutgers.edu/faculty/qizhong-george-guo>
+
+- **LinkedIn**  
+  <https://www.linkedin.com/in/qizhong-george-guo/>
+
+- **ResearchGate**  
+  <https://www.researchgate.net/profile/Qizhong-Guo>
+
+- **ORCID**  
+  <https://orcid.org/0000-0001-5654-7740>  
+
+---
+
+### 📬 Physical Address  
 Department of Civil & Environmental Engineering  
 Rutgers University–New Brunswick  
 Richard Weeks Hall of Engineering  
-500 Bartholomew Road  
-Piscataway, NJ 08854  
-USA
+500 Bartholomew Road, Piscataway, NJ 08854
 
 ---
+
+If you encounter any issues with this website or its content, feel free to reach out.
+
+
 
 If you would like further information about my research, teaching, or publications, please explore the sections on this website.
 
