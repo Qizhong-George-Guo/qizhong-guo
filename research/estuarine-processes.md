@@ -6,7 +6,7 @@ permalink: /research/estuarine-processes
 
 # Estuarine Processes & Environmental Systems
 
-My research in estuarine processes focuses on the physical dynamics of estuaries and tidally influenced coastal systems. These studies explore how tides, flows, and sediment interact across channels, bays, and wetlands, and how these processes influence environmental and ecological conditions.
+These studies explore how tides, flows, and sediment interact across channels, bays, and wetlands, and how those dynamics shape environmental and ecological conditions.
 
 ## Research Themes
 
@@ -20,10 +20,10 @@ My research in estuarine processes focuses on the physical dynamics of estuaries
 ## Selected Contributions
 
 Examples include studies of:  
-- tidal propagation and flow adjustment in estuarine channels,  
-- interactions among bays, tidal flats, and marsh systems,  
-- sediment transport affecting wetland morphology, and  
-- hydrodynamic conditions supporting restoration or conservation planning.
+- Tidal propagation and flow adjustment in estuarine channels  
+- Interactions among bays, tidal flats, and marsh systems  
+- Sediment transport affecting wetland morphology  
+- Hydrodynamic conditions supporting restoration or conservation planning
 
 ## Related Publications
 
