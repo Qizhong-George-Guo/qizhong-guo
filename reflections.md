@@ -6,7 +6,7 @@ permalink: /reflections
 
 # Reflections & Synthesis
 
-This section offers occasional reflections drawn from experiences in teaching, research, professional practice, and long-term work in water and environmental systems. These notes are added gradually and without a fixed schedule, and are meant to distill ideas, connect themes across disciplines, or offer broader perspectives based on recurring patterns observed over many years.
+This section offers occasional reflections drawn from experiences in teaching, research, professional practice, and long-term work in water and environmental systems. These notes are added gradually and without a fixed schedule. They are meant to distill ideas, connect themes across disciplines, and offer broader perspectives based on recurring patterns observed over many years.
 
 The emphasis is on clarity, synthesis, and thoughtful observation rather than frequent updates. As time allows, selected topics may include insights related to stormwater and green infrastructure, estuarine and coastal systems, integrated resilience strategies, teaching experiences, and emerging tools such as AI in engineering education and communication.
 
@@ -17,11 +17,10 @@ The emphasis is on clarity, synthesis, and thoughtful observation rather than fr
 New pieces will be added here as they are completed.
 
 - *(Coming soon)*  
-- *(Coming soon)*
 
 To view all reflections when available, please visit the posts directory:
 
-[View All Posts →](/reflections/posts)
+[View All Posts →](https://qizhong-guo.org/reflections/posts)
 
 ---
 
