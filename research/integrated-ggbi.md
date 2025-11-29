@@ -31,4 +31,4 @@ This area brings together insights from stormwater, hydraulics, estuarine proces
 
 Selected publications illustrating the GGBI approach will be added here.
 
-[Back to Research Contributions →](/research)
+[Back to Research Contributions →](https://qizhong-guo.org/research)
