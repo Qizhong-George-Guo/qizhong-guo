@@ -6,7 +6,7 @@ permalink: /research/watershed-basin-scale
 
 # Watershed & Basin-Scale Environmental Studies
 
-This area of work examines water and environmental processes at larger spatial scales, including river basins, estuary–river systems, and regional environmental planning efforts. The focus is on long-term trends, multi-scale interactions, and integrated strategies for resilience and restoration.
+This area of work examines water and environmental processes at larger spatial scales, including river basins, estuary–river systems, and regional environmental planning efforts. The emphasis is on long-term trends, multi-scale interactions, and integrated strategies that support resilience and restoration.
 
 ## Research Themes
 
@@ -20,10 +20,10 @@ This area of work examines water and environmental processes at larger spatial s
 ## Selected Contributions
 
 Examples include:  
-- basin-wide synthesis efforts for the Mississippi River Basin,  
-- studies linking fluvial inputs to estuarine responses,  
-- assessments of regional water and environmental trends, and  
-- integrated planning approaches across watershed and coastal interfaces.
+- Basin-wide synthesis efforts for the Mississippi River Basin  
+- Studies linking fluvial inputs to estuarine responses  
+- Assessments of regional water and environmental trends  
+- Integrated planning approaches across watershed and coastal interfaces
 
 ## Related Publications
 
