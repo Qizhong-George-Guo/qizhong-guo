@@ -45,7 +45,7 @@ Research on river systems, estuary–river interactions, environmental restorati
 A systems-based approach integrating natural processes, engineered infrastructure, and intelligent tools.  
 The Green–Grey–Blue–Intelligent (GGBI) Framework connects hydrology, hydraulics, stormwater, estuarine processes, and urban resilience.
 
-[Learn more →](/research/integrated-ggbi)
+[Learn more →](https://qizhong-guo.org/research/integrated-ggbi) 
 
 ---
 
