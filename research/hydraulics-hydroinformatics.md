@@ -6,7 +6,7 @@ permalink: /research/hydraulics-hydroinformatics
 
 # Hydraulics, Hydrology & Hydroinformatics
 
-This work examines the movement of water in natural and engineered systems, using analytical methods, numerical models, and data-driven tools. Hydraulics and hydrology provide the foundation for many of my studies in urban drainage, river flow, coastal systems, and integrated water management.
+This work examines the movement of water in natural and engineered systems, using analytical methods, numerical models, and data-driven tools. Hydraulics and hydrology provide a foundation for many of my studies in urban drainage, river flow, coastal systems, and integrated water management.
 
 ## Research Themes
 
@@ -21,10 +21,10 @@ This work examines the movement of water in natural and engineered systems, usin
 ## Selected Contributions
 
 Examples of work in this area include:  
-- hydrodynamic and hydrologic modeling for planning and design,  
-- stormwater system capacity assessment,  
-- development and application of decision-support tools, and  
-- integration of environmental data within hydraulic analyses.
+- Hydrodynamic and hydrologic modeling for planning and design,  
+- Stormwater system capacity assessment,  
+- Development and application of decision-support tools, and  
+- Integration of environmental data within hydraulic analyses.
 
 ## Related Publications
 
