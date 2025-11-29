@@ -6,8 +6,7 @@ permalink: /research/integrated-ggbi
 
 # Integrated Water & Urban Systems (GGBI Framework)
 
-The **Green–Grey–Blue–Intelligent (GGBI) Framework** reflects a systems-based approach to managing water and urban environments.  
-It integrates natural processes, engineered infrastructure, intelligent technologies, and community needs to support resilience across pluvial, fluvial, and coastal contexts.
+The **Green–Grey–Blue–Intelligent (GGBI) Framework** reflects a systems-based approach to managing water and urban environments. It integrates natural processes, engineered infrastructure, intelligent technologies, and community needs to support resilience across pluvial, fluvial, and coastal contexts.
 
 ## Research Themes
 
@@ -22,10 +21,10 @@ It integrates natural processes, engineered infrastructure, intelligent technolo
 
 This area brings together insights from stormwater, hydraulics, estuarine processes, and watershed studies. Examples include:
 
-- development of integrated resilience strategies,  
-- conceptual frameworks linking infrastructure types,  
-- basin-scale synthesis efforts, and  
-- applied work in both U.S. and international settings.  
+- Development of integrated resilience strategies  
+- Conceptual frameworks linking infrastructure types  
+- Basin-scale synthesis efforts  
+- Applied work in both U.S. and international settings  
 
 ## Related Publications
 
