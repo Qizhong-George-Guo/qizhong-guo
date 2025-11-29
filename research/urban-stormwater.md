@@ -6,7 +6,7 @@ permalink: /research/urban-stormwater
 
 # Urban Stormwater & Green Infrastructure
 
-My work in urban stormwater focuses on how rainfall becomes runoff in built environments, how green infrastructure can modify those processes, and how modeling tools can support design, implementation, and evaluation. This area of research connects hydrologic behavior, sustainable drainage practices, and urban flood mitigation.
+My work in urban stormwater focuses on how rainfall becomes runoff in built environments, how green infrastructure can modify those processes, and how modeling tools can support design, implementation, and evaluation. This area of research connects hydrologic behavior, sustainable drainage practices, and strategies for urban flood mitigation.
 
 ## Research Themes
 
