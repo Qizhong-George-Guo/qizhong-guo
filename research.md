@@ -6,43 +6,42 @@ permalink: /research
 
 # Research Contributions
 
-My research examines how water moves through natural and built environments and how engineering, environmental, and planning processes interact across different scales. Over the years, this work has included stormwater and green infrastructure systems, hydrologic and hydraulic modeling, estuarine processes, watershed studies, and integrated approaches to urban and coastal resilience.
+My research examines how water moves through natural and built environments and how engineering, environmental, and planning processes interact across scales. Over the years, this work has included urban stormwater and green infrastructure, hydrologic and hydraulic modeling, estuarine and coastal processes, watershed studies, and integrated approaches to urban and coastal resilience.
 
-This page provides an overview of the main areas in which I have worked. Each section links to a more detailed page with additional examples and selected publications.
+The five areas below reflect the major threads of my work and align with the Green–Grey–Blue–Smart (GGBS) Framework developed for integrated water and urban systems. Each topic links to a subpage with selected examples and publications.
 
 ---
 
 ## 1. Urban Stormwater & Green Infrastructure  
-Research on rainfall–runoff processes, green infrastructure performance, permeable surfaces, green roofs, and sponge-city concepts, with emphasis on modeling, hydrologic behavior, and urban flood mitigation.
+Research on rainfall–runoff processes, green infrastructure performance, permeable surfaces, green roofs, rain gardens, and sponge-city concepts, with emphasis on hydrologic behavior, field and laboratory studies, modeling, and urban flood mitigation.
 
 [Learn more →](/research/urban-stormwater)
 
 ---
 
 ## 2. Hydraulics, Hydrology & Hydroinformatics  
-Work involving flow dynamics, hydrologic–hydraulic modeling, stormwater system evaluation, environmental data analysis, and computational tools for supporting planning and design.
+Studies involving flow dynamics, hydrologic–hydraulic modeling, stormwater system evaluation, environmental data analysis, and computational tools. Topics include urban drainage, river hydraulics, and data-informed decision support for water systems.
 
 [Learn more →](/research/hydraulics-hydroinformatics)
 
 ---
 
-## 3. Estuarine Processes & Environmental Systems  
-Studies of physical processes in estuaries and tidally influenced coastal systems, including tidal motion and propagation, estuary–ocean exchange, bay–marsh flow and sediment exchange, and the environmental dynamics that support estuarine and coastal wetland systems.
+## 3. Estuarine & Coastal Processes  
+Research on tides, tidal propagation, estuary–ocean exchange, bay–marsh interactions, sediment transport, storm surge processes, coastal wetlands, and the environmental dynamics that shape estuaries and coastal systems.
 
 [Learn more →](/research/estuarine-processes)
 
 ---
 
 ## 4. Watershed & Basin-Scale Environmental Studies  
-Research on river systems, estuary–river interactions, environmental restoration, and watershed-scale resilience strategies. Examples include work related to the Mississippi River Basin and long-term environmental planning.
+Work on river systems, watershed hydrology, estuary–river linkages, environmental restoration, flood resilience, and large-scale planning. Examples include studies related to the Mississippi River Basin and long-term environmental strategies.
 
 [Learn more →](/research/watershed-basin-scale)
 
 ---
 
 ## 5. Integrated Water & Urban Systems (GGBS Framework)  
-A systems-based approach integrating natural processes, engineered infrastructure, and smart tools.  
-The **Green–Grey–Blue–Smart (GGBS) Framework** connects hydrology, hydraulics, stormwater, estuarine processes, and urban resilience.
+A synthesis-based approach integrating natural processes, engineered infrastructure, blue systems, and smart tools. The **Green–Grey–Blue–Smart (GGBS) Framework** connects hydrology, hydraulics, stormwater, estuarine processes, and urban resilience across pluvial, fluvial, and coastal domains.
 
 [Learn more →](/research/integrated-ggbs)
 
@@ -50,4 +49,4 @@ The **Green–Grey–Blue–Smart (GGBS) Framework** connects hydrology, hydraul
 
 ## Purpose of This Section
 
-This page organizes the major themes that have shaped my research over time. Subpages include selected examples and representative publications for each area. The emphasis is on clarity, organization, and connections across topics rather than exhaustive documentation.
+This page organizes the major themes that have shaped my research over time. Subpages provide selected examples and representative publications. The emphasis is on clarity, organization, and connections across topics rather than exhaustive documentation.
