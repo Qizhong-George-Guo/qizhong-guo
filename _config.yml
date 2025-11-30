@@ -2,20 +2,13 @@ title: "Qizhong (George) Guo"
 description: "Faculty page of Professor Qizhong (George) Guo, Civil & Environmental Engineering, Rutgers University–New Brunswick."
 theme: minima
 
-nav_links:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about
-  - title: "Research"
-    url: /research
-  - title: "Reflections"
-    url: /reflections
-  - title: "Teaching"
-    url: /teaching
-  - title: "Facilities"
-    url: /facilities
-  - title: "Publications"
-    url: /publications
-  - title: "Contact"
-    url: /contact
+# This controls which pages appear in the top navigation bar.
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - reflections.md
+  - teaching.md
+  - facilities.md
+  - publications/index.md
+  - contact.md
