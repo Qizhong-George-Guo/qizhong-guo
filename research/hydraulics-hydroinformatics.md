@@ -6,28 +6,34 @@ permalink: /research/hydraulics-hydroinformatics
 
 # Hydraulics, Hydrology & Hydroinformatics
 
-This work examines the movement of water in natural and engineered systems, using analytical methods, numerical models, and data-driven tools. Hydraulics and hydrology provide a foundation for many of my studies in urban drainage, river flow, coastal systems, and integrated water management.
+Hydraulics, hydrology, and hydroinformatics form the analytical foundation for much of my work in stormwater, rivers, estuaries, and broader water systems. These topics address how water flows through natural and engineered environments, how hydrologic and hydraulic processes interact across scales, and how computational and data-informed tools support analysis, planning, and design.
+
+This theme links closely with other research areas, including urban stormwater, watershed processes, and estuarine and coastal dynamics, and contributes directly to integrated approaches such as the Green–Grey–Blue–Smart (GGBS) Framework.
 
 ## Research Themes
 
-- Flow dynamics in natural and engineered channels  
-- Hydrologic–hydraulic modeling  
-- Urban drainage and stormwater system analysis  
-- Computational and numerical modeling  
-- Hydroinformatics and data-assisted decision support  
-- Design storm analysis and flood hydrology  
-- Engineering tools for water systems planning  
+- Open-channel flow, river hydraulics, and environmental fluid mechanics  
+- Hydrologic and hydraulic modeling of urban and natural watersheds  
+- Stormwater system evaluation and performance assessment  
+- Numerical modeling of flow, transport, and environmental processes  
+- Hydroinformatics and environmental data analysis  
+- Modeling-supported decision tools for planning and design  
+- Interactions among hydrology, hydraulics, and multi-hazard resilience  
+- Linkages between catchment processes and downstream estuarine/coastal dynamics  
 
 ## Selected Contributions
 
-Examples of work in this area include:  
-- Hydrodynamic and hydrologic modeling for planning and design,  
-- Stormwater system capacity assessment,  
-- Development and application of decision-support tools, and  
-- Integration of environmental data within hydraulic analyses.
+Representative areas of work include:
+
+- Hydrologic–hydraulic modeling of stormwater systems, river reaches, and watershed-scale processes  
+- Development and application of models for evaluating flow, water levels, and environmental conditions in rivers and estuaries  
+- Analysis of hydrologic responses to land use, rainfall patterns, and management practices  
+- Integration of hydrologic/hydraulic modeling with green infrastructure and hybrid (green–grey–blue) systems  
+- Use of environmental data and computational tools to support engineering design and planning  
+- Contributions to interdisciplinary collaboration in watershed, estuarine, and coastal studies  
 
 ## Related Publications
 
-Selected papers and reports relevant to this area will be included here.
+Selected publications relating to hydraulics, hydrology, and modeling applications will be added here.
 
 [Back to Research Contributions →](/research)
