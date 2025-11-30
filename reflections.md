@@ -26,6 +26,6 @@ To view all reflections when available, please visit the posts directory:
 
 ## Purpose of This Section
 
-The goal of Reflections & Synthesis is to make room for ideas that do not fit easily into conventional academic publications—ideas that bridge disciplines, summarize lessons from practice, or offer personal perspectives shaped by long-term engagement in water and environmental systems.
+The goal of **Reflections & Synthesis** is to make room for ideas that do not fit easily into conventional academic publications—ideas that bridge disciplines, summarize lessons from practice, or offer personal perspectives shaped by long-term engagement in water and environmental systems.
 
 Rather than providing exhaustive analysis, these reflections highlight connections, recurring themes, and broader insights that may be useful to students, colleagues, practitioners, or anyone interested in the interplay between engineering, environment, and society.
