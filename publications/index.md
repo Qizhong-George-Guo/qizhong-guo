@@ -34,10 +34,19 @@ Interviews, news features, and other media coverage.
 
 ---
 
-If you are looking for a comprehensive list of publications, please see:
+## Complete Publication Record
 
-- **Google Scholar:** <https://scholar.google.com/citations?user=WzasdJIAAAAJ&hl=en>  
-- **ORCID:** <https://orcid.org/my-orcid?orcid=0000-0001-5654-7740>
-- **ResearchGate:** <https://www.researchgate.net/profile/Qizhong-Guo-2/research>  
-- **CV (PDF):** [/files/cv/Guo_CV.pdf](/files/cv/Guo_CV.pdf)
+This **Publications & Reports** section, together with its subpages, serves as the primary and most complete record of my scholarly and professional work, including materials not captured in conventional academic databases.
+
+### Additional Indexes and Profiles
+For citation metrics and supplementary indexing, you may also consult:
+
+- **[Google Scholar](https://scholar.google.com/citations?user=WzasdJIAAAAJ&hl=en)**
+- **[ORCID](https://orcid.org/0000-0001-5654-7740)**
+- **[ResearchGate](https://www.researchgate.net/profile/Qizhong-Guo-2/research)**
+
+### Abbreviated CV
+A short, public-facing version of my CV (highlighting key academic positions, selected publications, major projects, and representative service) will be available soon.
+
+- *(Short CV placeholder — coming soon)*
 
