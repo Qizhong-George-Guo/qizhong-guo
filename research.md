@@ -40,14 +40,14 @@ Research on river systems, estuary–river interactions, environmental restorati
 
 ---
 
-## 5. Integrated Water & Urban Systems (GGBI Framework) 
-A systems-based approach integrating natural processes, engineered infrastructure, and intelligent tools. The Green–Grey–Blue–Intelligent (GGBI) Framework connects hydrology, hydraulics, stormwater, estuarine processes, and urban resilience.
+## 5. Integrated Water & Urban Systems (GGBS Framework)  
+A systems-based approach integrating natural processes, engineered infrastructure, and smart tools.  
+The **Green–Grey–Blue–Smart (GGBS) Framework** connects hydrology, hydraulics, stormwater, estuarine processes, and urban resilience.
 
-[Learn more →](https://qizhong-guo.org/research/integrated-ggbi) 
+[Learn more →](/research/integrated-ggbs)
 
 ---
 
 ## Purpose of This Section
 
 This page organizes the major themes that have shaped my research over time. Subpages include selected examples and representative publications for each area. The emphasis is on clarity, organization, and connections across topics rather than exhaustive documentation.
-
