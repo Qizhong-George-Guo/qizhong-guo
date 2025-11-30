@@ -45,8 +45,3 @@ A full CV is available for download:
 - [Download CV (PDF)](/files/cv/Guo_CV.pdf)
 
 *(Upload your CV to `/files/cv/Guo_CV.pdf` to activate this link.)*
-
----
-
-If you have questions or would like to connect, please visit the [Contact](/contact) page.
-
