@@ -71,8 +71,3 @@ For academic or professional inquiries:
 - **LinkedIn:** <https://www.linkedin.com/in/qizhong-george-guo-a351102/>
 
 For more details, see the full [Contact page →](/contact)
-
----
-
-© {{ site.time | date: "%Y" }} Qizhong (George) Guo — Rutgers University
-
