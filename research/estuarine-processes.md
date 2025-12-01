@@ -1,41 +1,38 @@
 ---
 layout: page
-title: "Estuarine & Coastal Processes"
-permalink: /research/estuarine-processes
+title: "Watershed & Basin-Scale Environmental Studies"
+permalink: /research/watershed-basin-scale
 ---
 
-# Estuarine & Coastal Processes
+# Watershed & Basin-Scale Environmental Studies
 
-Estuarine and coastal systems sit at the interface between watersheds and the ocean, where tides, river flows, waves, storm surge, and sediment processes interact across a wide range of spatial and temporal scales. My work in this area focuses on understanding the physics of these environments and how natural dynamics and human interventions influence water levels, circulation, sediment exchange, wetlands, and coastal resilience.
-
-This research connects directly with stormwater, watershed, and coastal hazard work, and contributes to integrated approaches such as the Green–Grey–Blue–Smart (GGBS) Framework.
+Watersheds connect upland hydrologic processes with downstream rivers, estuaries, and coastal systems. My work in this area focuses on hydrology, sediment processes, river–estuary linkages, environmental restoration, and large-scale planning for resilience. These studies integrate hydrologic, hydraulic, ecological, and management perspectives and align closely with the Green–Grey–Blue–Smart (GGBS) approach to system-level resilience.
 
 ## Research Themes
 
-- Tidal motion, tidal propagation, and estuarine circulation  
-- Estuary–ocean exchange and salinity intrusion  
-- Bay–marsh interactions, wetland hydrodynamics, and sediment deposition/erosion  
-- Wave dynamics, nearshore processes, and coastal morphology  
-- Storm surge dynamics and coastal flooding  
-- Multi-hazard interactions in estuarine and coastal zones  
-- Coupled watershed–estuary–coast system behavior  
-- Effects of infrastructure, dredging, and restoration interventions  
-- Modeling of tides, waves, surge, sediment transport, and estuarine flows  
+- Watershed hydrology, rainfall–runoff processes, and flow generation  
+- Riverine hydraulics, sediment transport, and channel–floodplain dynamics  
+- Linkages between watershed conditions and estuarine/coastal responses  
+- Water quality, ecosystem processes, and environmental restoration  
+- Watershed-scale flood risk, multi-hazard interactions, and mitigation strategies  
+- Basin-scale planning and long-term environmental strategies  
+- Effects of land use, climate variability, and watershed management practices  
+- Integrated assessment frameworks combining science, engineering, and policy  
 
 ## Selected Contributions
 
 Examples of work in this area include:
 
-- Modeling of tidal propagation, water levels, circulation, and salinity in estuaries and tidal rivers  
-- Studies of bay–marsh sediment exchange, wetland processes, and coastal ecosystem dynamics  
-- Analysis of wave–current interactions, nearshore processes, and shoreline change  
-- Investigation of storm surge behavior and coastal flooding impacts  
-- Evaluation of watershed influences on estuarine and coastal conditions  
-- Contributions to synthesis efforts linking inland hydrology with estuarine and coastal dynamics  
-- Integration of estuarine and coastal processes into broader resilience planning frameworks  
+- Analyses of watershed hydrology, sediment dynamics, and river–estuary interactions  
+- Studies of long-term flood risk, resilience strategies, and watershed-scale management  
+- Applied work on major systems, such as the Mississippi River Basin and tributary watersheds  
+- Environmental planning efforts addressing resilience, restoration, and system-wide impacts  
+- Integration of watershed modeling with downstream estuarine and coastal process studies  
+- Contributions to multi-scale synthesis connecting inland hydrology to coastal resilience  
+- Development of conceptual and planning frameworks for watershed-scale resilience  
 
 ## Related Publications
 
-Selected publications relating to estuarine and coastal hydrodynamics, sediment transport, wetlands, waves, and storm surge will be added here.
+Selected publications related to watershed hydrology, riverine processes, sediment transport, and basin-scale studies will be added here.
 
 [Back to Research Contributions →](/research)
