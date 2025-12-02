@@ -5,7 +5,7 @@ title: "Professor Qizhong (George) Guo"
 
 **Civil & Environmental Engineering – Rutgers University–New Brunswick**
 
-**Urban Stormwater • Estuarine Processes • Flood Resilience • GGBS Systems**
+**Urban Stormwater • Estuarine Processes • Flood Resilience • GGBI Systems**
 
 ---
 
@@ -21,7 +21,7 @@ This website provides an overview of selected research contributions, educationa
 
 ## Research Contributions
 
-My research spans several areas, including urban stormwater and green infrastructure, hydraulics and hydrology, estuarine processes, watershed studies, and integrated systems such as the Green–Grey–Blue–Smart (GGBS) framework.
+My research spans several areas, including urban stormwater and green infrastructure, hydraulics and hydrology, estuarine processes, watershed studies, and integrated systems such as the Green–Grey–Blue–Intelligent (GGBI) framework.
 
 [Explore Research →](/research)
 
