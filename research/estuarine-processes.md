@@ -6,7 +6,7 @@ permalink: /research/watershed-basin-scale
 
 # Watershed & Basin-Scale Environmental Studies
 
-Watersheds connect upland hydrologic processes with downstream rivers, estuaries, and coastal systems. My work in this area focuses on hydrology, sediment processes, river–estuary linkages, environmental restoration, and large-scale planning for resilience. These studies integrate hydrologic, hydraulic, ecological, and management perspectives and align closely with the Green–Grey–Blue–Smart (GGBS) approach to system-level resilience.
+Watersheds connect upland hydrologic processes with downstream rivers, estuaries, and coastal systems. My work in this area focuses on hydrology, sediment processes, river–estuary linkages, environmental restoration, and large-scale planning for resilience. These studies integrate hydrologic, hydraulic, ecological, and management perspectives and align closely with the Green–Grey–Blue–Intelligent (GGBI) approach to system-level resilience.
 
 ## Research Themes
 
