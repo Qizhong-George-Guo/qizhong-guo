@@ -19,7 +19,7 @@ At Rutgers University–New Brunswick, I have taught graduate-level courses incl
 - **Sediment Transport**  
 - **Analysis of Receiving Water Quality**
 
-These courses emphasize fundamental principles, modeling tools, and applications to real-world problems in urban water systems, estuarine and coastal environments, and water quality management.
+These courses emphasize fundamental principles, modeling tools, and applications to urban water systems, estuarine and coastal environments, and water quality management.
 
 ---
 
@@ -48,5 +48,5 @@ The lab complements classroom learning and helps students build intuition about 
 
 ## Broader Mentorship
 
-In addition to formal courses, mentorship has occurred through advising graduate and undergraduate students, participating in senior design projects, and engaging with professional communities and collaborative projects. Increasingly, mentorship also extends to sharing synthesized insights and materials for a wider audience beyond the classroom.
+Beyond formal courses, I have advised graduate and undergraduate students, supported senior design projects, and contributed to professional and collaborative activities in water resources and environmental engineering. Increasingly, mentorship also involves sharing synthesized insights, materials, and perspectives with wider audiences beyond the classroom.
 
