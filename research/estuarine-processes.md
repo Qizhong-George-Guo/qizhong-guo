@@ -1,38 +1,35 @@
 ---
 layout: page
-title: "Watershed & Basin-Scale Environmental Studies"
-permalink: /research/watershed-basin-scale
+title: "Estuarine Processes & Environmental Systems"
+permalink: /research/estuarine-processes
 ---
 
-# Watershed & Basin-Scale Environmental Studies
+# Estuarine Processes & Environmental Systems
 
-Watersheds connect upland hydrologic processes with downstream rivers, estuaries, and coastal systems. My work in this area focuses on hydrology, sediment processes, river–estuary linkages, environmental restoration, and large-scale planning for resilience. These studies integrate hydrologic, hydraulic, ecological, and management perspectives and align closely with the Green–Grey–Blue–Intelligent (GGBI) approach to system-level resilience.
+My research in estuarine processes focuses on the physical dynamics of estuaries and tidally influenced coastal systems. These studies examine how tides, flows, and sediment interact across channels, bays, marshes, and wetlands, and how these processes influence environmental, ecological, and management outcomes.
 
 ## Research Themes
 
-- Watershed hydrology, rainfall–runoff processes, and flow generation  
-- Riverine hydraulics, sediment transport, and channel–floodplain dynamics  
-- Linkages between watershed conditions and estuarine/coastal responses  
-- Water quality, ecosystem processes, and environmental restoration  
-- Watershed-scale flood risk, multi-hazard interactions, and mitigation strategies  
-- Basin-scale planning and long-term environmental strategies  
-- Effects of land use, climate variability, and watershed management practices  
-- Integrated assessment frameworks combining science, engineering, and policy  
+- Tidal motion and propagation  
+- Estuary–ocean exchange and salinity dynamics  
+- Bay–marsh flow, sediment exchange, and wetland stability  
+- Hydrodynamic processes shaping estuarine habitats and morphology  
+- Physical processes supporting coastal wetland and estuarine restoration  
+- Linkages between hydrodynamics, sediment processes, and environmental conditions  
+- Interactions between upriver freshwater inflows and coastal forcing  
 
 ## Selected Contributions
 
 Examples of work in this area include:
 
-- Analyses of watershed hydrology, sediment dynamics, and river–estuary interactions  
-- Studies of long-term flood risk, resilience strategies, and watershed-scale management  
-- Applied work on major systems, such as the Mississippi River Basin and tributary watersheds  
-- Environmental planning efforts addressing resilience, restoration, and system-wide impacts  
-- Integration of watershed modeling with downstream estuarine and coastal process studies  
-- Contributions to multi-scale synthesis connecting inland hydrology to coastal resilience  
-- Development of conceptual and planning frameworks for watershed-scale resilience  
+- Studies of tidal propagation and flow adjustment in estuarine channels  
+- Analyses of interactions among bays, tidal flats, and marsh systems  
+- Research on sediment transport affecting coastal wetland morphology and resilience  
+- Hydrodynamic and sediment studies used to support restoration and conservation planning  
+- Integration of estuarine processes with watershed and coastal system analyses  
 
 ## Related Publications
 
-Selected publications related to watershed hydrology, riverine processes, sediment transport, and basin-scale studies will be added here.
+Selected papers and reports related to estuarine hydrodynamics, sediment processes, and coastal environmental systems will be added here.
 
 [Back to Research Contributions →](/research)
