@@ -15,35 +15,35 @@ The five areas below reflect the major threads of my work and align with the Gre
 ## 1. Urban Stormwater & Green Infrastructure  
 Research on rainfall–runoff processes, green infrastructure performance, permeable surfaces, green roofs, rain gardens, and sponge-city concepts, with emphasis on hydrologic behavior, field and laboratory studies, modeling, and urban flood mitigation.
 
-[Learn more →](/research/urban-stormwater)
+[Learn more →](https://qizhong-guo.org/research/urban-stormwater)
 
 ---
 
 ## 2. Hydraulics, Hydrology & Hydroinformatics  
 Studies involving flow dynamics, hydrologic–hydraulic modeling, stormwater system evaluation, environmental data analysis, and computational tools. Topics include urban drainage, river hydraulics, and data-informed decision support for water systems.
 
-[Learn more →](/research/hydraulics-hydroinformatics)
+[Learn more →](https://qizhong-guo.org/research/hydraulics-hydroinformatics)
 
 ---
 
 ## 3. Estuarine & Coastal Processes  
 Research on tides, tidal propagation, estuary–ocean exchange, bay–marsh interactions, sediment transport, storm surge processes, coastal wetlands, and the environmental dynamics that shape estuaries and coastal systems.
 
-[Learn more →](/research/estuarine-processes)
+[Learn more →](https://qizhong-guo.org/research/estuarine-processes)
 
 ---
 
 ## 4. Watershed & Basin-Scale Environmental Studies  
 Work on river systems, watershed hydrology, estuary–river linkages, environmental restoration, flood resilience, and large-scale planning. Examples include studies related to the Mississippi River Basin and long-term environmental strategies.
 
-[Learn more →](/research/watershed-basin-scale)
+[https://qizhong-guo.org/research/watershed-basin-scale)
 
 ---
 
 ## 5. Integrated Water & Urban Systems (GGBI Framework)  
 A synthesis-based approach integrating natural processes, engineered infrastructure, blue systems, and intelligent tools. The **Green–Grey–Blue–Intelligent (GGBI) Framework** connects hydrology, hydraulics, stormwater, estuarine processes, and urban resilience across pluvial, fluvial, and coastal domains.
 
-[Learn more →](/research/integrated-ggbi)
+[Learn more →](https://qizhong-guo.org/research/integrated-ggbi)
 
 ---
 
