@@ -15,7 +15,7 @@ I am a professor of civil and environmental engineering at Rutgers University. M
 
 This website provides an overview of selected research contributions, educational activities, and written materials developed over the course of my career.
 
-[Learn More →](/about)
+[Learn More →](https://qizhong-guo.org/about)
 
 ---
 
@@ -23,7 +23,7 @@ This website provides an overview of selected research contributions, educationa
 
 My research spans several areas, including urban stormwater and green infrastructure, hydraulics and hydrology, estuarine processes, watershed studies, and integrated systems such as the Green–Grey–Blue–Intelligent (GGBI) framework.
 
-[Explore Research →](/research)
+[Explore Research →](https://qizhong-guo.org/research)
 
 ---
 
@@ -31,7 +31,7 @@ My research spans several areas, including urban stormwater and green infrastruc
 
 Occasional notes and distillations drawn from past and ongoing work in water and environmental systems. These pieces are added as time and interest permit.
 
-[View Reflections →](/reflections)
+[View Reflections →](https://qizhong-guo.org/reflections)
 
 ---
 
@@ -39,7 +39,7 @@ Occasional notes and distillations drawn from past and ongoing work in water and
 
 Graduate and undergraduate courses taught at Rutgers, selected educational materials, and broader mentorship through teaching, writing, and professional engagement.
 
-[Teaching Overview →](/teaching)
+[Teaching Overview →](https://qizhong-guo.org/teaching)
 
 ---
 
@@ -47,7 +47,7 @@ Graduate and undergraduate courses taught at Rutgers, selected educational mater
 
 A brief summary of laboratory and instructional facilities that have supported teaching, experimentation, and selected research activities in water resources and environmental systems.
 
-[View Facilities →](/facilities)
+[View Facilities →](https://qizhong-guo.org/facilities)
 
 ---
 
@@ -55,7 +55,7 @@ A brief summary of laboratory and instructional facilities that have supported t
 
 A curated collection of peer-reviewed papers, technical reports, invited presentations, grey literature, and selected public-facing writing. This section serves as a broader repository than conventional academic indexes.
 
-[Browse Publications →](/publications)
+[Browse Publications →](/https://qizhong-guo.org/publications)
 
 ---
 
