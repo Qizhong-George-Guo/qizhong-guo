@@ -36,7 +36,7 @@ Research on tides, tidal propagation, estuary–ocean exchange, bay–marsh inte
 ## 4. Watershed & Basin-Scale Environmental Studies  
 Work on river systems, watershed hydrology, estuary–river linkages, environmental restoration, flood resilience, and large-scale planning. Examples include studies related to the Mississippi River Basin and long-term environmental strategies.
 
-[Learn more →][https://qizhong-guo.org/research/watershed-basin-scale)
+[Learn more →](https://qizhong-guo.org/research/watershed-basin-scale)
 
 ---
 
