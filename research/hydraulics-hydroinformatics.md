@@ -6,9 +6,7 @@ permalink: /research/hydraulics-hydroinformatics
 
 # Hydraulics, Hydrology & Hydroinformatics
 
-Hydraulics, hydrology, and hydroinformatics form the analytical foundation for much of my work in stormwater, rivers, estuaries, and broader water systems. These topics address how water flows through natural and engineered environments, how hydrologic and hydraulic processes interact across scales, and how computational and data-informed tools support analysis, planning, and design.
-
-This theme links closely with other research areas, including urban stormwater, watershed processes, and estuarine and coastal dynamics, and contributes directly to integrated approaches such as the Green–Grey–Blue–Smart (GGBS) Framework.
+Hydraulics, hydrology, and hydroinformatics provide the analytical foundation for understanding water movement in natural and built environments. Work in this area examines how water flows through rivers, channels, stormwater systems, and estuarine networks; how hydrologic and hydraulic processes interact across scales; and how computational and data-informed tools support analysis, planning, and design. These topics connect directly to other research areas, including urban stormwater, watershed processes, and estuarine and coastal dynamics, and contribute to integrated approaches such as the Green–Grey–Blue–Intelligent (GGBI) Framework.
 
 ## Research Themes
 
@@ -28,7 +26,7 @@ Representative areas of work include:
 - Hydrologic–hydraulic modeling of stormwater systems, river reaches, and watershed-scale processes  
 - Development and application of models for evaluating flow, water levels, and environmental conditions in rivers and estuaries  
 - Analysis of hydrologic responses to land use, rainfall patterns, and management practices  
-- Integration of hydrologic/hydraulic modeling with green infrastructure and hybrid (green–grey–blue) systems  
+- Integration of hydrologic and hydraulic modeling with green infrastructure and hybrid (green–grey–blue) systems  
 - Use of environmental data and computational tools to support engineering design and planning  
 - Contributions to interdisciplinary collaboration in watershed, estuarine, and coastal studies  
 
