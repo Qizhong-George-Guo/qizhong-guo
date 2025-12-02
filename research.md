@@ -8,7 +8,7 @@ permalink: /research
 
 My research examines how water moves through natural and built environments and how engineering, environmental, and planning processes interact across scales. Over the years, this work has included urban stormwater and green infrastructure, hydrologic and hydraulic modeling, estuarine and coastal processes, watershed studies, and integrated approaches to urban and coastal resilience.
 
-The five areas below reflect the major threads of my work and align with the Green–Grey–Blue–Smart (GGBS) Framework developed for integrated water and urban systems. Each topic links to a subpage with selected examples and publications.
+The five areas below reflect the major threads of my work and align with the Green–Grey–Blue–Intelligent (GGBI) Framework developed for integrated water and urban environments. Each topic links to a subpage with selected examples and publications.
 
 ---
 
@@ -40,10 +40,10 @@ Work on river systems, watershed hydrology, estuary–river linkages, environmen
 
 ---
 
-## 5. Integrated Water & Urban Systems (GGBS Framework)  
-A synthesis-based approach integrating natural processes, engineered infrastructure, blue systems, and smart tools. The **Green–Grey–Blue–Smart (GGBS) Framework** connects hydrology, hydraulics, stormwater, estuarine processes, and urban resilience across pluvial, fluvial, and coastal domains.
+## 5. Integrated Water & Urban Systems (GGBI Framework)  
+A synthesis-based approach integrating natural processes, engineered infrastructure, blue systems, and intelligent tools. The **Green–Grey–Blue–Intelligent (GGBI) Framework** connects hydrology, hydraulics, stormwater, estuarine processes, and urban resilience across pluvial, fluvial, and coastal domains.
 
-[Learn more →](/research/integrated-ggbs)
+[Learn more →](/research/integrated-ggbi)
 
 ---
 
