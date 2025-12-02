@@ -55,7 +55,7 @@ A brief summary of laboratory and instructional facilities that have supported t
 
 A curated collection of peer-reviewed papers, technical reports, invited presentations, grey literature, and selected public-facing writing. This section serves as a broader repository than conventional academic indexes.
 
-[Browse Publications →](/https://qizhong-guo.org/publications)
+[Browse Publications →](https://qizhong-guo.org/publications)
 
 ---
 
