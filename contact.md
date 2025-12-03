@@ -4,8 +4,6 @@ title: "Contact"
 permalink: /contact
 ---
 
-# Contact
-
 If you would like to get in touch, please use the links below.
 
 ---
