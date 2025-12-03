@@ -4,8 +4,6 @@ title: "Facilities"
 permalink: /facilities
 ---
 
-# Facilities
-
 The laboratory and instructional facilities I have used at Rutgers have supported coursework, student learning, senior design projects, and selected research activities in water resources, hydraulics, stormwater systems, and environmental processes. While my recent work has focused more on synthesis, modeling, and broader environmental systems, these facilities have played an important role throughout my teaching and scholarly activities.
 
 This page provides an overview of the primary facilities I have worked with over the years.
