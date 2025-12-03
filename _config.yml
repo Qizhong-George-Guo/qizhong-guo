@@ -29,8 +29,8 @@ header_pages:
   - contact.md
 
 # Resulting header will look like:
-# [Home]  About | Research Contributions | Reflections & Synthesis | Teaching & Mentorship | Facilities | Publications & Reports | Contact
-# ("Home" is the site title on the left; clicking it returns to the homepage.)
+# [Qizhong (George) Guo]  About | Research Contributions | Reflections & Synthesis | Teaching & Mentorship | Facilities | Publications & Reports | Contact
+# ("Qizhong (George) Guo" is the site title on the left; clicking it returns to the homepage.)
 
 # ---------------------------------------
 # Minima Theme Settings
