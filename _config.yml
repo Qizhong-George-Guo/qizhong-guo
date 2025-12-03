@@ -16,6 +16,23 @@ plugins:
   - jekyll-seo-tag
 
 # ---------------------------------------
+# Navigation (Header Layout)
+# ---------------------------------------
+# These pages will appear in the top navigation bar, in this order.
+header_pages:
+  - about.md
+  - research.md
+  - reflections.md
+  - teaching.md
+  - facilities.md
+  - publications.md
+  - contact.md
+
+# Resulting header will look like:
+# [Home]  About | Research Contributions | Reflections & Synthesis | Teaching & Mentorship | Facilities | Publications & Reports | Contact
+# ("Home" is the site title on the left; clicking it returns to the homepage.)
+
+# ---------------------------------------
 # Minima Theme Settings
 # ---------------------------------------
 minima:
@@ -28,7 +45,7 @@ minima:
     - { platform: researchgate,  user_url: "https://www.researchgate.net/profile/Qizhong-Guo" }
 
 # ---------------------------------------
-# Markdown & Collections
+# Collections & Posts
 # ---------------------------------------
 collections:
   posts:
@@ -41,13 +58,12 @@ collections:
 permalink: pretty
 
 # ---------------------------------------
-# Favicon (Optional but recommended)
+# Favicon (Optional)
 # ---------------------------------------
-# Place your favicon.ico at /favicon.ico in the root directory
-# GitHub Pages will automatically detect it.
+# Place your favicon.ico at /favicon.ico in the root directory.
 
 # ---------------------------------------
-# Exclusions (Optional cleanup)
+# Exclusions
 # ---------------------------------------
 exclude:
   - README.md
@@ -55,3 +71,4 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+
