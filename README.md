@@ -1,13 +1,30 @@
-# Professor Qizhong (George) Guo - Faculty Website
+# Professor Qizhong (George) Guo – Faculty Website
 
-This repository hosts the source code and content for the personal faculty website of **Professor Qizhong (George) Guo**.
+This repository hosts the source code and content for the personal faculty website of **Professor Qizhong (George) Guo**, Department of Civil & Environmental Engineering, Rutgers University–New Brunswick.
 
-It serves as a central document of Professor Guo's academic work, including research publications, teaching materials, and professional service contributions.
+The site provides a central record of Professor Guo’s academic and professional work, including research contributions, publications, teaching materials, invited talks, and reflections developed over the course of his career.
 
-**[Visit the Live Website Here](https://qizhong-guo.org/)**
+**🔗 Live Website:** <https://qizhong-guo.org/>
 
 ---
 
 ## Repository Contents
-* **Source Code:** Website structure and styling.
-* **Documentation:** Digital archive of research and projects.
+
+- **Source Code:**  
+  Structure, layout, and styling used to generate the static website via GitHub Pages.
+
+- **Content Files:**  
+  Research summaries, course information, publications, technical reports, media links, and other scholarly materials.
+
+- **Documentation:**  
+  An organized digital archive of projects, research areas, and selected professional activities.
+
+---
+
+## Notes
+
+This repository is updated periodically as new publications, reports, or materials become available.  
+Professor Guo also maintains a complementary site describing the **Green–Grey–Blue–Intelligent (GGBI) Framework**, an integrated approach to water and urban resilience:
+
+- <https://ggbi.ai>  *(optional link — remove if preferred)*
+
