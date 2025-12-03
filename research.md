@@ -4,8 +4,6 @@ title: "Research Contributions"
 permalink: /research
 ---
 
-# Research Contributions
-
 My research examines how water moves through natural and built environments and how engineering, environmental, and planning processes interact across scales. Over the years, this work has included urban stormwater and green infrastructure, hydrologic and hydraulic modeling, estuarine and coastal processes, watershed studies, and integrated approaches to urban and coastal resilience.
 
 The five areas below reflect the major threads of my work and align with the Green–Grey–Blue–Intelligent (GGBI) Framework developed for integrated water and urban environments. Each topic links to a subpage with selected examples and publications.
