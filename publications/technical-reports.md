@@ -6,14 +6,18 @@ permalink: /publications/technical-reports
 
 # Technical Reports
 
-This section includes applied studies, collaborative reports, planning documents, and project-based work. Reports will be added gradually as files are collected and organized.
+This section includes applied studies, collaborative reports, planning documents, and project-based work completed over the years. Reports will be added gradually as files are collected and organized.
 
-Example types of reports include:  
+Examples of technical report topics include:
+
 - stormwater and hydrologic assessments,  
-- estuarine or tidal system analyses,  
-- watershed restoration studies, and  
-- resilience and planning documents.
+- estuarine and tidal system analyses,  
+- watershed restoration and environmental studies,  
+- flood resilience, adaptation, and planning documents, and  
+- applied studies conducted for agencies or collaborative research teams.
 
-(Reports will be listed here.)
+*(Reports will be listed here.)*
+
+---
 
 [Back to Publications & Reports →](/publications)
