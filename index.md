@@ -1,7 +1,3 @@
-# Professor Qizhong (George) Guo
-
-**Civil & Environmental Engineering – Rutgers University–New Brunswick**
-
 ---
 layout: home
 title: "Professor Qizhong (George) Guo"
