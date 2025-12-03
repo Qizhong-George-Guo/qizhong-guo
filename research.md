@@ -8,6 +8,8 @@ My research examines how water moves through natural and built environments and 
 
 The five areas below reflect the major threads of my work and align with the Green–Grey–Blue–Intelligent (GGBI) Framework developed for integrated water and urban environments. Each topic links to a subpage with selected examples and publications.
 
+See also the **GGBI Framework** at <https://ggbi.ai>.
+
 ---
 
 ## 1. Urban Stormwater & Green Infrastructure  
