@@ -4,8 +4,6 @@ title: "Publications & Reports"
 permalink: /publications
 ---
 
-# Publications & Reports
-
 This section provides a curated collection of selected publications, technical reports, invited presentations, grey literature, and media contributions. It offers a more complete and accessible record of my scholarly and professional work than conventional academic indexes.
 
 Please select a category below to explore specific materials.
