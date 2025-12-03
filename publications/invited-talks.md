@@ -6,8 +6,4 @@ permalink: /publications/invited-talks
 
 # Invited Talks & Presentations
 
-This section includes invited academic, professional, and public talks. Slide decks or summaries will be linked when available.
-
-(Invited presentations will be added here.)
-
-[Back to Publications & Reports →](/publications)
+This section includes invited academic, professional, and public talks delivered over the years. Slide decks, summaries, or related
