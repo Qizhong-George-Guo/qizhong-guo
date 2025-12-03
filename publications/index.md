@@ -6,7 +6,7 @@ permalink: /publications
 
 # Publications & Reports
 
-This section provides a curated collection of selected publications, technical reports, invited presentations, grey literature, and media contributions. It is designed to offer a more complete and accessible record of my scholarly and professional work than conventional academic indexes.
+This section provides a curated collection of selected publications, technical reports, invited presentations, grey literature, and media contributions. It offers a more complete and accessible record of my scholarly and professional work than conventional academic indexes.
 
 Please select a category below to explore specific materials.
 
@@ -14,31 +14,32 @@ Please select a category below to explore specific materials.
 
 ### Peer-Reviewed Publications  
 Selected journal papers with brief descriptions and links to full text when available.  
-[View →](/publications/peer-reviewed)
+[View →](https://qizhong-guo.org/publications/peer-reviewed)
 
 ### Technical Reports  
 Applied studies, collaborative reports, and project documents.  
-[View →](/publications/technical-reports)
+[View →](https://qizhong-guo.org/publications/technical-reports)
 
 ### Invited Talks & Presentations  
-Invited academic, professional, and public talks with selected slides or summaries.  
-[View →](/publications/invited-talks)
+Invited academic, professional, and public talks, with selected slides or summaries.  
+[View →](https://qizhong-guo.org/publications/invited-talks)
 
 ### Grey Literature & Essays  
-Policy briefs, commentary pieces, explanatory notes, and public-facing writing.  
-[View →](/publications/grey-literature)
+Policy briefs, commentary pieces, explanatory notes, and other public-facing writing.  
+[View →](https://qizhong-guo.org/publications/grey-literature)
 
 ### Media & Outreach  
 Interviews, news features, and other media coverage.  
-[View →](/publications/media-outreach)
+[View →](https://qizhong-guo.org/publications/media-outreach)
 
 ---
 
 ## Complete Publication Record
 
-This **Publications & Reports** section, together with its subpages, serves as the primary and most complete record of my scholarly and professional work, including materials not captured in conventional academic databases.
+This **Publications & Reports** section and its subpages together serve as the primary and most complete archive of my scholarly and professional work, including materials not captured in conventional academic databases.
 
 ### Additional Indexes and Profiles
+
 For citation metrics and supplementary indexing, you may also consult:
 
 - **[Google Scholar](https://scholar.google.com/citations?user=WzasdJIAAAAJ&hl=en)**
@@ -46,7 +47,7 @@ For citation metrics and supplementary indexing, you may also consult:
 - **[ResearchGate](https://www.researchgate.net/profile/Qizhong-Guo-2/research)**
 
 ### Abbreviated CV
-A short, public-facing version of my CV (highlighting key academic positions, selected publications, major projects, and representative service) will be available soon.
+A short, public-facing version of my CV—highlighting key academic positions, selected publications, major projects, and representative service—will be available soon.
 
 - *(Short CV placeholder — coming soon)*
 
