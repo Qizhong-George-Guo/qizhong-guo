@@ -4,8 +4,6 @@ title: "Teaching & Mentorship"
 permalink: /teaching
 ---
 
-# Teaching & Mentorship
-
 My teaching has focused on water resources and environmental systems, with an emphasis on connecting physical processes, engineering analysis, and practical applications. Over the years at Rutgers, I have taught both graduate and undergraduate courses and supervised the Fluid Mechanics Instructional Laboratory.
 
 ---
