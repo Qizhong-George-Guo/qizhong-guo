@@ -4,8 +4,6 @@ title: "About"
 permalink: /about
 ---
 
-# About
-
 ## Short Biography
 
 I am a professor of civil and environmental engineering at Rutgers University–New Brunswick. My work focuses on how water moves through natural and built environments, with research spanning stormwater management, hydraulics and hydrology, estuarine processes, watershed systems, and integrated approaches to water and urban resilience.
