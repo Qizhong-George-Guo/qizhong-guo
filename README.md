@@ -26,5 +26,5 @@ The site provides a central record of Professor Guo’s academic and professiona
 This repository is updated periodically as new publications, reports, or materials become available.  
 Professor Guo also maintains a complementary site describing the **Green–Grey–Blue–Intelligent (GGBI) Framework**, an integrated approach to water and urban resilience:
 
-- <https://ggbi.ai>  *(optional link — remove if preferred)*
+- <https://ggbi.ai>  
 
