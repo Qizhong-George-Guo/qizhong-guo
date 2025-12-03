@@ -1,12 +1,57 @@
-description: "Faculty page of Professor Qizhong (George) Guo, Civil & Environmental Engineering, Rutgers University–New Brunswick."
-theme: minima
+# ---------------------------------------
+# Site Identity
+# ---------------------------------------
+title: "Home"
+description: "Faculty website of Professor Qizhong (George) Guo, Civil & Environmental Engineering, Rutgers University–New Brunswick."
+url: "https://qizhong-guo.org"
+baseurl: ""   # Do not change for apex domain
 
-header_pages:
-  - index.md
-  - about.md
-  - research.md
-  - reflections.md
-  - teaching.md
-  - facilities.md
-  - publications/index.md
-  - contact.md
+# ---------------------------------------
+# Build Settings
+# ---------------------------------------
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# ---------------------------------------
+# Minima Theme Settings
+# ---------------------------------------
+minima:
+  skin: classic
+  social_links:
+    - { platform: github,        user_url: "https://github.com/Qizhong-George-Guo" }
+    - { platform: linkedin,      user_url: "https://www.linkedin.com/in/qizhong-george-guo-a351102/" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=WzasdJIAAAAJ" }
+    - { platform: orcid,         user_url: "https://orcid.org/0000-0001-5654-7740" }
+    - { platform: researchgate,  user_url: "https://www.researchgate.net/profile/Qizhong-Guo" }
+
+# ---------------------------------------
+# Markdown & Collections
+# ---------------------------------------
+collections:
+  posts:
+    output: true
+    permalink: /reflections/posts/:title/
+
+# ---------------------------------------
+# Permalinks
+# ---------------------------------------
+permalink: pretty
+
+# ---------------------------------------
+# Favicon (Optional but recommended)
+# ---------------------------------------
+# Place your favicon.ico at /favicon.ico in the root directory
+# GitHub Pages will automatically detect it.
+
+# ---------------------------------------
+# Exclusions (Optional cleanup)
+# ---------------------------------------
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
