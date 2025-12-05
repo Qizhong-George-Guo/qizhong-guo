@@ -18,7 +18,7 @@ New pieces will be added here as they are completed.
 
 To view all reflections when available, please visit the posts directory:
 
-[View All Posts →](https://qizhong-guo.org/reflections/posts)
+[View All Posts →](https://www.linkedin.com/in/qizhong-george-guo-a351102/recent-activity/all/)
 
 ---
 
