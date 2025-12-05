@@ -25,8 +25,6 @@ These courses emphasize fundamental principles, modeling tools, and applications
 
 ## Undergraduate Teaching
 
-## Undergraduate Teaching
-
 At the undergraduate level, I have taught:
 
 - **Fluid Mechanics** (over the first two decades of my career at Rutgers)  
