@@ -61,10 +61,6 @@ A curated collection of peer-reviewed papers, technical reports, invited present
 
 ## Contact
 
----
-
-## Contact
-
 For academic or professional inquiries or collaborations, you may reach me through the Contact page.  
 Please visit the link below for email and additional information.
 
