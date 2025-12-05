@@ -38,6 +38,7 @@ Since joining Rutgers, I have supervised the **Fluid Mechanics Instructional Lab
 Experiments and instructional modules I have used include:
 
 - demonstrations of fundamental hydraulic principles,  
+- measurement of fluid properties (such as density, viscosity, and surface tension),  
 - flow measurement devices,  
 - flumes and channels for flow visualization, and  
 - setups illustrating pressure, momentum, and energy concepts.
@@ -50,10 +51,10 @@ This facility has helped many generations of students connect theoretical concep
 
 Depending on instructional or project needs, I have used laboratory equipment such as:
 
-- small-scale demonstration flumes,  
+- medium-scale demonstration flumes,  
 - rainfall–runoff and infiltration setups,  
-- sediment-related demonstration units,  
-- environmental sensors and measurement tools, and  
+- sediment-related and wave-motion demonstration units,  
+- environmental sensors and measurement tools (including field-deployed instruments for stormwater runoff quantity and quality monitoring, estuarine flow depth and velocity measurements, and water-quality sensing),  
 - computational resources for hydrologic and hydraulic modeling.
 
 These tools have supported classroom instruction, senior design projects, and selected research initiatives.
