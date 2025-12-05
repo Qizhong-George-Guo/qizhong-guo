@@ -36,10 +36,5 @@ Beyond the university, his work has engaged with broader professional and public
 
 ---
 
-## Curriculum Vitae
-
-A full CV is available for download:
-
-- [Download CV (PDF)](/files/cv/Guo_CV.pdf)
 
 *(Upload your CV to `/files/cv/Guo_CV.pdf` to activate this link.)*
