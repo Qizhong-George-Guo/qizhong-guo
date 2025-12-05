@@ -18,6 +18,16 @@ In this lab, I have used equipment for demonstrating fluid flow concepts, visual
 
 ---
 
+### Related Links
+
+- **School of Engineering – Labs & Facilities Overview**  
+  <https://soe.rutgers.edu/research/labs-and-facilities>
+
+- **Short Video: Fluid Mechanics Demonstration**  
+  <https://www.youtube.com/shorts/i6UWeyN_LcM>
+
+---
+
 ## Fluid Mechanics Instructional Laboratory
 
 Since joining Rutgers, I have supervised the **Fluid Mechanics Instructional Laboratory**, which provides hands-on experience for undergraduate students in the Fluid Mechanics course.
