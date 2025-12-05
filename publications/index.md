@@ -44,8 +44,4 @@ For citation metrics and supplementary indexing, you may also consult:
 - **[ORCID](https://orcid.org/0000-0001-5654-7740)**
 - **[ResearchGate](https://www.researchgate.net/profile/Qizhong-Guo-2/research)**
 
-### Abbreviated CV
-A short, public-facing version of my CV—highlighting key academic positions, selected publications, major projects, and representative service—will be available soon.
-
-- *(Short CV placeholder — coming soon)*
 
