@@ -13,7 +13,7 @@ title: "Qizhong (George) Guo"
 
 I am a professor of civil and environmental engineering at Rutgers University. My work focuses on how water moves through natural and built environments, with research and teaching spanning stormwater, hydrology, hydraulics, estuarine processes, watershed systems, and integrated water and urban infrastructure.
 
-This website offers an overview of selected research contributions, educational activities, and written materials developed over the course of my career.
+This website provides an overview of selected research contributions, educational activities, and written materials developed over the course of my career.
 
 [Learn More →](https://qizhong-guo.org/about)
 
@@ -21,9 +21,9 @@ This website offers an overview of selected research contributions, educational 
 
 ## Research Contributions
 
-My research covers urban stormwater and green infrastructure, hydraulics and hydrology, estuarine processes, watershed studies, and integrated systems such as the Green–Grey–Blue–Intelligent (GGBI) framework.
+My research spans urban stormwater and green infrastructure; hydraulics and hydrology; estuarine and coastal processes; watershed and basin-scale studies; and integrated systems such as the Green–Grey–Blue–Intelligent (GGBI) framework.
 
-This section highlights selected projects, case studies, and conceptual frameworks developed with students and collaborators.
+Current work emphasizes resilient, sustainable, and equitable water and urban systems across scales—from site-based practices to watershed and regional planning.
 
 [Explore Research →](https://qizhong-guo.org/research)
 
@@ -31,9 +31,7 @@ This section highlights selected projects, case studies, and conceptual framewor
 
 ## Reflections & Synthesis
 
-Occasional notes and distillations drawn from past and ongoing work in water and environmental systems, written with an eye toward long-term patterns and lessons learned.
-
-These pieces are added as time and interest permit and are intended to bridge technical details with broader perspectives.
+Occasional notes and distillations drawn from past and ongoing work in water and environmental systems. These pieces reflect on lessons learned, emerging questions, and connections across projects and disciplines.
 
 [View Reflections →](https://qizhong-guo.org/reflections)
 
@@ -41,9 +39,9 @@ These pieces are added as time and interest permit and are intended to bridge te
 
 ## Teaching & Mentorship
 
-Graduate and undergraduate courses taught at Rutgers, including materials related to water resources, environmental systems, and infrastructure resilience.
+Graduate and undergraduate courses taught at Rutgers, along with selected educational materials and course-related resources.
 
-This section also reflects broader mentorship through advising, course design, and professional engagement with students and colleagues.
+This section also highlights broader mentorship through teaching, advising, collaborative projects, and professional engagement with students and colleagues.
 
 [Teaching Overview →](https://qizhong-guo.org/teaching)
 
@@ -51,9 +49,9 @@ This section also reflects broader mentorship through advising, course design, a
 
 ## Facilities
 
-Laboratory and instructional facilities that support teaching, experimentation, and selected research activities in water resources and environmental systems.
+A brief overview of laboratory and instructional facilities that support teaching, experimentation, and selected research in water resources and environmental systems.
 
-These include hydraulic and hydrologic teaching laboratories and experimental setups used in both coursework and student projects.
+These facilities include flumes, hydraulic and hydrologic apparatus, and other tools used in coursework, student projects, and collaborative studies.
 
 [View Facilities →](https://qizhong-guo.org/facilities)
 
@@ -63,7 +61,7 @@ These include hydraulic and hydrologic teaching laboratories and experimental se
 
 A curated collection of peer-reviewed papers, technical reports, invited presentations, grey literature, and selected public-facing writing.
 
-This section serves as a broader repository than conventional academic indexes and is updated periodically as new work becomes available.
+This section serves as a broader repository than conventional academic indexes, documenting work across research, practice, and outreach.
 
 [Browse Publications →](https://qizhong-guo.org/publications)
 
@@ -73,6 +71,9 @@ This section serves as a broader repository than conventional academic indexes a
 
 For academic or professional inquiries or collaborations, you may reach me through the Contact page.
 
-Please visit the link below for email and additional contact information.
+Please visit the link below for email and additional information.
 
-[
+[Contact Information →](https://qizhong-guo.org/contact)
+
+---
+
