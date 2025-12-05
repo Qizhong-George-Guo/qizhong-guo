@@ -35,6 +35,3 @@ He also supervised the Fluid Mechanics Instructional Laboratory for more than th
 Beyond the university, his work has engaged with broader professional and public audiences through invited talks, technical reports, media interviews, and applied studies in the United States and China. His recent efforts increasingly emphasize synthesis—integrating concepts across hydrology, hydraulics, estuarine processes, and urban systems—and exploring the potential role of AI in engineering education and communication.
 
 ---
-
-
-*(Upload your CV to `/files/cv/Guo_CV.pdf` to activate this link.)*
