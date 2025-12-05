@@ -20,11 +20,14 @@ In this lab, I have used equipment for demonstrating fluid flow concepts, visual
 
 ### Related Links
 
-- **School of Engineering – Labs & Facilities Overview**  
-  <https://soe.rutgers.edu/research/labs-and-facilities>
-
 - **Short Video: Fluid Mechanics Demonstration**  
   <https://www.youtube.com/shorts/i6UWeyN_LcM>
+  
+- **Rutgers CEE Research Laboratories**  
+  <https://cee.rutgers.edu/research-laboratories>
+
+- **School of Engineering – Labs & Facilities Overview**  
+  <https://soe.rutgers.edu/research/labs-and-facilities>
 
 ---
 
