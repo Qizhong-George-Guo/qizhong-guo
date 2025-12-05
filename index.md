@@ -61,8 +61,13 @@ A curated collection of peer-reviewed papers, technical reports, invited present
 
 ## Contact
 
-For academic or professional inquiries:
+---
 
-- **Email:** qguo@rutgers.edu
+## Contact
 
-### University & Professional Links
+For academic or professional inquiries or collaborations, you may reach me through the Contact page.  
+Please visit the link below for email and additional information.
+
+[Contact Information →](https://qizhong-guo.org/contact)
+
+---
