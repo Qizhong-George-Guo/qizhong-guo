@@ -25,12 +25,14 @@ These courses emphasize fundamental principles, modeling tools, and applications
 
 ## Undergraduate Teaching
 
+## Undergraduate Teaching
+
 At the undergraduate level, I have taught:
 
 - **Fluid Mechanics** (over the first two decades of my career at Rutgers)  
 - **Senior Capstone Design in Water Resources and Environmental Engineering**
 
-The Fluid Mechanics course, together with the associated instructional laboratory, has introduced generations of students to the fundamentals of fluid behavior in engineering contexts. The Senior Capstone Design course has provided an opportunity for students to integrate knowledge across hydrology, hydraulics, design, and environmental considerations.
+The Fluid Mechanics course, together with the associated instructional laboratory, has introduced generations of students to the fundamentals of fluid behavior and its applications in engineering systems. The Senior Capstone Design course has provided an opportunity for students to work on actual project sites, integrating knowledge across hydrology, hydraulics, design, and environmental considerations and applying it to real-world engineering problems.
 
 ---
 
