@@ -182,7 +182,7 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Fowler, G. D., Roseen, R. M., Ballestero, T. P., Guo, Q., Houle, J. (2009). Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Kansas City, Missouri, May 17–21. <a href="https://doi.org/10.1061/41036(342)150">https://doi.org/10.1061/41036(342)150</a></li>
 
-<li>Boxer, C., Nickens, A., Guo, Q. (2009). “Beneficiation and Utilization of Fly Ash Containing Mercury-Impregnated Activated Carbon.” Proceedings of the World of Coal Ash (WOCA) Conference, Lexington, Kentucky, May 4–7.</li>
+<li>Boxer, C., Nickens, A., Guo, Q. (2009). “Beneficiation and Utilization of Fly Ash Containing Mercury-Impregnated Activated Carbon.” Proceedings of the World of Coal Ash (WOCA) Conference, Lexington, Kentucky, May 4–7. <a href="https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=2080&context=woca">https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=2080&context=woca</a></li>
 
 <li>Guo, Q. (2008). “Urban Flood Management in the USA.” Proceedings of the Advanced Symposium on New Technologies for Urban Flood Forecast and Warning, Dongguan, China, November 19–21.</li>
 
