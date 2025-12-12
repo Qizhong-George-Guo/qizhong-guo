@@ -164,7 +164,7 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Guo, Q., Correa, C. A. (2013). “The Impacts of Green Infrastructure on Flood Level Reduction for the Raritan River: Modeling Assessment.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Cincinnati, Ohio, May 19–23. <a href="https://doi.org/10.1061/9780784412947.035">https://doi.org/10.1061/9780784412947.035</a></li>
 
-<li>Xu, H., Guo, Q., Chen, Y. (2012). “The impacts of radar-precipitation-estimation on streamflow simulation with HSPF.” Remote Sensing and Hydrology. IAHS Special Publication 352. Proceedings of IAHS Symposium, Jackson Hole, Wyoming, September 27–30, 2010.</li>
+<li>Xu, H., Guo, Q., Chen, Y. (2012). “The impacts of radar-precipitation-estimation on streamflow simulation with HSPF.” Remote Sensing and Hydrology. IAHS Special Publication 352. Proceedings of IAHS Symposium, Jackson Hole, Wyoming, September 27–30, 2010, Neale, C. M.U. and Cosh, M. H. (eds.). <a href="https://www.abebooks.com/Remote-Sensing-Hydrology-Proceedings-Symposium-2010/12076172075/bd">https://www.abebooks.com/Remote-Sensing-Hydrology-Proceedings-Symposium-2010/12076172075/bd</a></li>
 
 <li>Guo, Q. (2012). “Hydrologic and Water Quality Restoration of Mining Areas.” Papers on the Treatment of Subsidence Regions in Mining Area of the 9th Sino-American Technology and Engineering Conference, Beijing, China, April 15–22.</li>
 
