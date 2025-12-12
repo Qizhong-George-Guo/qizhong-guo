@@ -1,8 +1,6 @@
 # Peer-Reviewed Publications
 
-This page provides a **selected list of representative journal publications**. Additional items will be added over time. As with other sections of this faculty site, it serves as the primary and most complete record of my scholarly work, including materials not captured in conventional academic indexes.
-
-*(Selected publications will be added here.)*
+This page provides a **list of journal and conference publications**. Additional items will be added over time. As with other sections of this faculty site, it serves as the primary and most complete record of my scholarly work, including materials not captured in conventional academic indexes.
 
 ## Refereed Journal Papers
 
