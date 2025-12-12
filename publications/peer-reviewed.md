@@ -60,7 +60,7 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Li, X., Guo, Q., Wang, Y., Xu, J., Wei, Q., Chen, L., Liao, L. (2020). “Enhancing Nitrogen and Phosphorus Removal by Applying Effective Microorganisms to Constructed Wetlands.” <em>Water</em>, 12(9), 2443. <a href="https://doi.org/10.3390/w12092443">https://doi.org/10.3390/w12092443</a></li>
 
-<li>Li, M., Guo, Q., Lian, J., Chen, L. (2020). “A calculation method for assessing the social benefits of a sponge city: a case study for the Peiyang Campus, Tianjin University.” <em>Earth Science Frontiers</em>, 27(3), 1–9 (in Chinese with English abstract). <a href="https://doi.org/10.13745/j.esf.sf.2020.0.0">https://doi.org/10.13745/j.esf.sf.2020.0.0</a></li>
+<li>Li, M., Guo, Q., Lian, J., Chen, L. (2020). “A calculation method for assessing the social benefits of a sponge city: a case study for the Peiyang Campus, Tianjin University.” <em>Earth Science Frontiers</em>, 27(3), 1–9, (in Chinese with English abstract). <a href="DOI: 10.13745/j.esf.sf.2020.0.0">https://ccj.pku.edu.cn/article/info?aid=253753967</a></li>
 
 <li>Guo, X., Guo, Q., Zhou, Z., Du, P., Zhao, D. (2019). “Degrees of hydrologic restoration by low impact development practices under different runoff volume capture goals.” <em>Journal of Hydrology</em>, 578, 124069. <a href="https://doi.org/10.1016/j.jhydrol.2019.124069">https://doi.org/10.1016/j.jhydrol.2019.124069</a></li>
 
@@ -74,7 +74,7 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Sun, Q., Deng, H., Cao, C., Ma, C., Guo, Q., Chen, L. (2019). “Oxygenation performance evaluation of an improved MABR.” <em>Journal of Hydroelectric Engineering</em>, 38(1), 75–85 (in Chinese with English abstract).</li>
 
-<li>Kang, H., Chen, L., Guo, Q., Lian, J., Hou, J. (2019). “An overview of quantification of groundwater recharge in sponge city construction.” <em>Earth Science Frontiers</em>, 26(6): 58–65 (in Chinese with English abstract). <a href="https://doi.org/10.18745/j.esf.sf.2019.8.7">https://doi.org/10.18745/j.esf.sf.2019.8.7</a></li>
+<li>Kang, H., Chen, L., Guo, Q., Lian, J., Hou, J. (2019). “An overview of quantification of groundwater recharge in sponge city construction.” <em>Earth Science Frontiers</em>, 26(6): 58–65 (in Chinese with English abstract). <a href="https://doi.org/10.18745/j.esf.sf.2019.8.7">https://ccj.pku.edu.cn/article/info?aid=243510971</a></li>
 
 <li>Zhao, J., Jin, J., Xu, J., Guo, Q., Hang, Q., Chen, Y. (2018). “Risk assessment of flood disaster and forewarning model at different spatial-temporal scales.” <em>Theoretical and Applied Climatology</em>, 132, 791–808. <a href="https://doi.org/10.1007/s00704-017-2086-9">https://doi.org/10.1007/s00704-017-2086-9</a></li>
 
