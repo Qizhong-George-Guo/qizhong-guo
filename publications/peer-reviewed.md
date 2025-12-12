@@ -178,7 +178,7 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Fernandez, V., Guo, Q. (2009). “Water Quality Design Storm for Hydrodynamic Separators.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Kansas City, Missouri, May 17–21. <a href="https://doi.org/10.1061/41036(342)163">https://doi.org/10.1061/41036(342)163</a></li>
 
-<li>Gulliver, J. S., Guo, Q., Sansalone, J. J., Williams, G., Wu, J. S. (2009). “Proposed scaling relations for manufactured stormwater BMP.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Kansas City, Missouri, May 17–21.</li>
+<li>Gulliver, J. S., Guo, Q., Sansalone, J. J., Williams, G., Wu, J. S. (2009). “Proposed scaling relations for manufactured stormwater BMP.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Kansas City, Missouri, May 17–21. <a href="https://doi.org/10.1061/41036(342)145">https://doi.org/10.1061/41036(342)145</a></li>
 
 <li>Fowler, G. D., Roseen, R. M., Ballestero, T. P., Guo, Q., Houle, J. (2009). Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Kansas City, Missouri, May 17–21. <a href="https://doi.org/10.1061/41036(342)150">https://doi.org/10.1061/41036(342)150</a></li>
 
