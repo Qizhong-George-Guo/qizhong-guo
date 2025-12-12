@@ -170,9 +170,9 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Guo, Q. (2011). “Water Environment Protection and Restoration.” Proceedings of the Cross-Strait Conference on Water Resources, Wuhan, China, October 24–25. (in Chinese)</li>
 
-<li>Guo, Q., Kim, J. (2011). “Information for Inspection and Maintenance of Stormwater Manufactured Treatment Devices.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Palm Springs, California, May 22–26.</li>
+<li>Guo, Q., Kim, J. (2011). “Information for Inspection and Maintenance of Stormwater Manufactured Treatment Devices.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Palm Springs, California, May 22–26. <a href="https://doi.org/10.1061/41173(414)374">https://doi.org/10.1061/41173(414)374</a></li>
 
-<li>Kim, J., Guo, Q. (2011). “Maintenance Interval for Stormwater Hydrodynamic Separators.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Palm Springs, California, May 22–26. <a href="https://doi.org/10.1061/41173(414)374">https://doi.org/10.1061/41173(414)374</a></li>
+<li>Kim, J., Guo, Q. (2011). “Maintenance Interval for Stormwater Hydrodynamic Separators.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Palm Springs, California, May 22–26. <a href="https://doi.org/10.1061/41173(414)68">https://https://doi.org/10.1061/41173(414)68</a></li>
 
 <li>Guo, Q., Kim, J. (2010). “Quantity and Quality of Stormwater Solids Trapped by Hydrodynamic Separators at Highway Sites.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Providence, Rhode Island, May 16–20. <a href="https://doi.org/10.1061/41114(371)339">https://doi.org/10.1061/41114(371)339</a></li>
 
