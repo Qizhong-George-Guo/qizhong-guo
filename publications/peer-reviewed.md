@@ -214,7 +214,7 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Guo, Q. (2002). “Variability of Net Mass Transport through Estuary–Ocean and Estuary–Marsh Boundaries.” Proceedings of the 2nd International Workshop on Coastal Eutrophication, Tianjin, China, November 21–24.</li>
 
-<li>Guo, Q., Psuty, N. P., Pinheiro, C. G., Sankararamakrishnan, N., Pace, J. P. (2001). “The Coastal Ocean as Source as Well as Sink of Nitrogen to an Estuary.” Proceedings of the 3rd International Symposium on Environmental Hydraulics, Tempe, Arizona, December 5–8, CD-ROM.</li>
+<li>Guo, Q., Psuty, N. P., Pinheiro, C. G., Sankararamakrishnan, N., Pace, J. P. (2001). “The Coastal Ocean as Source as Well as Sink of Nitrogen to an Estuary.” Proceedings of the 3rd International Symposium on Environmental Hydraulics, Tempe, Arizona, December 5–8, CD-ROM. <a href=" https://www.researchgate.net/publication/266736439_The_Coastal_Ocean_as_Source_as_Well_as_Sink_of_Nitrogen_to_an_Estuary"> https://www.researchgate.net/publication/266736439_The_Coastal_Ocean_as_Source_as_Well_as_Sink_of_Nitrogen_to_an_Estuary</a></li> 
 
 <li>Fan, C.-Y., Guo, Q., Raghavan, R., Field, R. (2001). “Sewer Sediment Gate and Vacuum Flushing: Laboratory Flume Studies.” Proceedings of the 3rd International Symposium on Environmental Hydraulics, Tempe, Arizona, December 5–8, CD-ROM.</li>
 
