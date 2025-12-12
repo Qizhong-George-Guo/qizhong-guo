@@ -11,7 +11,7 @@ Please select a category below to explore specific materials.
 ---
 
 ### Peer-Reviewed Publications  
-Selected journal and conference papers with links to full text when available.  
+Journal and conference papers with links to abstracts or full text when available.  
 [View →](https://qizhong-guo.org/publications/peer-reviewed)
 
 ### Technical Reports  
