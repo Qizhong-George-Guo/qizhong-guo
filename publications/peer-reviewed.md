@@ -208,7 +208,7 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Guo, Q. (2004). “Reengineering of Urban Storm Water Management Facilities.” IDS–Water Americas 2004, Internet Conference, May 10–28. <a href="https://www.researchgate.net/publication/357689339_Reengineering_of_Urban_Storm_Water_Management_Facilities">https://www.researchgate.net/publication/357689339_Reengineering_of_Urban_Storm_Water_Management_Facilities</a></li>  
 
-<li>Li, C., Guo, Q. (2003). “Integrated Point and Nonpoint Source Modeling of Fecal Coliform in Whippany Watershed, New Jersey.” Proceedings of the World Water & Environmental Resources Congress, Philadelphia, PA, June 22–26.</li>
+<li>Li, C., Guo, Q. (2003). “Integrated Point and Nonpoint Source Modeling of Fecal Coliform in Whippany Watershed, New Jersey.” Proceedings of the World Water & Environmental Resources Congress, Philadelphia, PA, June 22–26. <a href="https://doi.org/10.1061/40685(2003)293">https://doi.org/10.1061/40685(2003)293</a></li> 
 
 <li>Decker, T., Guo, Q. (2003). “Drainage Evaluations of a Proposed Stormwater Detention Basin Retrofit.” Proceedings of the World Water & Environmental Resources Congress, Philadelphia, PA, June 22–26. <a href="https://doi.org/10.1061/40685(2003)288">https://doi.org/10.1061/40685(2003)288</a></li>
 
