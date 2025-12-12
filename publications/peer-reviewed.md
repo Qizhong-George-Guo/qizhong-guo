@@ -166,8 +166,6 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Guo, Q., Correa, C. A. (2013). “The Impacts of Green Infrastructure on Flood Level Reduction for the Raritan River: Modeling Assessment.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Cincinnati, Ohio, May 19–23. <a href="https://doi.org/10.1061/9780784412947.035">https://doi.org/10.1061/9780784412947.035</a></li>
 
-<li>Xu, H., Guo, Q., Chen, Y. (2012). “The impacts of radar-precipitation-estimation on streamflow simulation with HSPF.” Remote Sensing and Hydrology. IAHS Special Publication 352. Proceedings of IAHS Symposium, Jackson Hole, Wyoming, September 27–30, 2010, Neale, C. M.U. and Cosh, M. H. (eds.). <a href="https://www.abebooks.com/Remote-Sensing-Hydrology-Proceedings-Symposium-2010/12076172075/bd">https://www.abebooks.com/Remote-Sensing-Hydrology-Proceedings-Symposium-2010/12076172075/bd</a></li>
-
 <li>Guo, Q. (2012). “Hydrologic and Water Quality Restoration of Mining Areas.” Papers on the Treatment of Subsidence Regions in Mining Area of the 9th Sino-American Technology and Engineering Conference, Beijing, China, April 15–22.</li>
 
 <li>Guo, Q. (2011). “Water Environment Protection and Restoration.” Proceedings of the Cross-Strait Conference on Water Resources, Wuhan, China, October 24–25. (in Chinese)</li>
@@ -175,6 +173,8 @@ This page provides a **list of my refereed journal publications and conference p
 <li>Guo, Q., Kim, J. (2011). “Information for Inspection and Maintenance of Stormwater Manufactured Treatment Devices.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Palm Springs, California, May 22–26. <a href="https://doi.org/10.1061/41173(414)68">https://https://doi.org/10.1061/41173(414)68</a></li>
 
 <li>Kim, J., Guo, Q. (2011). “Maintenance Interval for Stormwater Hydrodynamic Separators.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Palm Springs, California, May 22–26. <a href="https://doi.org/10.1061/41173(414)374">https://doi.org/10.1061/41173(414)374</a></li>
+
+<li>Xu, H., Guo, Q., Chen, Y. (2010). “The impacts of radar-precipitation-estimation on streamflow simulation with HSPF.” Remote Sensing and Hydrology. IAHS Special Publication 352. Proceedings of IAHS Symposium, Jackson Hole, Wyoming, September 27–30, 2010, Neale, C. M.U. and Cosh, M. H. (eds.). <a href="https://www.abebooks.com/Remote-Sensing-Hydrology-Proceedings-Symposium-2010/12076172075/bd">https://www.abebooks.com/Remote-Sensing-Hydrology-Proceedings-Symposium-2010/12076172075/bd</a></li>
 
 <li>Guo, Q., Kim, J. (2010). “Quantity and Quality of Stormwater Solids Trapped by Hydrodynamic Separators at Highway Sites.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Providence, Rhode Island, May 16–20. <a href="https://doi.org/10.1061/41114(371)339">https://doi.org/10.1061/41114(371)339</a></li>
 
@@ -223,8 +223,6 @@ This page provides a **list of my refereed journal publications and conference p
 <li>Sankararamakrishnan, N., Guo, Q. (2001). “Use of Chemical Tracers to Detect the Presence of Sanitary Sewage at Storm Water Outfall.” Proceedings of the World Water & Environmental Resources Congress, Orlando, Florida, May 20–24. <a href="https://doi.org/10.1061/40569(2001)212">https://doi.org/10.1061/40569(2001)212</a></li>
 
 <li>Guo, Q., Agnoli, N. W., Zhang, N. P., Hayes, B. D. (2000). “Hydraulic and Water Quality Performance of Urban Storm Water Detention Basin Before and After Outlet Modification.” Proceedings of the Joint Conference on Water Resources Engineering and Water Resources Planning and Management, Minneapolis, Minnesota, July 30–August 2. <a href="https://doi.org/10.1061/40517(2000)174">https://doi.org/10.1061/40517(2000)174</a></li>
-
-<li>Guo, Q., Psuty (1999). “Nitrogen Flux through Barnegat Inlet: Measurement and Analysis of Its Variability.” Abstracts of the 15th Biennial International Conference of the Estuarine Research Foundation, New Orleans, Louisiana, September 25–30, p. 43.</li>
 
 <li>Guo, Q. (1997). “Flushing Time in Estuaries: A Method for Quantification with Unknown Amount of Freshwater Input.” <em>Environmental and Coastal Hydraulics: Protecting the Aquatic Habitat</em>, Proceedings of the 27th IAHR Congress, San Francisco, California, August 10–15. ASCE, Vol. 1, 737–742.</li>
 
