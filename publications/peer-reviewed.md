@@ -188,9 +188,9 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Guo, Q., England, G., Johnston, C. E. (2008). “Development of Certification Guidelines for Manufactured Stormwater BMPs.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Honolulu, Hawaii, May 12–16. <a href="https://doi.org/10.1061/40976(316)17">https://doi.org/10.1061/40976(316)17</a></li>
 
-<li>Gulliver, J. S., Guo, Q., Wu, J. S. (2008). “Scaling relations for manufactured stormwater BMPs.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Honolulu, Hawaii, May 12–16.</li>
+<li>Gulliver, J. S., Guo, Q., Wu, J. S. (2008). “Scaling relations for manufactured stormwater BMPs.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Honolulu, Hawaii, May 12–16.  <a href="https://doi.org/10.1061/40976(316)20">https://doi.org/10.1061/40976(316)20</a></li> 
 
-<li>Hunt, W. F., England, G., DeBruijn, H., Gee, R., Guo, Q., Lord, W., Miller, M., Mosheni, O., Perry, S. (2008). “Inspection and Maintenance Guidance for Manufactured BMPs.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Honolulu, Hawaii, May 12–16.</li>
+<li>Hunt, W. F., England, G., DeBruijn, H., Gee, R., Guo, Q., Lord, W., Miller, M., Mosheni, O., Perry, S. (2008). “Inspection and Maintenance Guidance for Manufactured BMPs.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Honolulu, Hawaii, May 12–16. <a href="https://doi.org/10.1061/40976(316)19">https://doi.org/10.1061/40976(316)19</a></li>
 
 <li>Guo, Q. (2007). “Effect of Particle Size on Difference between TSS and SSC Measurements.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Tampa, Florida, May 15–19. <a href="https://doi.org/10.1061/40927(243)56">https://doi.org/10.1061/40927(243)56</a></li>
 
