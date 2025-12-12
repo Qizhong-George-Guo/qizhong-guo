@@ -251,6 +251,7 @@ For citation metrics and supplementary indexing, you may also consult:
 - **[Google Scholar](https://scholar.google.com/citations?user=WzasdJIAAAAJ&hl=en)**
 - **[ORCID](https://orcid.org/0000-0001-5654-7740)**
 - **[ResearchGate](https://www.researchgate.net/profile/Qizhong-Guo-2)**
+ 
 ---
 
 Back to **[Publications & Reports →](/publications)**
