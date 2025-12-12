@@ -154,11 +154,13 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Guo, Q. (2018). “Mitigating Combined Sewer Overflow (CSO) and Restoring Urban Water Environment.” Proceedings of the Sustainable Cities: The iSEE Congress 2018, University of Illinois at Urbana-Champaign, October 5.</li>
 
-<li>Richter, S., Roche, C., Guo, Q. (2016). “Low Impact Stormwater Management Development at Rutgers University.” Proceedings of the 2016 International Low Impact Development Conference, Beijing, China, June 26–29.</li>
+<li>Richter, S., Roche, C., Guo, Q. (2016). “Low Impact Stormwater Management Development at Rutgers University.” Proceedings of the 2016 International Low Impact Development Conference, Beijing, China, June 26–29. <a href="https://www.researchgate.net/publication/323648959_Low_Impact_Stormwater_Management_Development_at_Rutgers_University
+">https://www.researchgate.net/publication/323648959_Low_Impact_Stormwater_Management_Development_at_Rutgers_University
+</a></li> 
 
 <li>Guo, Q. (2014). “Green and Adaptive Flood Risk Reduction Strategies for Rebuilding in the Aftermath of Superstorm Sandy.” Proceedings of the 18th Cross-Strait Conference on Water Resources, Xi’an, China, October 20–25.</li>
 
-<li>Guo, Q., Kantor, P., Roberts, F., Robinson, D., Correa, C. A., Cignarella, B. (2014). “Risk Analysis for Flood Mitigation on the Raritan.” Proceedings of the 6th International Conference on Flood Management, São Paulo, Brazil, September 16–18.</li>
+<li>Guo, Q., Kantor, P., Roberts, F., Robinson, D., Correa, C. A., Cignarella, B. (2014). “Risk Analysis for Flood Mitigation on the Raritan.” Proceedings of the 6th International Conference on Flood Management, São Paulo, Brazil, September 16–18. <a href="https://www.researchgate.net/publication/354647284_RISK_ANALYSIS_FOR_FLOOD_MITIGATION_ON_THE_RARITAN">https://www.researchgate.net/publication/354647284_RISK_ANALYSIS_FOR_FLOOD_MITIGATION_ON_THE_RARITAN</a></li>
 
 <li>Guo, Q. (2013). “Development of Flood Risk Reduction Strategies in the Aftermath of Hurricane Sandy.” Proceedings of the 17th Cross-Strait Conference on Water Resources, Miaoli, Taiwan, November 14–15.</li>
 
