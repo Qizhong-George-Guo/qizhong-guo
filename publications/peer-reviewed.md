@@ -1,4 +1,4 @@
-This page provides a **list of journal and conference publications**. Additional items will be added over time. As with other sections of this faculty site, it serves as the primary and most complete record of my scholarly work, including materials not captured in conventional academic indexes.
+This page provides a **list of my refereed journal publications and conference papers**. Additional items will be added over time. As with other sections of this faculty site, it serves as the primary and most complete record of my scholarly work, including materials not captured in conventional academic indexes.
 
 ## Refereed Journal Papers
 
