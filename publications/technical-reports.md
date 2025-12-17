@@ -20,7 +20,7 @@ Examples of technical report topics include:
 
 - applied studies conducted for government agencies and interdisciplinary research teams.
 
-
+---
 
 <ol reversed start="56">
 
@@ -96,7 +96,7 @@ Examples of technical report topics include:
 
 <li>Guo, Q. (2005). <em>NJCAT Technology Verification, Hydrointernational.</em> Prepared for New Jersey Corporation for Advanced Technology, Bordentown, NJ, February.</li>
 
-<li>Guo, Q., Psuty, N. P., Lordi, G. P., Glenn, S., Mund, M., and Gastrich, M. D. (2004). <em>Hydrographic Study of Barnegat Bay.</em> Research Project Summary, NJDEP Division of Science, Research, and Technology, July, 4 pages. Available from: <a href="http://www.state.nj.us/dep/dsr/research/hydrographic.pdf">http://www.state.nj.us/dep/dsr/research/hydrographic.pdf</a></li>
+<li>Guo, Q., Psuty, N. P., Lordi, G. P., Glenn, S., Mund, M., and Gastrich, M. D. (2004). <em>Hydrographic Study of Barnegat Bay.</em> Research Project Summary, NJDEP Division of Science, Research, and Technology, July, 4 pages. Available from: <a href="https://dspace.njstatelib.org/items/409cc387-3eb9-42d7-93d0-56672a28066c">https://dspace.njstatelib.org/items/409cc387-3eb9-42d7-93d0-56672a28066c</a></li>
 
 <li>Guo, Q. (2004). “Further Comments on Drainage Plan for Proposed ABN Realty – Metro Stars Site.” Submitted to Planning Board, Pequannock Township, New Jersey, March 15.</li>
 
