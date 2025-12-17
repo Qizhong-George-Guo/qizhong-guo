@@ -6,16 +6,21 @@ permalink: /publications/technical-reports
 
 # Technical Reports
 
-This section includes applied studies, collaborative reports, planning documents, and project-based work completed over the years. Reports will be added gradually as files are collected and organized.
+This section documents applied and project-based technical work, including collaborative studies, planning reports, and agency-supported investigations completed over the years. These reports emphasize the translation of scientific and engineering knowledge into practice. Additional materials will be added as reports are archived and organized.
 
 Examples of technical report topics include:
 
-- stormwater and hydrologic assessments,  
-- estuarine and tidal system analyses,  
-- watershed restoration and environmental studies,  
-- flood resilience, adaptation, and planning documents, and  
-- applied studies conducted for agencies or collaborative research teams.
+- stormwater and hydrologic evaluations,
 
+- estuarine, tidal, and coastal system analyses,
+
+- watershed restoration and environmental assessments,
+
+- flood resilience, adaptation, and planning efforts, and
+
+- applied studies conducted for government agencies and interdisciplinary research teams.
+
+ 
 56. Guo, Q., Miskewitz, R., Hencken, J., Zheng, L., and Meneses, D. (2023). Evaluation of Coefficient Related to Runoff from Roadway Projects. Final Report, FHWA NJ-2023-004, Submitted to New Jersey Department of Transportation and Federal Highway Administration, March, 125 pages. https://rosap.ntl.bts.gov/view/dot/67353
 55. Imhoff, P. T., Chiu, P. C., and Guo, Q. (2015). Enhancing Nitrogen Removal in Stormwater Treatment Facilities for Transportation, Center for Advanced Infrastructure and Transportation-University Transportation Center, CAIT-UTC-045, January, 27 pages. https://rosap.ntl.bts.gov/view/dot/28811
 54. Guo, Q., Byrne, B., Gong, J., Krishnamoorthy, R., and Mayer, H. (2014). Strategies for Flood Risk Reduction for Vulnerable Coastal Populations along Arthur Kill at Elizabeth, Linden, Rahway, Carteret and Woodbridge. Final Report, Submitted to New Jersey Governor’s Office of Recovery and Rebuilding and New Jersey Department of Environmental Protection, August, 136 pages. https://www.nj.gov/dep/docs/flood/final-studies/rutgers-arthur-kill/arthur-kill-study-area-flood-mitigation-final-report.pdf
