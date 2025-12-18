@@ -82,7 +82,7 @@ Examples of technical report topics include:
 
 <li>Guo, Q. (2006). <em>NJCAT Technology Verification, Terre Kleen.</em> Prepared for New Jersey Corporation for Advanced Technology, Bordentown, NJ, December.</li>
 
-<li>Guo, Q. (2006). <em>Correlation of Total Suspended Solids (TSS) and Suspended Sediment Concentration (SSC) Test Methods.</em> Final Report, Submitted to New Jersey Department of Environmental Protection, November. <a href="https://dspace.njstatelib.org/items/62affce1-5ead-4156-bd5f-ef5d0675d9eb/full">PDF</a></li>
+<li>Guo, Q. (2006). <em>Correlation of Total Suspended Solids (TSS) and Suspended Sediment Concentration (SSC) Test Methods.</em> Final Report, Submitted to New Jersey Department of Environmental Protection, November. <a href="https://dspace.njstatelib.org/items/62affce1-5ead-4156-bd5f-ef5d0675d9eb/full">Link</a></li>
 
 <li>Guo, Q. (2006). <em>Watershed Modeling to Support Post Brook Stormwater Management Plan Development.</em> Submitted to New Jersey Department of Environmental Protection, September.</li>
 
@@ -96,7 +96,7 @@ Examples of technical report topics include:
 
 <li>Guo, Q. (2005). <em>NJCAT Technology Verification, Hydrointernational.</em> Prepared for New Jersey Corporation for Advanced Technology, Bordentown, NJ, February.</li>
 
-<li>Guo, Q., Psuty, N. P., Lordi, G. P., Glenn, S., Mund, M., and Gastrich, M. D. (2004). <em>Hydrographic Study of Barnegat Bay.</em> Research Project Summary, NJDEP Division of Science, Research, and Technology, July, 4 pages. <a href="https://dspace.njstatelib.org/items/409cc387-3eb9-42d7-93d0-56672a28066c">PDF</a></li>
+<li>Guo, Q., Psuty, N. P., Lordi, G. P., Glenn, S., Mund, M., and Gastrich, M. D. (2004). <em>Hydrographic Study of Barnegat Bay.</em> Research Project Summary, NJDEP Division of Science, Research, and Technology, July, 4 pages. <a href="https://dspace.njstatelib.org/items/409cc387-3eb9-42d7-93d0-56672a28066c">link</a></li>
   
 <li>Guo, Q. (2004). “Further Comments on Drainage Plan for Proposed ABN Realty – Metro Stars Site.” Submitted to Planning Board, Pequannock Township, New Jersey, March 15.</li>
 
