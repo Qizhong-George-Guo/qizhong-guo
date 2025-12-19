@@ -98,11 +98,11 @@ Examples of technical report topics include:
 
 <li>Guo, Q., Psuty, N. P., Lordi, G. P., Glenn, S., Mund, M., and Gastrich, M. D. (2004). <em>Hydrographic Study of Barnegat Bay.</em> Research Project Summary, NJDEP Division of Science, Research, and Technology, July, 4 pages. <a href="https://dspace.njstatelib.org/items/409cc387-3eb9-42d7-93d0-56672a28066c">Link</a></li>
   
-<li>Guo, Q. (2004). “Further Comments on Drainage Plan for Proposed ABN Realty – Metro Stars Site.” Submitted to Planning Board, Pequannock Township, New Jersey, March 15.</li>
+<li>Guo, Q. (2004). “Further Comments on Drainage Plan for a Proposed Development Site.” Submitted to Planning Board, Pequannock Township, New Jersey, March 15.</li>
 
 <li>Guo, Q. (2004). <em>Hydraulics of Roberts Filter Underdrain: Laboratory Testing.</em> Final Report, Prepared for Camp Dresser &amp; McKee Inc., Edison, NJ, February.</li>
 
-<li>Guo, Q. (2004). “Comments on Drainage Plan for Proposed ABN Realty – Metro Stars Site.” Submitted to Planning Board, Pequannock Township, New Jersey, January 19.</li>
+<li>Guo, Q. (2004). “Comments on Drainage Plan for a Proposed Development Site.” Submitted to Planning Board, Pequannock Township, New Jersey, January 19.</li>
 
 <li>Guo, Q., Wu, H., and Sankararamakrishnan, N. (2003). <em>Development of a Numerical Model for Assessing the Impact of Raw Water Quality on Conventional Drinking Water Treatment.</em> Final Report, Submitted to NJDEP, Trenton, NJ, December, 141 pages. <a href="https://www.researchgate.net/publication/357679765_Development_of_a_Numerical_Model_for_Assessing_the_Impact_of_Raw_Water_Quality_on_Conventional_Drinking_Water_Treatment">Link</a></li>
 
