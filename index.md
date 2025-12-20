@@ -91,3 +91,9 @@ Please visit the link below for email and additional information.
 
 ---
 
+<p style="font-size: 0.85rem; color: #666; margin-top: 2rem;">
+  This faculty website was initiated in November 2025 and is being developed as a living archive of research, teaching, and professional activities.
+</p>
+
+---
+
