@@ -74,7 +74,6 @@ This section includes invited academic, professional, and public talks delivered
 <li><strong>119.</strong> “Delineation of small flat watershed with high-resolution DEM from Terrestrial Laser Scanning.” ASCE-EWRI World Environmental & Water Resources Congress, Virtual Event, June 9, 2021 (with Diego Meneses).</li>
 <li><strong>118.</strong> “Ecosystem Restoration through Removal of Tidal Flow Restrictions: Impact on Upstream Flooding under Combined Influence of Rainfall and Tide.” ASCE-EWRI World Environmental & Water Resources Congress, Minneapolis, MN, June 6, 2018.</li>
 <li><strong>117.</strong> “Utilization of Rainwater Power to Drain Floodwater from Low-lying Areas.” ASCE-EWRI World Environmental & Water Resources Congress, Minneapolis, MN, June 6, 2018.</li>
-<li><strong>116.</strong> “Food-Energy-Water Nexus: Rainwater and Wastewater” Workshop on Resiliency in Urban Food, Energy, and Water Systems, Department of Human Ecology, Office of Agriculture and Urban Programs, GAIA, & Rutgers Energy Institute, Rutgers University, New Brunswick, NJ, February 3, 2017.</li>
 </ul>
 
 
