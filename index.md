@@ -6,7 +6,7 @@ title: "Qizhong (George) Guo"
 <div class="home-intro">
   <figure class="home-portrait">
     <img
-      src="/assets/img/guo-portrait.jpg"
+      src="/assets/img/portrait/guo-portrait.jpg"
       alt="Portrait of Qizhong Guo"
       loading="lazy"
     />
