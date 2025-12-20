@@ -3,9 +3,23 @@ layout: home
 title: "Qizhong (George) Guo"
 ---
 
-**Civil & Environmental Engineering – Rutgers University–New Brunswick**
+<div class="home-intro">
+  <figure class="home-portrait">
+    <img
+      src="/assets/img/guo-portrait.jpg"
+      alt="Portrait of Qizhong Guo"
+      loading="lazy"
+    />
+  </figure>
 
-**Urban Stormwater • Estuarine Processes • Flood Resilience • GGBI Systems**
+  <div class="home-intro-text">
+    <p>
+      Professor of Civil &amp; Environmental Engineering at Rutgers University–New Brunswick.
+      Research interests include urban stormwater, estuarine processes, flood resilience,
+      and Green–Grey–Blue–Intelligent (GGBI) systems.
+    </p>
+  </div>
+</div>
 
 ---
 
