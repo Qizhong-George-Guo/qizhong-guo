@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Qizhong (George) Guo"
+title: "Qizhong Guo"
 ---
 
 **Civil & Environmental Engineering – Rutgers University–New Brunswick**
