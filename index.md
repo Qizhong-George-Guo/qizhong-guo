@@ -27,7 +27,7 @@ title: "Qizhong (George) Guo"
 
 I am a professor of civil and environmental engineering at Rutgers University. My work focuses on how water moves through natural and built environments, with research and teaching spanning stormwater, hydrology, hydraulics, estuarine processes, watershed systems, and integrated water and urban infrastructure.
 
-This website provides an overview of selected research contributions, educational activities, and written materials developed over the course of my career.
+The site provides a central record of my academic and professional work, including research contributions, publications, teaching materials, invited talks, and reflections developed over the course of my career.
 
 [Learn More →](https://qizhong-guo.org/about)
 
