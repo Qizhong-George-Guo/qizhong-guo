@@ -71,7 +71,7 @@ This section includes invited academic, professional, and public talks delivered
 <li><strong>120.</strong> “Drainage Alternatives for Rain Gardens on Subsoil of Low Permeability: Balance among Ponding Time, Soil Moisture, and Runoff Reduction.” ASCE-EWRI World Environmental & Water Resources Congress, Virtual Event, June 9, 2021 (with Zikai Zhou).</li>
 <li><strong>119.</strong> “Delineation of small flat watershed with high-resolution DEM from Terrestrial Laser Scanning.” ASCE-EWRI World Environmental & Water Resources Congress, Virtual Event, June 9, 2021 (with Diego Meneses).</li>
 <li><strong>118.</strong> “Ecosystem Restoration through Removal of Tidal Flow Restrictions: Impact on Upstream Flooding under Combined Influence of Rainfall and Tide.” ASCE-EWRI World Environmental & Water Resources Congress, Minneapolis, MN, June 6, 2018.</li>
-<li><strong>117.</strong> “Utilization of Rainwater Power to Drain Floodwater from Low-lying Areas.” ASCE-EWRI World Environmental & Water Resources Congress, Minneapolis, MN, June 6, 2018.</li>
+<li><strong>117.</strong> “Utilization of Rainwater Power to Drain Floodwater from Low-lying Areas.” ASCE-EWRI World Environmental & Water Resources Congress, Minneapolis, MN, June 6, 2018. <a href="https://www.researchgate.net/publication/398951402_Utilization_of_Rainwater_Power_to_Drain_Floodwater_from_Low-lying_Areas">ResearchGate</a></li>
 </ul>
 
 
