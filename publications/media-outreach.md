@@ -12,21 +12,20 @@ The following media interviews document public communication and outreach relate
 
 ## Media Interviews
 
-The following media interviews reflect public communication and outreach related to research, professional expertise, and applied work in water resources, flooding, and environmental systems.
+The following media interviews document public communication and outreach related to research, professional expertise, and applied work in flooding, stormwater, water resources, and environmental systems.
 
 ---
-<ol reversed>
 
 62. **Interview on Best Cities for Rain Gardens**, Lawn Love, April 10, 2025.  
-    <https://lawnlove.com/blog/best-cities-rain-gardens/#expert=qizhong-george-guo-phd-pe-bcwre>
+https://lawnlove.com/blog/best-cities-rain-gardens/#expert=qizhong-george-guo-phd-pe-bcwre
 
 61. **Interview on New Jersey Inland Flood Rules**, *The Washington Post*, November 1, 2024.
 
-60. **Interview on Flood Mitigation Strategies**, *Bergen Magazine* (NJ), March 28, 2024.  
-    <https://issuu.com/wainscotmedia/docs/bergen_may2024_issuu>
+60. **Interview on Flood Mitigation Strategies**, *Bergen Magazine*, March 28, 2024.  
+https://issuu.com/wainscotmedia/docs/bergen_may2024_issuu
 
-59. **Interview on Retaining Wall Collapse and Infrastructure Failure**, *Science Channel*, first aired December 13, 2022, on *Engineering Catastrophes*; later shown on the Discovery Channel (video recording).  
-    <https://www.sciencechannel.com/video/engineering-catastrophes-science/memphis-bridge-of-doom>
+59. **Interview on Retaining Wall Collapse and Infrastructure Failure**, *Science Channel*, aired December 13, 2022 on *Engineering Catastrophes*; later shown on Discovery Channel (video recording).  
+https://www.sciencechannel.com/video/engineering-catastrophes-science/memphis-bridge-of-doom
 
 58. **Interview on New Water Storage in the Delaware River Basin**, NPR–WHYY, May 3, 2023.
 
@@ -37,26 +36,26 @@ The following media interviews reflect public communication and outreach related
 55. **Interview on Brooklyn’s Response to Sea Level Rise**, WNYC, June 30, 2022.
 
 54. **Interview on Backwater Valves for Urban Flood Mitigation**, WNYC, April 11, 2022.  
-    <https://gothamist.com/news/even-after-sandy-and-ida-nyc-still-lacks-a-solid-evacuation-plan-for-emergency-flash-floods>
+https://gothamist.com/news/even-after-sandy-and-ida-nyc-still-lacks-a-solid-evacuation-plan-for-emergency-flash-floods
 
 53. **Interview on New York City Subway Flooding**, *New York Post*, July 15, 2021.
 
-52. **Interview on Infrastructure Adaptation to Sea Level Rise**, Big Ten Network, aired August 17, 2020, on *Rutgers Rise* and subsequently during athletic broadcasts (video recording).  
-    <https://www.youtube.com/watch?v=VL3ZZZZRKsI>
+52. **Interview on Infrastructure Adaptation to Sea Level Rise**, Big Ten Network, August 17, 2020 (video recording).  
+https://www.youtube.com/watch?v=VL3ZZZZRKsI
 
 51. **Interview on Stormwater Infrastructure Upgrades**, *POLITICO*, July 16, 2020.  
-    <https://subscriber.politicopro.com/article/2020/07/16/recent-flooding-raises-alarm-about-stormwater-infrastructure-upgrades-1301098>
+https://subscriber.politicopro.com/article/2020/07/16/recent-flooding-raises-alarm-about-stormwater-infrastructure-upgrades-1301098
 
 50. **Interview on Remote Teaching during COVID-19**, Rutgers School of Engineering, July 2020 (reprint).
 
 49. **Interview on Using Parking Lots for Flood Mitigation**, FOX 5 New York News, October 17, 2019 (video recording).  
-    <https://www.fox5ny.com/video/616070>
+https://www.fox5ny.com/video/616070
 
 48. **Interview on Coastal Erosion and Flooding in Long Beach Island**, *Asbury Park Press*, September 5, 2019.  
-    <https://www.app.com/story/news/local/land-environment/2019/09/05/lbi-disappearing-can-we-save-it/1569171001/>
+https://www.app.com/story/news/local/land-environment/2019/09/05/lbi-disappearing-can-we-save-it/1569171001/
 
 47. **Interview on Flash Flood Risks and Climate Change**, *North Jersey Record*, August 22, 2019.  
-    <https://www.northjersey.com/story/news/environment/2019/08/22/why-nj-streets-not-ready-escalating-flash-floods/1921882001/>
+https://www.northjersey.com/story/news/environment/2019/08/22/why-nj-streets-not-ready-escalating-flash-floods/1921882001/
 
 46. **Interview on Impacts of Lake Lenape Dam on Upstream Flooding**, *Press of Atlantic City*, May 16, 2019.
 
@@ -67,7 +66,7 @@ The following media interviews reflect public communication and outreach related
 43. **Interview on Responses to Sea Level Rise**, PBS America, February 10, 2018.
 
 42. **Interview on Back-Bay Flooding and Sea Level Rise**, *Asbury Park Press*, February 17, 2014.  
-    <https://www.courierpostonline.com/story/news/local/new-jersey/2014/02/17/dealing-with-rising-sea-levels-in-back-bay-areas/5543875/>
+https://www.courierpostonline.com/story/news/local/new-jersey/2014/02/17/dealing-with-rising-sea-levels-in-back-bay-areas/5543875/
 
 41. **Interview on Coastal Resiliency Center**, *The Daily Targum*, February 10, 2014.
 
@@ -78,7 +77,7 @@ The following media interviews reflect public communication and outreach related
 38. **Interview on Flood Prevention and Mitigation Research**, *The Daily Targum*, October 7, 2013.
 
 37. **Interview on Aging Water Infrastructure and Fire Hydrants**, *The Star-Ledger*, August 11, 2013 (reprint).  
-    <https://www.nj.com/essex/2013/08/hundreds_of_newark_fire_hydrants_out_of_commission_as_city_grapples_with_ailing_water_system.html>
+https://www.nj.com/essex/2013/08/hundreds_of_newark_fire_hydrants_out_of_commission_as_city_grapples_with_ailing_water_system.html
 
 36. **Interview on Route 3 Bridge Construction and Flooding**, WBGO Jazz 88.3 FM, July 26, 2013 (voice recording).
 
@@ -99,7 +98,7 @@ The following media interviews reflect public communication and outreach related
 28. **Interview on Rebuilding the Jersey Shore after Hurricane Sandy**, CCTV America, November 1, 2012 (video recording).
 
 27. **Interview on Infrastructure Resilience after Hurricane Irene**, *The Star-Ledger*, August 25, 2012.  
-    <https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html>
+https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html
 
 26. **Interview on River Pumping Proposal**, *The Record*, May 27, 2012 (reprint).
 
@@ -153,7 +152,6 @@ The following media interviews reflect public communication and outreach related
 
 1. **Interview on River Ice–Induced Flooding Research**, KSTP-TV, St. Paul, MN, April 11, 1989 (with Prof. Charles C. S. Song; video recording available).
 
-</ol>
 ---
 
 [Back to Publications & Reports →](/publications)
