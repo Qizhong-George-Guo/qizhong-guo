@@ -33,8 +33,8 @@ Rather than delivering exhaustive analysis, these reflections highlight connecti
 
 In addition to the reflections presented here, selected perspectives related to my work have appeared in public-facing formats, including op-ed articles and media interviews. The op-ed pieces represent fully authored commentary, while the media interviews reflect shorter expert input as interpreted and presented by journalists. These materials are listed separately on this site for reference and context.
 
-[Op-Ed Articles →](https://qizhong-guo.org/publications/grey-literature)]
+[Op-Ed Articles →](https://qizhong-guo.org/publications/grey-literature)
 
-[Media Interviews →](https://qizhong-guo.org/publications/media-outreach]
+[Media Interviews →](https://qizhong-guo.org/publications/media-outreach)
 
 ---
