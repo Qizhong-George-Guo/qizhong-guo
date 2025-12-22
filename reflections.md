@@ -4,12 +4,6 @@ title: "Reflections & Synthesis"
 permalink: /reflections
 ---
 
----
-layout: page
-title: "Reflections & Synthesis"
-permalink: /reflections
----
-
 This section presents occasional reflections drawn from experiences in teaching, research, professional practice, and long-term engagement with water and environmental systems. These pieces are added gradually and without a fixed schedule. They aim to distill ideas, connect themes across disciplines, and offer broader perspectives shaped by recurring patterns observed over many years.
 
 The emphasis is on clarity, synthesis, and thoughtful observation rather than frequent updates. As time allows, topics may include insights related to stormwater and green infrastructure, estuarine and coastal systems, watershed and basin-scale processes, integrated resilience strategies, teaching experiences, and emerging tools such as AI in engineering education and communication.
