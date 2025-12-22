@@ -57,7 +57,7 @@ This section includes invited academic, professional, and public talks delivered
 <li><strong>8.</strong> “Flood Risk Reduction Strategies for Vulnerable Populations along Hackensack River, Hudson River, Arthur Kill, Barnegat Bay, and Delaware Bay.” The New Jersey Association for Floodplain Management’s (NJAFM) 10th Annual Conference, Atlantic City, NJ, October 14-16, 2014 (invited). <a href="https://www.researchgate.net/publication/362917447_Flood_Risk_Reduction_Strategies_for_Vulnerable_Coastal_Populations_along_Hackensack_River_Hudson_River_Arthur_Kill_Barnegat_Bay_and_Delaware_Bay">ResearchGate</a></li>
 </ul>
 
-## Other Presentations, Lectures, and Demonstrations (Selected)
+## Other Presentations, Lectures, and Demonstrations (Most Recent)
 <ul>
 <li><strong>129.</strong> “Assessing Plant Growth Variability and Elevated Substrate Temperatures on Green Roofs.” ASCE-EWRI World Environmental & Water Resources Congress, Anchorage, Alaska, May 21, 2025. <a href="https://www.researchgate.net/publication/392130495_Assessing_Plant_Growth_Variability_and_Elevated_Substrate_Temperatures_on_Green_Roofs_Exposed_to_Excessive_Reflective_Heat">ResearchGate</a></li>
 <li><strong>128.</strong> “Quantifying Plant Growth Variability and Elevated Substrate Temperatures on a Green Roof Subjected to Excessive Reflective Heat.” AGU Fall Meeting, Washington D.C., December 11, 2024 (oral).</li>
