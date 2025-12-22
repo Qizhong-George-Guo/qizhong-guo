@@ -230,7 +230,7 @@ This page provides a **list of my refereed journal publications and conference p
 
 <li>Guo, Q., Psuty, N. P., Lordi, G., Tsai, C. (1997). “Circulation Studies in Barnegat Bay.” Proceedings of the Barnegat Bay Ecosystem Workshop, Toms River, New Jersey, November 14, 1996, pp. 17–29.</li>
 
-<li>Guo, Q. (1995). “Hydraulics of Ice-Covered Rivers – Discussion.” In *Issues and Directions in Hydraulics*, Proceedings of an Iowa Hydraulics Colloquium, Iowa City, Iowa, May 22–24. Balkema, Rotterdam, pp. 181–183.</li>
+<li>Guo, Q. (1995). “Hydraulics of Ice-Covered Rivers – Discussion.” In <em>Issues and Directions in Hydraulics</em>, Proceedings of an Iowa Hydraulics Colloquium, Iowa City, Iowa, May 22–24. Balkema, Rotterdam, pp. 181–183.</li>
 
 <li>Guo, Q., Song, C. C. S. (1994). “A Numerical Model for the Entire River Ice Breakup and Jamming Process and Field Data Needs for Its Verification.” Proceedings of the River Ice Seminar, Minneapolis, Minnesota, November 17–18. National Weather Service, pp. 233–243.</li>
 
