@@ -14,6 +14,6 @@ This section includes policy briefs, commentary pieces, bilingual essays, explan
 https://www.nj.com/opinion/2019/06/heres-how-we-can-adapt-to-the-rising-sea-along-the-new-jersey-coast.html
 
 1. **Guo, Q.** (2007). “How We Can Combat Flooding,” Op-Ed article, *The Record*, April 30 edition (newspaper clipping).  
-[PDF](/files/media/Record%Opinion%-%How%20We%20Can%20Combat%20Flooding%2020070430.pdf)
+[PDF](/files/media/Record%Opinion%-%How%20we%20can%20combat%20flooding%2020070430.pdf)
 
 [Back to Publications & Reports →](/publications)
