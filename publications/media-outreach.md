@@ -9,6 +9,7 @@ permalink: /publications/media-outreach
 The following media interviews document public communication and outreach related to research, professional expertise, and applied work in flooding, stormwater, water resources, and environmental systems.
 
 ---
+<ol reversed start="62">
 
 62. **Interview on Best Cities for Rain Gardens**, Lawn Love, April 10, 2025.  
 https://lawnlove.com/blog/best-cities-rain-gardens/#expert=qizhong-george-guo-phd-pe-bcwre
@@ -145,6 +146,8 @@ https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html
 2. **Interview on Urban Flooding Issues**, *Courier News*, Somerset, NJ, October 18, 1994.
 
 1. **Interview on River Ice–Induced Flooding Research**, KSTP-TV, St. Paul, MN, April 11, 1989 (with Prof. Charles C. S. Song; video recording available).
+
+</ol>
 
 ---
 
