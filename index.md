@@ -43,6 +43,16 @@ Current work emphasizes resilient, sustainable, and equitable water and urban sy
 
 ---
 
+## Publications & Reports
+
+A curated collection of peer-reviewed papers, technical reports, invited presentations, grey literature, and selected public-facing writing.
+
+This section serves as a broader repository than conventional academic indexes, documenting work across research, practice, and outreach.
+
+[Browse Publications →](https://qizhong-guo.org/publications)
+
+---
+
 ## Reflections & Synthesis
 
 Occasional notes and distillations drawn from past and ongoing work in water and environmental systems. These pieces reflect on lessons learned, emerging questions, and connections across projects and disciplines.
@@ -68,16 +78,6 @@ A brief overview of laboratory and instructional facilities that support teachin
 These facilities include flumes, hydraulic and hydrologic apparatus, and other tools used in coursework, student projects, and collaborative studies.
 
 [View Facilities →](https://qizhong-guo.org/facilities)
-
----
-
-## Publications & Reports
-
-A curated collection of peer-reviewed papers, technical reports, invited presentations, grey literature, and selected public-facing writing.
-
-This section serves as a broader repository than conventional academic indexes, documenting work across research, practice, and outreach.
-
-[Browse Publications →](https://qizhong-guo.org/publications)
 
 ---
 
