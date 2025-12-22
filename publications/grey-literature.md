@@ -16,6 +16,8 @@ This section includes policy briefs, commentary pieces, bilingual essays, explan
 <em>The Star-Ledger</em>, June 23 edition.
 <a href="https://www.nj.com/opinion/2019/06/heres-how-we-can-adapt-to-the-rising-sea-along-the-new-jersey-coast.html">Link</a></li>
 
+<br>
+
 <li>Guo, Q. (2007). “How We Can Combat Flooding.” 
  <em>The Record</em>, April 30.
   <em>The Star-Ledger</em>, June 23 edition.
