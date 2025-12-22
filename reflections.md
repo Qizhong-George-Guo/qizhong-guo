@@ -21,7 +21,6 @@ Some reflections may also be selectively shared on LinkedIn, while others—part
 For previously shared commentary and shorter reflections, please visit:
 [View Posts on LinkedIn→](https://www.linkedin.com/in/qizhong-george-guo-a351102/recent-activity/all/)
 
-
 ---
 
 ## Purpose of This Section
@@ -29,5 +28,13 @@ For previously shared commentary and shorter reflections, please visit:
 The goal of <em>Reflections & Synthesis</em> is to provide space for ideas that do not fit easily into conventional academic publications—ideas that bridge disciplines, summarize lessons from practice, or offer perspectives informed by long-term engagement with water and environmental systems.
 
 Rather than delivering exhaustive analysis, these reflections highlight connections, recurring themes, and broader insights that may be useful to students, colleagues, practitioners, or others interested in the interplay between engineering, environment, and society.
+
+---
+
+In addition to the reflections presented here, selected perspectives related to my work have appeared in public-facing formats, including op-ed articles and media interviews. The op-ed pieces represent fully authored commentary, while the media interviews reflect shorter expert input as interpreted and presented by journalists. These materials are listed separately on this site for reference and context.
+
+[Op-Ed Articles →](https://qizhong-guo.org/publications/grey-literature)]
+
+[Media Interviews →](https://qizhong-guo.org/publications/media-outreach]
 
 ---
