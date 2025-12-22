@@ -26,8 +26,6 @@ This section includes policy briefs, commentary pieces, bilingual essays, explan
 
 </ol>
 
-<br>
-
 ---
 
 [Back to Publications & Reports →](/publications)
