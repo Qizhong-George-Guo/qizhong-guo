@@ -10,12 +10,6 @@ The following media interviews document public communication and outreach relate
 
 ---
 
-## Media Interviews
-
-The following media interviews document public communication and outreach related to research, professional expertise, and applied work in flooding, stormwater, water resources, and environmental systems.
-
----
-
 62. **Interview on Best Cities for Rain Gardens**, Lawn Love, April 10, 2025.  
 https://lawnlove.com/blog/best-cities-rain-gardens/#expert=qizhong-george-guo-phd-pe-bcwre
 
