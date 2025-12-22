@@ -3,6 +3,7 @@ layout: page
 title: "Media & Outreach"
 permalink: /publications/media-outreach
 ---
+
 ## Media Interviews
 
 The following media interviews document public communication and outreach related to research, professional expertise, and applied work in flooding, stormwater, water resources, and environmental systems.
@@ -63,6 +64,7 @@ The following media interviews document public communication and outreach relate
 <li><strong>Interview on River Ice–Induced Flooding Research</strong>, KSTP-TV, St. Paul, MN, April 11, 1989 (with Prof. Charles C. S. Song; video recording available).</li>
 
 </ol>
+
 ---
 
 [Back to Publications & Reports →](/publications)
