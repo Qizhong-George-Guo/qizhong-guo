@@ -7,8 +7,9 @@ permalink: /publications/grey-literature
 This section includes policy briefs, commentary pieces, bilingual essays, explanatory notes, and writing intended for broader public audiences.
 
 ---
-
 ## Op-Ed Articles
+
+<br>
 
 <ol reversed start="2">
 
