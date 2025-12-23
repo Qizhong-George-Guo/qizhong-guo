@@ -31,7 +31,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Brooklyn’s Response to Sea Level Rise</strong>, WNYC, June 30, 2022.</li>
 
-<li><strong>Interview on Backwater Valves for Urban Flood Mitigation</strong>, WNYC, April 11, 2022.  
+<li><strong>Interview on Limitations of Urban Infrastructure against Extreme Flash Flooding</strong>, WNYC, April 11, 2022.  
 <a href="https://gothamist.com/news/even-after-sandy-and-ida-nyc-still-lacks-a-solid-evacuation-plan-for-emergency-flash-floods">Link</a></li>
 
 <li><strong>Interview on New York City Subway Flooding</strong>, <em>New York Post</em>, July 15, 2021.</li>
@@ -70,7 +70,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Flood Prevention and Mitigation Research</strong>, <em>The Daily Targum</em>, October 7, 2013.</li>
 
-<li><strong>Interview on Aging Water Infrastructure and Fire Hydrants</strong>, <em>The Star-Ledger</em>, August 11, 2013 (reprint).</li>
+<li><strong>Interview on Aging Water Infrastructure and Fire Hydrants</strong>, <em>The Star-Ledger</em>, August 11, 2013 <a href="https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html">Link</a></li>
 
 <li><strong>Interview on Route 3 Bridge Construction and Flooding</strong>, WBGO Jazz 88.3 FM, July 26, 2013 (audio recording).</li>
 
@@ -90,7 +90,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, CCTV America, November 1, 2012 (video recording).</li>
 
-<li><strong>Interview on Infrastructure Resilience after Hurricane Irene</strong>, <em>The Star-Ledger</em>, August 25, 2012.</li>
+<li><strong>Interview on Infrastructure Resilience after Hurricane Irene</strong>, <em>The Star-Ledger</em>, August 25, 2012.<a href="https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html">Link</a></li>
 
 <li><strong>Interview on River Pumping Proposal</strong>, <em>The Record</em>, May 27, 2012 (reprint).</li>
 
