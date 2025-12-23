@@ -44,7 +44,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Remote Teaching during COVID-19</strong>, Rutgers School of Engineering, July 2020 (reprint).</li>
 
-<li><strong>Interview on Using Parking Lots for Flood Mitigation</strong>, FOX 5 New York News, October 17, 2019 (video recording).  
+<li><strong>Interview on Using Porous Parking Lots for Flood Mitigation</strong>, FOX 5 New York News, October 17, 2019 (video recording).  
 <a href="https://www.fox5ny.com/video/616070">Video</a></li>
 
 <li><strong>Interview on Coastal Erosion and Flooding in Long Beach Island</strong>, <em>Asbury Park Press</em>, September 5, 2019.  
