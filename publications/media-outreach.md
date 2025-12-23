@@ -70,7 +70,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Flood Prevention and Mitigation Research</strong>, <em>The Daily Targum</em>, October 7, 2013.</li>
 
-<li><strong>Interview on Aging Water Infrastructure and Fire Hydrants</strong>, <em>The Star-Ledger</em>, August 11, 2013 <a href="https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html">Link</a></li>
+<li><strong>Interview on Aging Water Infrastructure and Fire Hydrants</strong>, <em>The Star-Ledger</em>, August 11, 2013. <a href="https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html">Link</a></li>
 
 <li><strong>Interview on Route 3 Bridge Construction and Flooding</strong>, WBGO Jazz 88.3 FM, July 26, 2013 (audio recording).</li>
 
@@ -92,7 +92,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Infrastructure Resilience after Hurricane Irene</strong>, <em>The Star-Ledger</em>, August 25, 2012.<a href="https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html">Link</a></li>
 
-<li><strong>Interview on River Pumping Proposal</strong>, <em>The Record</em>, May 27, 2012 (reprint).</li>
+<li><strong>Interview on River Pumping Proposal</strong>, <em>The Record</em>, May 27, 2012.</li>
 
 <li><strong>Interview on Mining Safety Issues</strong>, <em>International Talent</em>, Beijing, China, April 21, 2012.</li>
 
