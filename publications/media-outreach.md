@@ -102,7 +102,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Impacts of Extreme Weather in 2011</strong>, <em>The Record</em>, December 30, 2011 (reprint).</li>
 
-<li><strong>Interview on Green Infrastructure for Flood Mitigation</strong>, <em>Home News Tribune</em>, November 17, 2011.</li>
+<li><strong>Interview on Green Infrastructure for Flood Mitigation</strong>, <em>Home News Tribune</em>, November 17, 2011 (newspaper clipping).</li>
 
 <li><strong>Interview on Stormwater Runoff Treatment Technologies</strong>, <em>Asbury Park Press</em>, June 15, 2011.</li>
 
@@ -118,7 +118,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Budd Lake Management Plan</strong>, <em>Mt. Olive Chronicle</em>, May 4, 2005.</li>
 
-<li><strong>Interview on Barnegat Bay Circulation Patterns</strong>, <em>Asbury Park Press</em>, April 25, 2005.</li>
+<li><strong>Interview on Barnegat Bay Circulation Patterns</strong>, <em>Asbury Park Press</em>, April 25, 2005 (newspaper clipping).</li>
 
 <li><strong>Interview on Flooding Research</strong>, NJN News / New York Public Television (Channel 13), April 6, 2005 (video recording).</li>
 
