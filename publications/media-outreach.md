@@ -90,7 +90,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, CCTV America, November 1, 2012 (video recording).</li>
 
-<li><strong>Interview on Infrastructure Resilience after Hurricane Irene</strong>, <em>The Star-Ledger</em>, August 25, 2012.<a href="https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html">Link</a></li>
+<li><strong>Interview on Infrastructure Resilience after Hurricane Irene</strong>, <em>The Star-Ledger</em>, August 25, 2012. <a href="https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html">Link</a></li>
 
 <li><strong>Interview on River Pumping Proposal</strong>, <em>The Record</em>, May 27, 2012.</li>
 
