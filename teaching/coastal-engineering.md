@@ -35,34 +35,42 @@ This page provides course materials for the graduate course **Coastal Engineerin
 
 ### Topic 1 – Introduction to Coastal Engineering
 - [Course Outline (PDF)]()
+- [Briefing Document (PDF)]()
 - [Infographic (PDF)]()
 - [Slide Deck (PDF)]()
 
 ### Topic 2 – Tides 
+- [Briefing Document (PDF)]()
 - [Infographic (PDF)]()
 - [Slide Deck (PDF)]()
 
 ### Topic 3 – Estuarine Processes
+- [Briefing Document (PDF)]()
 - [Infographic (PDF)]()
 - [Slide Deck (PDF)]()
 
 ### Topic 4 - Waves 
+- [Briefing Document (PDF)]()
 - [Infographic (PDF)]()
 - [Slide Deck (PDF)]()
 
-### Topic 5 – Coastal Processes   
+### Topic 5 – Coastal Processes
+- [Briefing Document (PDF)]()
 - [Infographic (PDF)]()
 - [Slide Deck (PDF)]()
 
-### Topic 6 – Grey/Hard Coastal Structures  
+### Topic 6 – Grey/Hard Coastal Structures
+- [Briefing Document (PDF)]()
 - [Infographic (PDF)]()
 - [Slide Deck (PDF)]()
 
 ### Topic 7 – Green/Soft Coastal Structures (Nature-Based Solutions)  
+- [Briefing Document (PDF)]()
 - [Infographic (PDF)]()
 - [Slide Deck (PDF)]()
 
 ### Topic 8 – Contemporary Coastal Management 
+- [Briefing Document (PDF)]()
 - [Infographic (PDF)]()
 - [Slide Deck (PDF)]()
 
