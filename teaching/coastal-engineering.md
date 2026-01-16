@@ -11,7 +11,7 @@ This page provides course materials for the graduate course **Coastal Engineerin
 ## Course Information
 
 - **Course level:** Graduate  
-- **Focus:** Coastal processes, wave mechanics, tidal propagation, sediment transport, and engineering design applications  
+- **Focus:** Coastal processes, wave mechanics, tidal hydrodynamics, sediment transport, and engineering design applications  
 - **Audience:** Graduate students in civil, environmental, and coastal engineering
 
 ---
