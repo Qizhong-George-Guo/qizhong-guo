@@ -18,13 +18,14 @@ This page provides course materials for the graduate course **Coastal Engineerin
 
 ## Course Outline
 
-- Introduction to coastal systems and processes  
-- Linear and nonlinear wave theory  
-- Wave transformation: shoaling, refraction, diffraction, breaking  
-- Coastal sediment transport  
-- Shoreline change and coastal morphology  
-- Coastal structures and protection measures  
-- Sea-level rise and coastal resilience
+- Introduction to Coastal Engineering
+- Tides 
+- Estuarine Processes
+- Waves
+- Coastal Processes  
+- Grey/Hard Coastal Structures 
+- Green/Soft Coastal Structures (Nature-Based Solutions) 
+- Contemporary Coastal Management   
 
 *(Outline may evolve over time.)*
 
@@ -33,15 +34,14 @@ This page provides course materials for the graduate course **Coastal Engineerin
 ## Lecture Materials
 
 ### Topic 1 – Introduction to Coastal Engineering
-- [Course Overview & Syllabus (PDF)]()
-- [Lecture Slides (PDF)]()
+- [Course Outline (PDF)]()
+- [Slide Deck (PDF)]()
 
-### Topic 2 – Wave Mechanics
-- [Slide Deck – Linear Wave Theory (PDF)]()
-- [Supplementary Notes]()
+### Topic 2 – Tides 
+- [Slide Deck (PDF)]()
 
-### Topic 3 – Wave Transformation
-- [Slide Deck – Shoaling & Breaking (PDF)]()
+### Topic 3 – Estuarine Processes
+- [Slide Deck (PDF)]()
 
 *(Additional topics to be added.)*
 
