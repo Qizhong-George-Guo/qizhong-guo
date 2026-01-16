@@ -34,10 +34,11 @@ This page provides course materials for the graduate course **Coastal Engineerin
 ## Lecture Materials
 
 ### Topic 1 – Introduction to Coastal Engineering
-- [Course Outline (PDF)]()
-- [Briefing Document (PDF)]()
-- [Infographic (PDF)]()
-- [Slide Deck (PDF)]()
+
+- [Course Outline (PDF)](/files/teaching/coastal-engineering/Coastal_Eng-Course_Outline-2025F.pdf)
+- [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_I-Introduction_(Briefing_Document).pdf)
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_I-Introduction_(Infographic).pdf)
+- [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_I-Introduction_(Slide_Deck_Coastal_Engineering_Course_Introduction).pdf)
 
 ### Topic 2 – Tides 
 - [Briefing Document (PDF)]()
