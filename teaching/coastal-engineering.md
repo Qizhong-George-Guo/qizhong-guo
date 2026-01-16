@@ -39,9 +39,9 @@ This page provides course materials for the graduate course **Coastal Engineerin
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_I-Introduction_(Slide_Deck_Coastal_Engineering_Course_Introduction).pdf){:target="_blank"}
 
 ### Topic 2 – Tides 
-- [Infographic (PDF)]()
-- [Briefing Document (PDF)]()
-- [Slide Deck (PDF)]()
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_II-Tides_(Infofraphic-Taming_the_Tide).pdf){:target="_blank"}
+- [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_II-Tides_(Briefing_Document).pdf){:target="_blank"}
+- [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_II-Tides_(Slide_Deck-Tides_Physics_and_Coastal_Design).pdf){:target="_blank"}
 
 ### Topic 3 – Estuarine Processes
 - [Infographic (PDF)]()
