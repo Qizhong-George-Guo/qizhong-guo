@@ -44,8 +44,8 @@ This page provides course materials for the graduate course **Coastal Engineerin
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_II-Tides_(Slide_Deck-Tides_Physics_and_Coastal_Design).pdf){:target="_blank"}
 
 ### Topic 3 – Estuarine Processes
-- [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_III-Estuarine_Processes_(Infographic).pdf){:target="_blank"}
-- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_III-Estuarine_Processes_(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF))](/files/teaching/coastal-engineering/Topic_III-Estuarine_Processes_(Infographic).pdf){:target="_blank"}
+- [Briefing Document (PDF](/files/teaching/coastal-engineering/Topic_III-Estuarine_Processes_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_III-Estuarine_Processes_(Slide_Deck-Estuarine_Inflow_Tidal_Dynamics).pdf){:target="_blank"}
 
 ### Topic 4 - Waves
