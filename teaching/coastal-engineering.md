@@ -34,43 +34,43 @@ This page provides course materials for the graduate course **Coastal Engineerin
 ## Lecture Materials
 
 ### Topic 1 – Introduction to Coastal Engineering
-- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_I-Introduction_(Infographic).pdf){:target="_blank"}
 - [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_I-Introduction_(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_I-Introduction_(Infographic).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_I-Introduction_(Slide_Deck_Coastal_Engineering_Course_Introduction).pdf){:target="_blank"}
 
 ### Topic 2 – Tides 
-- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_II-Tides_(Infofraphic-Taming_the_Tide).pdf){:target="_blank"}
 - [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_II-Tides_(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_II-Tides_(Infofraphic-Taming_the_Tide).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_II-Tides_(Slide_Deck-Tides_Physics_and_Coastal_Design).pdf){:target="_blank"}
 
 ### Topic 3 – Estuarine Processes
-- [Infographic (PDF))](/files/teaching/coastal-engineering/Topic_III-Estuarine_Processes_(Infographic).pdf){:target="_blank"}
 - [Briefing Document (PDF](/files/teaching/coastal-engineering/Topic_III-Estuarine_Processes_(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF))](/files/teaching/coastal-engineering/Topic_III-Estuarine_Processes_(Infographic).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_III-Estuarine_Processes_(Slide_Deck-Estuarine_Inflow_Tidal_Dynamics).pdf){:target="_blank"}
 
 ### Topic 4 - Waves
-- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_IV-Wave_(Infographic).pdf){:target="_blank"}
 - [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_IV-Wave_(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_IV-Wave_(Infographic).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_IV-Wave_(Slide_Deck-Coastal_Wave_Physics).pdf){:target="_blank"}
 
 ### Topic 5 – Coastal Processes
-- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_V-Coastal_Processes_(Infographic).pdf){:target="_blank"}
 - [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_V-Coastal_Processes_(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_V-Coastal_Processes_(Infographic).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_V-Coastal_Processes_(Slide_Deck-Coastal_Dynamics_The_Restless_Edge).pdf){:target="_blank"}
 
 ### Topic 6 – Grey/Hard Coastal Structures
-- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_VI-Hard_Structures_(Infographic).pdf){:target="_blank"}
 - [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_VI-Hard_Structures_(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_VI-Hard_Structures_(Infographic).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_VI-Hard_Structures_(Slide_Deck-Coastal_Structure_Hydrodynamics_And_Design).pdf){:target="_blank"}
 
 ### Topic 7 – Green/Soft Coastal Structures (Nature-Based Solutions) 
-- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_VII-Soft_Structures_(Infographic).pdf){:target="_blank"}
 - [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_VII-Soft_Structures_(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_VII-Soft_Structures_(Infographic).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_VII-Soft_Structures_(Slide_Deck-Nature_Based_Coastal_Engineering).pdf){:target="_blank"}
    
 ### Topic 8 – Contemporary Coastal Management 
-- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_VIII-Coastal_Management_(Infographic).pdf){:target="_blank"}
 - [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_VIII-Coastal_Management_(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_VIII-Coastal_Management_(Infographic).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_VIII-Coastal_Management_(Slide_Deck-Policy_and_Resilience).pdf){:target="_blank"}
 
 
