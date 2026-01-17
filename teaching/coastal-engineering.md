@@ -70,7 +70,7 @@ This page provides course materials for the graduate course **Coastal Engineerin
    
 ### Topic 8 – Contemporary Coastal Management 
 - [Infographic (PDF)](/files/teaching/coastal-engineering/Topic_VIII-Coastal_Management_(Infographic).pdf){:target="_blank"}
-- [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_VIII-Coastal_Management_(Briefing Document).pdf){:target="_blank"}
+- [Briefing Document (PDF)](/files/teaching/coastal-engineering/Topic_VIII-Coastal_Management_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_VIII-Coastal_Management_(Slide_Deck-Policy_and_Resilience).pdf){:target="_blank"}
 
 
