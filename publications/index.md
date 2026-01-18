@@ -19,7 +19,7 @@ Conference proceedings with links to abstracts or full text when available.
 [View →](https://qizhong-guo.org/publications/conference-papers)
 
 ### Books & Edited Volumes  
-Authored books and edited volumes associated with research projects and editorial efforts.
+Authored books and edited volumes associated with research projects and editorial efforts.  
 [View →](https://qizhong-guo.org/publications/books)
 
 ### Technical Reports  
