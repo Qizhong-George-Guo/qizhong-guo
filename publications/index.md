@@ -10,9 +10,17 @@ Please select a category below to explore specific materials.
 
 ---
 
-### Peer-Reviewed Publications  
-Journal and conference papers with links to abstracts or full text when available.  
+### Refereed Journal Articles  
+Journal papers with links to abstracts or full text when available.  
 [View →](https://qizhong-guo.org/publications/peer-reviewed)
+
+### Conference Papers  
+Conference proceedings with links to abstracts or full text when available.  
+[View →](https://qizhong-guo.org/publications/conference-papers)
+
+### Books & Edited Volumes  
+Authored books and edited volumes associated with research projects and editorial efforts.
+[View →](https://qizhong-guo.org/publications/books)
 
 ### Technical Reports  
 Applied studies, collaborative reports, and project documents.  
