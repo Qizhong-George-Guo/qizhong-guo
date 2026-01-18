@@ -18,13 +18,11 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 
 ## Lecture Materials
 ### Course Outline
-- Course outline (PDF)
-- Briefing document (PDF)
-- Infographic (PDF)
-- Slide deck (PDF)
+- [Course Outline (PDF)](/files/teaching/green-infrastructure/Course_Outline-Green_Water_Infrastructure-Fall_2024.pdf){:target="_blank"}
+- [Briefing Document (PDF)](/files/teaching/coastal-engineering/Course_Outline-(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Course_Outline_(Infographic).pdf){:target="_blank"}
 
 ### Topic I-1 Hydrology
-- Briefing document (PDF)
-- Infographic (PDF)
-- Slide deck (PDF)
- 
+- [Briefing Document (PDF)](/files/teaching/coastal-engineering/Course_Outline-(Briefing_Document).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/coastal-engineering/Course_Outline_(Infographic).pdf){:target="_blank"}
+- [Slide Deck (PDF)](/files/teaching/coastal-engineering/Topic_I-Introduction_(Slide_Deck_Coastal_Engineering_Course_Introduction).pdf){:target="_blank"}
