@@ -6,6 +6,8 @@ permalink: /publications/conference-papers/
 
 This page provides a **list of conference proceedings**. Additional items will be added over time. As with other sections of this faculty site, it serves as the primary and most complete record of my scholarly work, including materials not captured in conventional academic indexes.
 
+---
+
 <ol reversed start="45">
 
 <li>Guo, Q. (2023). “Weathering the Storm: Lessons from Hurricane Ida’s 2021 Impact on Coastal Defense and Urban Flooding in the United States.” Proceedings of the 6th International Forum on Urban Flood Control and Drainage Capacity, Wuhan, China, October 16–18.</li>
