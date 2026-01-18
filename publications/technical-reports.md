@@ -4,8 +4,6 @@ title: "Technical Reports"
 permalink: /publications/technical-reports
 ---
 
-# Technical Reports
-
 This section documents applied and project-based technical work, including collaborative studies, planning reports, and agency-supported investigations completed over the years. These reports emphasize the translation of scientific and engineering knowledge into practice. Additional materials will be added as reports are archived and organized.
 
 Examples of technical report topics include:
