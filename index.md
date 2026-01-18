@@ -21,6 +21,13 @@ title: "Qizhong (George) Guo"
   </div>
 </div>
 
+
+---
+
+<span style="display:none">
+郭祺忠 Qizhong Guo
+</span>
+
 ---
 
 ## About
@@ -90,4 +97,3 @@ Please visit the link below for email and additional information.
 [Contact Information →](https://qizhong-guo.org/contact)
 
 ---
-
