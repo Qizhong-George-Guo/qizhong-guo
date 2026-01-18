@@ -6,6 +6,8 @@ permalink: /teaching/green-infrastructure/
 ## Course Overview
 Green Infrastructure for Water Management is a graduate-level course centered on stormwater management as the foundation for a broader, integrated approach to water resources. It combines hydrology, water quality, planning and regulation, and engineering design, with strong emphasis on real-world practices, regulatory requirements, and environmental performance. The course extends beyond stormwater to include wastewater, drinking water sustainability, energy recovery, and life-cycle environmental impacts, balancing theory with practical analysis and independent inquiry.
 
+---
+
 ## Course Outline
 - Topic I - Stormwater
    <p>   
@@ -16,6 +18,9 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 - Topic 4: Energy
 - Topic 5: Sustainability
 
+*(Outline may evolve over time.)*
+
+---
 ## Lecture Materials
 ### Course Outline
 - [Course Outline (PDF)](/files/teaching/green-infrastructure/Course_Outline-Green_Water_Infrastructure-Fall_2024.pdf){:target="_blank"}
