@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Technical Reports"
+title: "Books & Edited Volumes"
 permalink: /publications/books
 ---
 
