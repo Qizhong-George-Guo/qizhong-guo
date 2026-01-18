@@ -12,7 +12,7 @@ This page provides a **list of conference proceedings**. Additional items will b
 
 <li>Guo, Q. (2021). “Post-Sandy Reconstruction and Resilience Enhancement of Urban Flood Management System in the Greater New York Area.” Proceedings of the 5th International Forum on Urban Flood Control and Drainage Capacity, Shanghai, China, December 9–10.</li>
 
-<li>Guo, Q. (2018). “Mitigating Combined Sewer Overflow (CSO) and Restoring Urban Water Environment.” Proceedings of the Sustainable Cities: The iSEE Congress 2018, University of Illinois at Urbana-Champaign, October 5.</li>
+<li>Guo, Q. (2018). “Mitigating Combined Sewer Overflow (CSO) and Restoring Urban Water Environment.” Proceedings of the Sustainable Cities: The iSEE Congress 2018, University of Illinois at Urbana-Champaign, October 5.</li> <a href="https://www.researchgate.net/publication/362965282_Mitigating_Combined_Sewer_Overflow_CSO_and_Restoring_Urban_Water_Environment">ResearchGate</a></li>
 
 <li>Richter, S., Roche, C., Guo, Q. (2016). “Low Impact Stormwater Management Development at Rutgers University.” Proceedings of the 2016 International Low Impact Development Conference, Beijing, China, June 26–29. <a href="https://www.researchgate.net/publication/323648959_Low_Impact_Stormwater_Management_Development_at_Rutgers_University
 ">https://www.researchgate.net/publication/323648959_Low_Impact_Stormwater_Management_Development_at_Rutgers_University
