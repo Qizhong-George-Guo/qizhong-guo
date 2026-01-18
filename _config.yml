@@ -2,7 +2,7 @@
 # Site Identity
 # ---------------------------------------
 title: "Qizhong Guo 郭祺忠"
-description: "Faculty website of Professor Qizhong (George) Guo (郭祺忠), Civil & Environmental Engineering, Rutgers University–New Brunswick." (Initiated on November 29, 2025.)"
+description: "Faculty website of Professor Qizhong (George) Guo (郭祺忠), Civil & Environmental Engineering, Rutgers University–New Brunswick."
 url: "https://qizhong-guo.org"
 baseurl: ""   # Do not change for apex domain
 
@@ -18,7 +18,6 @@ plugins:
 # ---------------------------------------
 # Navigation (Header Layout)
 # ---------------------------------------
-# These pages will appear in the top navigation bar, in this order.
 header_pages:
   - about.md
   - research.md
