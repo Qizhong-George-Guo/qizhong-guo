@@ -21,9 +21,6 @@ title: "Qizhong (George) Guo"
   </div>
 </div>
 
-
----
-
 <span style="display:none">
 郭祺忠 Qizhong Guo
 </span>
