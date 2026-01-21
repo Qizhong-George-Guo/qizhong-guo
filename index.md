@@ -25,8 +25,6 @@ title: "Qizhong (George) Guo"
 郭祺忠 Qizhong Guo
 </span>
  
-]
-
 ---
 
 ## About
