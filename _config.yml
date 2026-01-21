@@ -3,6 +3,8 @@
 # ---------------------------------------
 title: "Qizhong Guo"
 description: "Faculty website of Professor Qizhong (George) Guo, Civil & Environmental Engineering, Rutgers University–New Brunswick. (Initiated on November 28, 2025.)"
+url: "https://qizhong-guo.org"
+baseurl: ""   # Do not change for apex domain
 
 keywords:
   - 郭祺忠
@@ -20,9 +22,6 @@ keywords:
   - Rutgers Environmental Engineering
   - Urban and Coastal Water Systems Laboratory
 
-  url: "https://qizhong-guo.org"
-baseurl: ""   # Do not change for apex domain
-
 # ---------------------------------------
 # Build Settings
 # ---------------------------------------
@@ -31,6 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
 
 # ---------------------------------------
 # Navigation (Header Layout)
