@@ -20,10 +20,6 @@ title: "Qizhong (George) Guo"
     </p>
   </div>
 </div>
-
-<span style="display:none">
-郭祺忠 Qizhong Guo
-</span>
  
 ---
 
