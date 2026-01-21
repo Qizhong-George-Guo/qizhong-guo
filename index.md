@@ -24,22 +24,6 @@ title: "Qizhong (George) Guo"
 <span style="display:none">
 郭祺忠 Qizhong Guo
 </span>
-
-  "keywords": [
-  "郭祺忠",
-  "Water Resources Engineering"
-  "Qizhong Guo",
-  "Qizhong George Guo",
-  "George Guo Rutgers",
-  "Stormwater Management",
-  "Green Infrastructure",
-  "Urban Flooding",
-  "Hydraulics",
-  "Green Grey Blue Intelligent",
-  "Green Grey Blue Smart",
-  "Rutgers Civil Engineering",
-  "Rutgers Environmental Engineering",
-  "Urban and Coastal Water Systems Laboratory"
  
 ]
 
