@@ -49,7 +49,7 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_I-4_Small_Scale_Green_Infrastructure_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_I-4_Small_Scale_Green_Infrastructure_(Infographic).pdf){:target="_blank"}
 
-### Topic I-4 Large-Scale Green Infrastructure & Non-GI Stormwater BMPs
+### Topic I-5 Large-Scale Green Infrastructure & Non-GI Stormwater BMPs
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Topic_I-5_Large-Scale_Green_Infrastructure_and_Non-GI_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_I-5_Large_Scale_and_Non-Green_Infrastructure_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_I-5_Large-Scale_Green_Infrastructure_and_Non-GI_(Infographic).pdf){:target="_blank"}
