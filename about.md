@@ -32,7 +32,7 @@ as well as undergraduate courses including
 - **Fluid Mechanics** and  
 - **Senior Capstone Design in Water Resources and Environmental Engineering**.
 
-He also supervised the Fluid Mechanics Instructional Laboratory for more than three decades, providing hands-on experimental learning for undergraduate students.
+He also supervised the [Fluid Mechanics Instructional Laboratory](https://qizhong-guo.org/facilities) for more than three decades, providing hands-on experimental learning for undergraduate students.
 
 Beyond the university, his work has engaged with broader professional and public audiences through invited talks, technical reports, media interviews, and applied studies in the United States and China. His recent efforts increasingly emphasize synthesis—integrating concepts across hydrology, hydraulics, estuarine processes, and urban systems—and exploring the potential role of AI in engineering education and communication.
 
