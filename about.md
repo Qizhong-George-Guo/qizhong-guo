@@ -8,7 +8,7 @@ permalink: /about
 
 I am a professor of civil and environmental engineering at Rutgers University–New Brunswick. My work focuses on how water moves through natural and built environments, with research spanning stormwater management, hydraulics and hydrology, estuarine processes, watershed systems, and integrated approaches to water and urban resilience.
 
-Over more than three decades at Rutgers, I have worked on topics including green infrastructure design and performance, hydrologic and hydraulic modeling, tidal and estuarine processes, watershed restoration, and integrated systems frameworks such as Green–Grey–Blue–Intelligent (GGBI) infrastructure. I have taught graduate and undergraduate courses in green infrastructure, coastal engineering, hydrology, stormwater systems, and fluid mechanics, and have supervised the Fluid Mechanics Instructional Laboratory for many years.
+Over more than three decades at Rutgers, I have worked on topics including green infrastructure design and performance, hydrologic and hydraulic modeling, tidal and estuarine processes, watershed restoration, and integrated systems frameworks such as [Green–Grey–Blue–Intelligent (GGBI) infrastructure](https://ggbi.ai/). I have taught graduate and undergraduate courses in green infrastructure, coastal engineering, hydrology, stormwater systems, and fluid mechanics, and have supervised the Fluid Mechanics Instructional Laboratory for many years.
 
 My recent interests include synthesizing lessons from long-term work in water systems, exploring integrated resilience strategies across scales, and using emerging AI tools to support engineering education, communication, and knowledge distillation.
 
