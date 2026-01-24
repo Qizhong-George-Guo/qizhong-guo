@@ -20,10 +20,10 @@ In this lab, I have used equipment for demonstrating fluid flow concepts, visual
 
 ### Related Links
 
-- **Short Video: A Hidden Gem at Rutgers-New Brunswick: Becoming Rutgers**  
+- **Short Video: A Hidden Gem at Rutgers-New Brunswick**  
   <https://www.youtube.com/shorts/i6UWeyN_LcM>
 
-- **Short Video: Rutgers engineers infrastructure that addresses sea-level change: LiveBIG 2019-20**
+- **LiveBIG 2019-20: Rutgers engineers infrastructure that addresses sea-level change**
   <https://www.youtube.com/watch?v=VL3ZZZZRKsI>
   
 - **School of Engineering – Labs & Facilities Overview**  
