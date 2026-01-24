@@ -97,7 +97,7 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 ### Topic IV: Energy from Water Infrastructure 
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Topic_IV-Energy_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_IV-Energy_(Slide_Deck).pdf){:target="_blank"}
-- [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_IV-Energy_(Infographic).pdf){:target="_blank
+- [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_IV-Energy_(Infographic).pdf){:target="_blank}
 
 ### Topic V: Sustainability 
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Topic_V-Sustainability_(Briefing_Document).pdf){:target="_blank"}
