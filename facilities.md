@@ -20,14 +20,17 @@ In this lab, I have used equipment for demonstrating fluid flow concepts, visual
 
 ### Related Links
 
-- **Short Video: A Hidden Gem at Rutgers-New Brunswick**  
+- **Short Video: A Hidden Gem at Rutgers-New Brunswick: Becoming Rutgers**  
   <https://www.youtube.com/shorts/i6UWeyN_LcM>
-  
-- **Rutgers CEE Research Laboratories**  
-  <https://cee.rutgers.edu/research-laboratories>
 
+- **Short Video: Rutgers engineers infrastructure that addresses sea-level change: LiveBIG 2019-20**
+  <https://www.youtube.com/watch?v=VL3ZZZZRKsI>
+  
 - **School of Engineering – Labs & Facilities Overview**  
   <https://soe.rutgers.edu/research/labs-and-facilities>
+
+- **Rutgers CEE Research Laboratories**  
+  <https://cee.rutgers.edu/research-laboratories>
 
 ---
 
