@@ -81,12 +81,12 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_I-10_Design_Procedures_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_I-10_Design_Procedures_(Infographic).pdf){:target="_blank"}
 
- ### Topic II: Wastewater and Watershed Management 
+### Topic II: Wastewater and Watershed Management 
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Topic_II_Wastewater_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_II_Wastewater_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_II_Wastewater_(Infographic).pdf){:target="_blank"}
 
- ### Topic III: Drinking Water Management and Security 
+### Topic III: Drinking Water Management and Security 
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Topic_III-Drinking_Water_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_III-Drinking_Water_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_III-Drinking_Water_(Infographic).pdf){:target="_blank"}
