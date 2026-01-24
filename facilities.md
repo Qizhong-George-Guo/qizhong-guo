@@ -12,9 +12,9 @@ This page provides an overview of the primary facilities I have worked with over
 
 ## Urban & Coastal Water Systems Laboratory (UCWS Lab)
 
-The Urban & Coastal Water Systems Laboratory (UCWS Lab) was created during the construction of Richard Weeks Hall of Engineering in 2018. I designated the laboratory as “UCWS” to reflect its expanded role, integrating the traditional **Fluid Mechanics Laboratory** with the **Hydroinformatics Laboratory** that I established in 2000. The space was sized and configured according to my specifications to support specific instructional and research needs. The facility’s infrastructure and major instrumentation—such as the hydraulic flume—were funded through university support to enhance our experimental capabilities.
+The Urban & Coastal Water Systems Laboratory (UCWS Lab) was created during the construction of the Richard Weeks Hall of Engineering in 2018. I designated the laboratory as “UCWS” to reflect its expanded role, integrating the traditional **Fluid Mechanics Laboratory** with the **Hydroinformatics Laboratory** that I established in 2000. The space was sized and configured according to my specifications to support instructional and research needs. The facility’s infrastructure and major instrumentation—such as the hydraulic flume—were supported through university funding to enhance experimental capabilities.
 
-In this lab, I have used equipment for demonstrating fluid flow concepts, visualizing hydraulic processes, and exploring aspects of stormwater and environmental systems. The space has also supported undergraduate and graduate student research projects, laboratory demonstrations, and collaborative studies.
+Within the UCWS Lab, I have used equipment to demonstrate fluid flow concepts, visualize hydraulic processes, and explore aspects of stormwater and environmental systems. The space has also supported undergraduate and graduate student research projects, laboratory instruction, and collaborative studies.
 
 ---
 
