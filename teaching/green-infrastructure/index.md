@@ -69,7 +69,7 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_I-8_Soil_Erosion_Control_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_I-8_Soil_Erosion_Control_(Infographic).pdf){:target="_blank"}
 
-### Topic I-9 Cost-Benefit Analysis 
+### Topic I-9 Cost-Benefit Estimates 
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Topic_I-9_Cost-Benefit_Estimates_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_I-9_Cost-Benefit_Estimates_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_I-9_Cost-Benefit_Estimates_(Infographic).pdf){:target="_blank"}
