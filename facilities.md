@@ -20,7 +20,7 @@ In this lab, I have used equipment for demonstrating fluid flow concepts, visual
 
 ### Related Links
 
-- **Short Video: Fluid Mechanics Demonstration**  
+- **Short Video: A Hidden Gem at Rutgers-New Brunswick**  
   <https://www.youtube.com/shorts/i6UWeyN_LcM>
   
 - **Rutgers CEE Research Laboratories**  
