@@ -23,8 +23,8 @@ Qizhong (George) Guo is a professor in the Department of Civil and Environmental
 His research has included work on green infrastructure performance and modeling, rainfall–runoff processes, urban flood mitigation, tidal and estuarine circulation, bay–marsh interactions, and coastal wetland restoration. He has collaborated with students, colleagues, agencies, and multidisciplinary teams on projects addressing flooding, storm surge impacts, ecosystem processes, and long-term watershed resilience.
 
 At Rutgers, he has taught graduate courses such as  
-- **Green Infrastructure for Stormwater Management**,  
-- **Coastal Engineering**,  
+- **[Green Infrastructure for Stormwater Management](https://qizhong-guo.org/teaching/green-infrastructure/)**,
+- **[Coastal Engineering](https://qizhong-guo.org/teaching/coastal-engineering/)**,
 - **Sediment Transport**, and  
 - **Analysis of Receiving Water Quality**,  
 
