@@ -38,7 +38,7 @@ The Fluid Mechanics course, together with the associated instructional laborator
 
 ## Fluid Mechanics Instructional Laboratory
 
-Since joining Rutgers, I have supervised the **Fluid Mechanics Instructional Laboratory**, which provides hands-on experiments related to:
+Since joining Rutgers, I have supervised the **[Fluid Mechanics Instructional Laboratory](https://qizhong-guo.org/facilities)**, which provides hands-on experiments related to:
 
 - pressure and forces in fluids,  
 - flow in pipes and open channels, and  
