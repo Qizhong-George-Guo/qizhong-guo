@@ -12,12 +12,13 @@ My teaching has focused on water resources and environmental systems, with an em
 
 At Rutgers University–New Brunswick, I have taught graduate-level courses including:
 
-- **Green Infrastructure for Stormwater Management**  
+- **Green Infrastructure for Water Management**  
   → [Course materials, outlines & slide decks](/teaching/green-infrastructure/)
 - **Coastal Engineering**  
   → [Course materials & lecture slides](/teaching/coastal-engineering/)
 - **Sediment Transport**  
 - **Analysis of Receiving Water Quality**
+
 I developed **Green Infrastructure for Water Management** as a new graduate course and began teaching it 12.
 
 These courses emphasize fundamental principles, modeling tools, and applications to urban water systems, estuarine and coastal environments, and water quality management.
