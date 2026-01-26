@@ -15,7 +15,7 @@ At Rutgers University–New Brunswick, I have taught graduate-level courses incl
 - **Green Infrastructure for Stormwater Management**  
   → [Course materials, outlines & slide decks](/teaching/green-infrastructure/)
 - **Coastal Engineering**  
-  → [Course materials & lecture slides](/teaching/coastal-engineering/)
+  → [Course materials & outlines & slide decks](/teaching/coastal-engineering/)
 - **Sediment Transport**  
 - **Analysis of Receiving Water Quality**
 
