@@ -35,6 +35,7 @@ This graduate course introduces sediment transport as a fluid–particle interac
 ## Lecture Materials
 
 ### Topic 1: Introduction 
+- [Briefing Document (PDF)](/files/teaching/sediment_transport/SEDIM26S.pdf){:target="_blank"}
 - [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-I_Introduction_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-I_Introduction_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-I_Introduction_(Infographic).pdf){:target="_blank"}
