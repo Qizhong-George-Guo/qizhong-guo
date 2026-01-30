@@ -11,23 +11,23 @@ This graduate course introduces sediment transport as a fluid–particle interac
 ---
 
 ## Course Outline
-- Topics:
--     1. - Introduction
--     2.  Sediment properties
--	   3.  Review of Fluid Mechanics
--     4.  Particle settling 
--		5.  Scour criteria and design of stable channels
--		6.  Alluvial bed forms and flow resistance
--		7.  Bed load 
--		8.  Suspended load
--		9.  Total load
--		10.  Channel aggregation and degradation (HEC-RAS Program)
--		11.  Overland erosion processes
--		12.  Reservoir sedimentation and management
--		13.  Solids deposition and flushing in sewers
--		14.  Cohesive Sediment 
--		15.  Bridge scour prediction and protection
--		16.  Dam removal and stream restoration
+
+- Introduction
+- Sediment properties
+-	Review of Fluid Mechanics
+- Particle settling 
+-	Scour criteria and design of stable channels
+-	Alluvial bed forms and flow resistance
+-	Bed load 
+-	Suspended load
+-	Total load
+-	Channel aggregation and degradation (HEC-RAS Program)
+-	Overland erosion processes
+-	Reservoir sedimentation and management
+-	Solids deposition and flushing in sewers
+-	Cohesive Sediment 
+-	Bridge scour prediction and protection
+-	Dam removal and stream restoration
 
 *(Outline may evolve over time.)*
 
