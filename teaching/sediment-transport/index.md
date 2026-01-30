@@ -21,11 +21,11 @@ This graduate course introduces sediment transport as a fluid–particle interac
 -	Bed load 
 -	Suspended load
 -	Total load
+-	Cohesive Sediment 
 -	Channel aggregation and degradation (HEC-RAS Program)
 -	Overland erosion processes
 -	Reservoir sedimentation and management
 -	Solids deposition and flushing in sewers
--	Cohesive Sediment 
 -	Bridge scour prediction and protection
 -	Dam removal and stream restoration
 
