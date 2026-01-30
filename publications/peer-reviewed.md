@@ -8,7 +8,9 @@ This page provides a **list of my refereed journal publications**. Additional it
 
 ---
 
-<ol reversed start="66">
+<ol reversed start="67">
+
+<li>Li, M., Chen, L., Guo, Q., Fallgren, P. H., Hui, J., Hao, L. (2026). “Effects of microplastics on inorganic nitrogen dynamics in surface water sediments under different disturbance intensities.” <em>Journal of Hazardous Materials</em>, 386, 127195. <a href="https://doi.org/10.1016/j.jhazmat.2026.141236">https://doi.org/10.1016/j.jhazmat.2026.141236</a></li>
 
 <li>Li, M., Guo, Q., Chen, L., Fallgren, P. H. (2025). “Effects of freshwater salinity on suspended sediment settling during different high-turbidity events.” <em>Environmental Pollution</em>, 386, 127195. <a href="https://doi.org/10.1016/j.envpol.2025.127195">https://doi.org/10.1016/j.envpol.2025.127195</a></li>
 
