@@ -16,7 +16,8 @@ At Rutgers University–New Brunswick, I have taught graduate-level courses incl
   → [Course materials, outlines & slide decks](https://qizhong-guo.org/teaching/green-infrastructure/)
 - **Coastal Engineering**  
   → [Course materials & lecture slides](https://qizhong-guo.org/teaching/coastal-engineering/)
-- **Sediment Transport**  
+- **Sediment Transport**
+  → [Course materials & lecture slides](https://qizhong-guo.org/teaching/sediment-transport/)
 - **Analysis of Receiving Water Quality**
 
 I developed **Green Infrastructure for Water Management** as a new graduate course and began teaching it 2012.
