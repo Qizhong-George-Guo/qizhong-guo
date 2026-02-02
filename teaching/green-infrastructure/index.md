@@ -49,10 +49,11 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_I-3_Stormwater_Rules_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_I-3_Stormwater_Rules_(Infographic).pdf){:target="_blank"}
 
+
 ### New Jersey Stormwater Management Rules (Updated 2026)
-- [Briefing Document (PDF)](/files/teaching/green-infrastructure/New_Jersey_Stormwater_Rules-2026_(Briefing_Document).pdf){:target="_blank"}
-- [Slide Deck (PDF)](/files/teaching/green-infrastructure/New_Jersey_Stormwater_Rules-2026_(Slide_Deck).pdf){:target="_blank"}
-- [Infographic (PDF)](/files/teaching/green-infrastructure/New_Jersey_Stormwater_Rules-2026_(Infographic).pdf){:target="_blank"}
+- [Briefing Document (PDF)](/files/teaching/green-infrastructure/New_Jersey_Stormwater_Rules-2026_%28Briefing_Document%29.pdf){:target="_blank"}
+- [Slide Deck (PDF)](/files/teaching/green-infrastructure/New_Jersey_Stormwater_Rules-2026_%28Slide_Deck%29.pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/green-infrastructure/New_Jersey_Stormwater_Rules-2026_%28Infographic%29.pdf){:target="_blank"}
 
 ### Topic I-4 Small-Scale Green Infrastructure
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Topic_I-4_Small_Scale_Green_Infrastructure_(Briefing_Document).pdf){:target="_blank"}
