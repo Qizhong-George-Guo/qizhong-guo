@@ -44,7 +44,7 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_I-2_Water_Quality_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_I-2_Water_Quality_(Infographic).pdf){:target="_blank"}
 
-### Topic I-3 Stormwater Rules
+### Topic I-3 Stormwater Rules (updated 2026)
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Topic_I-3_Stormwater_Rules_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_I-3_Stormwater_Rules_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_I-3_Stormwater_Rules_(Infographic).pdf){:target="_blank"}
