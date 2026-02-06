@@ -50,6 +50,12 @@ This graduate course introduces sediment transport as a fluid–particle interac
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-III_Fluid_Mechanics_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-III_Fluid_Mechanics_(Infographic).pdf){:target="_blank"}
 
+### Topic 4: Particle Settling Velocity
+- [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-IV_Particle_Settling_Velocity_(Brifing_Document).pdf){:target="_blank"}
+- [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-IV_Particle_Settling_Velocity_(Slide_Deck).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/sediment_transport/Topic-IV_Particle_Settling_Velocity_(Infographic).pdf){:target="_blank"}
+
+
 *(The briefing document, slide deck, and infographic linked above were generated using NotebookLM based on my original Spring 2026 lecture slides. These AI-generated materials are intended to support review, synthesis, and reflection, but they do not replace the original lecture slides. The original slides remain the authoritative and most complete course materials and should be used to guide homework assignments and other coursework. Please contact me if you need access to the original slides or additional course resources.)*
 
 ---
