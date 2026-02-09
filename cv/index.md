@@ -9,7 +9,7 @@ Professor of Civil and Environmental Engineering
 Rutgers University–New Brunswick
 
 📄 **Download:**  
-[Short CV (PDF, 3 pages)](/files/cv/Qizhong_Guo_CV_3pages_2026.pdf)
+[Short CV (PDF, 2 pages)](/files/cv/Qizhong_Guo_CV_2pages_2025.pdf)
 
 ---
 
@@ -33,4 +33,4 @@ Graduate and undergraduate instruction in fluid mechanics, hydrology, sediment t
 
 ---
 
-*Last updated: February 2026*
+*Last updated: December 2025*
