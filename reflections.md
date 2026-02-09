@@ -20,7 +20,7 @@ Some reflections may also be selectively shared on LinkedIn, while others—part
 
 ## Recent Reflections
 
-- [A Brief on River Ice Breakup, Ice Jams, and Flooding →](/reflections/river-ice-breakup/)
+- [A Brief on River Ice Breakup, Ice Jams, and Flooding →](https://qizhong-guo.org/reflections/river-ice-breakup/)
 
 For previously shared commentary and shorter reflections, please visit:  
 [View posts on LinkedIn →](https://www.linkedin.com/in/qizhong-george-guo-a351102/)
