@@ -75,10 +75,21 @@ Author of **over 200 publications**, including books, peer-reviewed journal arti
 
 ### Selected Journal Articles
 
-- Lin, Z., Meneses, D. M., & Guo, Q. (2025). *Journal of Sustainable Water in the Built Environment* (ASCE).  
-- Guo, Q. (2023). *River*.  
-- Byrne, B. A., & Guo, Q. (2021). *Journal of Hydrologic Engineering* (ASCE).  
-- Weinstein, M. P., Guo, Q., & Santasieri, C. (2021). *Estuaries and Coasts*.
+- Lin, Z., Meneses, D. M., & Guo, Q. (2025).  
+  *Impacts of Reflective Heat Gain on Substrate Temperatures and Plant Growth Heterogeneity of a Constructed Green Roof.*  
+  **Journal of Sustainable Water in the Built Environment** (ASCE).
+
+- Guo, Q. (2023).  
+  *Strategies for a Resilient, Sustainable, and Equitable Mississippi River Basin.*  
+  **River**.
+
+- Byrne, B. A., & Guo, Q. (2021).  
+  *Removal of Salt Marsh-Impairing Tidal Flow Restrictions: Impact on Upstream Flooding under the Combined Influence of Rainfall and Tide.*  
+  **Journal of Hydrologic Engineering** (ASCE).
+
+- Weinstein, M. P., Guo, Q., & Santasieri, C. (2021).  
+  *Protecting People and Property While Restoring Coastal Wetland Habitats.*  
+  **Estuaries and Coasts**.
 
 ---
 
