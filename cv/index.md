@@ -43,9 +43,8 @@ Rutgers University–New Brunswick
 
 - Urban stormwater and flood management  
 - Inland, estuarine, and coastal water environment restoration  
-- Green and sustainable water infrastructure  
-- Hydraulics, hydrology, and receiving water quality  
-- Integrated **Green–Grey–Blue–Smart (GGBS)** water and urban system resilience
+- Hydraulics, hydrology, and water resources engineering  
+- **Green–Grey–Blue–Intelligent (GGBI)** water and urban system resilience
 
 ---
 
