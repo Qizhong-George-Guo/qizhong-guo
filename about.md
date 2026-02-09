@@ -12,7 +12,7 @@ Over more than three decades at Rutgers, I have worked on topics including green
 
 My recent interests include synthesizing lessons from long-term work in water systems, exploring integrated resilience strategies across scales, and using emerging AI tools to support engineering education, communication, and knowledge distillation.
 
-My name in Chinese is 郭祺忠.
+My Chinese name is 郭祺忠.
 
 A concise two-page curriculum vitae is available on the
 [Short CV page](/cv/), with a downloadable PDF version.
