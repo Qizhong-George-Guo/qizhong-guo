@@ -8,6 +8,9 @@ permalink: /reflections/river-ice-breakup/
 *Qizhong (George) Guo*  
 *Rutgers University–New Brunswick*
 
+
+Prompted by forecasted warming following prolonged cold conditions and heavy snowfall in early 2026, this brief synthesizes current understanding of river ice breakup, ice jamming, and associated flooding, with emphasis on practical indicators relevant to preparedness and risk awareness. It is informed by early research experience in river ice processes and by ongoing review of developments reported in the literature over the past three decades.
+
 ---
 
 ## Conceptual Flow of Breakup Ice-Jam Flooding
