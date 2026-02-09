@@ -19,9 +19,6 @@ Prompted by forecasted warming following prolonged cold conditions and heavy sno
 
 Prolonged cold conditions lead to the formation of a continuous river ice cover. Forecasted warming and associated hydrologic changes may trigger ice cover breakup, followed by ice transport, jamming at vulnerable locations, and rapid backwater rise and flooding.
 
-
-Prolonged cold conditions lead to the formation of a continuous river ice cover. Forecasted warming and associated hydrologic changes may trigger ice cover breakup, followed by ice transport, jamming at vulnerable locations, and rapid backwater rise and flooding.
-
 ---
 
 ## A Brief Reflection on 30 Years of Progress
