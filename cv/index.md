@@ -107,8 +107,8 @@ Author of **over 200 publications**, including books, peer-reviewed journal arti
 
 ### Courses Taught (Selected)
 
-Fluid Mechanics; Environmental Engineering Design; Advanced Hydrology; Sediment Transport;  
-Analysis of Receiving Water Quality; Coastal Engineering; Green Infrastructure for Water Management.
+Fluid Mechanics; Environmental Engineering Design; Sediment Transport; Analysis of Receiving Water Quality; 
+Coastal Engineering; Green Infrastructure for Water Management.
 
 ### Research Advising
 
