@@ -24,5 +24,5 @@ This page includes authored books and edited volumes arising from research proje
 
 ---
 
+Back to **[Publications & Reports →](/publications)**
 
-[Back to Publications & Reports →](/publications)
