@@ -15,6 +15,11 @@ Prompted by forecasted warming following prolonged cold conditions and heavy sno
 
 ## Conceptual Flow of Breakup Ice-Jam Flooding
 
+![Conceptual flow of river ice breakup, ice transport, ice jamming, and flooding](/assets/images/reflections/River_Ice_Breakup_Conceptutal_Flow_Diagram.jpeg)
+
+Prolonged cold conditions lead to the formation of a continuous river ice cover. Forecasted warming and associated hydrologic changes may trigger ice cover breakup, followed by ice transport, jamming at vulnerable locations, and rapid backwater rise and flooding.
+
+
 Prolonged cold conditions lead to the formation of a continuous river ice cover. Forecasted warming and associated hydrologic changes may trigger ice cover breakup, followed by ice transport, jamming at vulnerable locations, and rapid backwater rise and flooding.
 
 ---
