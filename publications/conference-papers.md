@@ -14,15 +14,14 @@ This page lists **full papers published in conference proceedings**. Papers publ
 
 <li>Guo, Q. (2021). “Post-Sandy Reconstruction and Resilience Enhancement of Urban Flood Management System in the Greater New York Area.” Proceedings of the 5th International Forum on Urban Flood Control and Drainage Capacity, Shanghai, China, December 9–10.</li>
 
-<li>Guo, Q. (2018). “Mitigating Combined Sewer Overflow (CSO) and Restoring Urban Water Environment.” Proceedings of the Sustainable Cities: The iSEE Congress 2018, University of Illinois at Urbana-Champaign, October 5.</li> <a href="https://www.researchgate.net/publication/362965282_Mitigating_Combined_Sewer_Overflow_CSO_and_Restoring_Urban_Water_Environment">ResearchGate</a></li>
+<li>Guo, Q. (2018). “Mitigating Combined Sewer Overflow (CSO) and Restoring Urban Water Environment.” Proceedings of the Sustainable Cities: The iSEE Congress 2018, University of Illinois at Urbana-Champaign, October 5. <a href="https://www.researchgate.net/publication/362965282_Mitigating_Combined_Sewer_Overflow_CSO_and_Restoring_Urban_Water_Environment">ResearchGate</a></li>
 
 <li>Richter, S., Roche, C., Guo, Q. (2016). “Low Impact Stormwater Management Development at Rutgers University.” Proceedings of the 2016 International Low Impact Development Conference, Beijing, China, June 26–29. <a href="https://www.researchgate.net/publication/323648959_Low_Impact_Stormwater_Management_Development_at_Rutgers_University
-">https://www.researchgate.net/publication/323648959_Low_Impact_Stormwater_Management_Development_at_Rutgers_University
-</a></li> 
+">ResearchGate</a></li> 
 
 <li>Guo, Q. (2014). “Green and Adaptive Flood Risk Reduction Strategies for Rebuilding in the Aftermath of Superstorm Sandy.” Proceedings of the 18th Cross-Strait Conference on Water Resources, Xi’an, China, October 20–25.</li>
 
-<li>Guo, Q., Kantor, P., Roberts, F., Robinson, D., Correa, C. A., Cignarella, B. (2014). “Risk Analysis for Flood Mitigation on the Raritan.” Proceedings of the 6th International Conference on Flood Management, São Paulo, Brazil, September 16–18. <a href="https://www.researchgate.net/publication/354647284_RISK_ANALYSIS_FOR_FLOOD_MITIGATION_ON_THE_RARITAN">https://www.researchgate.net/publication/354647284_RISK_ANALYSIS_FOR_FLOOD_MITIGATION_ON_THE_RARITAN</a></li>
+<li>Guo, Q., Kantor, P., Roberts, F., Robinson, D., Correa, C. A., Cignarella, B. (2014). “Risk Analysis for Flood Mitigation on the Raritan.” Proceedings of the 6th International Conference on Flood Management, São Paulo, Brazil, September 16–18. <a href="https://www.researchgate.net/publication/354647284_RISK_ANALYSIS_FOR_FLOOD_MITIGATION_ON_THE_RARITAN">ResearchGate</a></li>
 
 <li>Guo, Q. (2013). “Development of Flood Risk Reduction Strategies in the Aftermath of Hurricane Sandy.” Proceedings of the 17th Cross-Strait Conference on Water Resources, Miaoli, Taiwan, November 14–15.</li>
 
@@ -36,7 +35,7 @@ This page lists **full papers published in conference proceedings**. Papers publ
 
 <li>Kim, J., Guo, Q. (2011). “Maintenance Interval for Stormwater Hydrodynamic Separators.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Palm Springs, California, May 22–26. <a href="https://doi.org/10.1061/41173(414)374">https://doi.org/10.1061/41173(414)374</a></li>
 
-<li>Xu, H., Guo, Q., Chen, Y. (2010). “The impacts of radar-precipitation-estimation on streamflow simulation with HSPF.” Remote Sensing and Hydrology. IAHS Special Publication 352. Proceedings of IAHS Symposium, Jackson Hole, Wyoming, September 27–30, 2010, Neale, C. M.U. and Cosh, M. H. (eds.). <a href="https://www.abebooks.com/Remote-Sensing-Hydrology-Proceedings-Symposium-2010/12076172075/bd">https://www.abebooks.com/Remote-Sensing-Hydrology-Proceedings-Symposium-2010/12076172075/bd</a></li>
+<li>Xu, H., Guo, Q., Chen, Y. (2010). “The impacts of radar-precipitation-estimation on streamflow simulation with HSPF.” Remote Sensing and Hydrology. IAHS Special Publication 352. Proceedings of IAHS Symposium, Jackson Hole, Wyoming, September 27–30, 2010, Neale, C. M.U. and Cosh, M. H. (eds.). <a href="https://www.abebooks.com/Remote-Sensing-Hydrology-Proceedings-Symposium-2010/12076172075/bd">Proceedings</a></li>
 
 <li>Guo, Q., Kim, J. (2010). “Quantity and Quality of Stormwater Solids Trapped by Hydrodynamic Separators at Highway Sites.” Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Providence, Rhode Island, May 16–20. <a href="https://doi.org/10.1061/41114(371)339">https://doi.org/10.1061/41114(371)339</a></li>
 
@@ -46,7 +45,7 @@ This page lists **full papers published in conference proceedings**. Papers publ
 
 <li>Fowler, G. D., Roseen, R. M., Ballestero, T. P., Guo, Q., Houle, J. (2009). Proceedings of the ASCE/EWRI World Environmental & Water Resources Congress, Kansas City, Missouri, May 17–21. <a href="https://doi.org/10.1061/41036(342)150">https://doi.org/10.1061/41036(342)150</a></li>
 
-<li>Boxer, C., Nickens, A., Guo, Q. (2009). “Beneficiation and Utilization of Fly Ash Containing Mercury-Impregnated Activated Carbon.” Proceedings of the World of Coal Ash (WOCA) Conference, Lexington, Kentucky, May 4–7. <a href="https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=2080&context=woca">https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=2080&context=woca</a></li>
+<li>Boxer, C., Nickens, A., Guo, Q. (2009). “Beneficiation and Utilization of Fly Ash Containing Mercury-Impregnated Activated Carbon.” Proceedings of the World of Coal Ash (WOCA) Conference, Lexington, Kentucky, May 4–7. <a href="https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=2080&context=woca">Proceedings</a></li>
 
 <li>Guo, Q. (2008). “Urban Flood Management in the USA.” Proceedings of the Advanced Symposium on New Technologies for Urban Flood Forecast and Warning, Dongguan, China, November 19–21.</li>
 
@@ -70,7 +69,7 @@ This page lists **full papers published in conference proceedings**. Papers publ
 
 <li>Marcoon, K. B., Guo, Q. (2004). “Detention Basin Retrofit: Optimization between Water Quality Improvement and Flood Control.” Proceedings of the World Water & Environmental Resources Congress, Salt Lake City, Utah, June 27–July 1. <a href="https://doi.org/10.1061/40737(2004)43">https://doi.org/10.1061/40737(2004)43</a></li>
 
-<li>Guo, Q. (2004). “Reengineering of Urban Storm Water Management Facilities.” IDS–Water Americas 2004, Internet Conference, May 10–28. <a href="https://www.researchgate.net/publication/357689339_Reengineering_of_Urban_Storm_Water_Management_Facilities">https://www.researchgate.net/publication/357689339_Reengineering_of_Urban_Storm_Water_Management_Facilities</a></li>  
+<li>Guo, Q. (2004). “Reengineering of Urban Storm Water Management Facilities.” IDS–Water Americas 2004, Internet Conference, May 10–28. <a href="https://www.researchgate.net/publication/357689339_Reengineering_of_Urban_Storm_Water_Management_Facilities">ResearchGate</a></li>  
 
 <li>Li, C., Guo, Q. (2003). “Integrated Point and Nonpoint Source Modeling of Fecal Coliform in Whippany Watershed, New Jersey.” Proceedings of the World Water & Environmental Resources Congress, Philadelphia, PA, June 22–26. <a href="https://doi.org/10.1061/40685(2003)293">https://doi.org/10.1061/40685(2003)293</a></li> 
 
@@ -78,7 +77,7 @@ This page lists **full papers published in conference proceedings**. Papers publ
 
 <li>Guo, Q. (2002). “Variability of Net Mass Transport through Estuary–Ocean and Estuary–Marsh Boundaries.” Proceedings of the 2nd International Workshop on Coastal Eutrophication, Tianjin, China, November 21–24.</li>
 
-<li>Guo, Q., Psuty, N. P., Pinheiro, C. G., Sankararamakrishnan, N., Pace, J. P. (2001). “The Coastal Ocean as Source as Well as Sink of Nitrogen to an Estuary.” Proceedings of the 3rd International Symposium on Environmental Hydraulics, Tempe, Arizona, December 5–8, CD-ROM. <a href=" https://www.researchgate.net/publication/266736439_The_Coastal_Ocean_as_Source_as_Well_as_Sink_of_Nitrogen_to_an_Estuary"> https://www.researchgate.net/publication/266736439_The_Coastal_Ocean_as_Source_as_Well_as_Sink_of_Nitrogen_to_an_Estuary</a></li> 
+<li>Guo, Q., Psuty, N. P., Pinheiro, C. G., Sankararamakrishnan, N., Pace, J. P. (2001). “The Coastal Ocean as Source as Well as Sink of Nitrogen to an Estuary.” Proceedings of the 3rd International Symposium on Environmental Hydraulics, Tempe, Arizona, December 5–8, CD-ROM. <a href=" https://www.researchgate.net/publication/266736439_The_Coastal_Ocean_as_Source_as_Well_as_Sink_of_Nitrogen_to_an_Estuary"> ResearchGate</a></li> 
 
 <li>Fan, C.-Y., Guo, Q., Raghavan, R., Field, R. (2001). “Sewer Sediment Gate and Vacuum Flushing: Laboratory Flume Studies.” Proceedings of the 3rd International Symposium on Environmental Hydraulics, Tempe, Arizona, December 5–8, CD-ROM.</li>
 
@@ -94,10 +93,10 @@ This page lists **full papers published in conference proceedings**. Papers publ
 
 <li>Guo, Q. (1995). “Hydraulics of Ice-Covered Rivers – Discussion.” In <em>Issues and Directions in Hydraulics</em>, Proceedings of an Iowa Hydraulics Colloquium, Iowa City, Iowa, May 22–24. Balkema, Rotterdam, pp. 181–183.</li>
 
-<li>Guo, Q., Song, C. C. S. (1994). “A Numerical Model for the Entire River Ice Breakup and Jamming Process and Field Data Needs for Its Verification.” Proceedings of the River Ice Seminar, Minneapolis, Minnesota, November 17–18. National Weather Service, pp. 233–243.</li>
+<li>Guo, Q., Song, C. C. S. (1994). “A Numerical Model for the Entire River Ice Breakup and Jamming Process and Field Data Needs for Its Verification.” Proceedings of the River Ice Seminar, Minneapolis, Minnesota, November 17–18. National Weather Service, pp. 233–243.<a href="https://www.researchgate.net/publication/357632536_A_Numerical_Model_for_the_Entire_River_Ice_Breakup_and_Jamming_Process_and_Field_Data_Needs_for_its_Verification">ResearchGate</a></li>  
 
-<li>Guo, Q., Song, C. C. S. (1993). “A Semi-Discrete Element Approach to the River Ice Breakup and Jamming Process.” Proceedings of the National Conference on Hydraulic Engineering, San Francisco, California, July 25–30. ASCE, pp. 65–69.</li>
-
+<li>Guo, Q., Song, C. C. S. (1993). “A Semi-Discrete Element Approach to the River Ice Breakup and Jamming Process.” Proceedings of the National Conference on Hydraulic Engineering, San Francisco, California, July 25–30. ASCE, pp. 65–69. <a href="https://www.researchgate.net/publication/357447839_A_Semi-Discrete_Element_Approach_to_the_River_Ice_Breakup_and_Jamming_Process">ResearchGate</a></li>  
+ 
 <li>Guo, Q., Song, C. C. S. (1990). “The River Ice Breakup and Jamming Process and Its Effect on Flooding.” Proceedings of Floodplain Management Conference, Ontario, Canada, March 12–14.</li>
 
 <li>Guo, Q. (1989). “Geysering in Urban Storm Drainage Systems.” Proceedings of the XXIII IAHR Congress, Ottawa, Canada, August 21–25, pp. S75–S81.</li>
