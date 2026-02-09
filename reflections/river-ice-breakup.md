@@ -89,16 +89,16 @@ Monitoring these conditions together supports informed readiness, even when exac
 - Guo, Q., and Song, C. C. S. (1993).  
   *A semi-discrete element approach to the river ice breakup and jamming process.*  
   Proceedings of the National Conference on Hydraulic Engineering, ASCE, San Francisco, CA, pp. 65–69.  
-  <a href="https://https://www.researchgate.net/publication/357447839">Link</a>
+  <a href="https://www.researchgate.net/publication/357447839">Link</a>
 
 - Guo, Q., and Song, C. C. S. (1994).  
   *A numerical model for the entire river ice breakup and jamming process.*  
   Proceedings of the River Ice Seminar, National Weather Service, Minneapolis, MN, pp. 233–243.  
-  <a href="https://https://www.researchgate.net/publication/357632536">Link</a>
+  <a href="https://www.researchgate.net/publication/357632536">Link</a>
   
 - Guo, Q. (2002).  
   *Applicability of criterion for onset of river ice breakup.*  
-  Journal of Hydraulic Engineering, ASCE, 128(11), 1023–1026.  
+  Journal of Hydraulic Engineering, ASCE, 128(11), 1023–1026.
   <a href="https://doi.org/10.1061/(ASCE)0733-9429(2002)128:11(1023)">Link</a>
 
 - Wang, J., He, G., and Chen, X. (2013).  
