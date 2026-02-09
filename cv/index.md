@@ -15,7 +15,7 @@ Rutgers University–New Brunswick
 **Web:** https://qizhong-guo.org  
 
 📄 **Download:**  
-[Curriculum Vitae (PDF, 2 pages)](/files/cv/Qizhong_Guo_CV_2pages_2026.pdf)
+[Curriculum Vitae (PDF, 2 pages)](/files/cv/Qizhong_Guo_CV_2pages_2025.pdf)
 
 ---
 
