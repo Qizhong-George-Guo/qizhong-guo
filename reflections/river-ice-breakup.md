@@ -89,32 +89,32 @@ Monitoring these conditions together supports informed readiness, even when exac
 - Guo, Q., and Song, C. C. S. (1993).  
   *A semi-discrete element approach to the river ice breakup and jamming process.*  
   Proceedings of the National Conference on Hydraulic Engineering, ASCE, San Francisco, CA, pp. 65–69.  
-  https://www.researchgate.net/publication/357447839
+  <a href="https://https://www.researchgate.net/publication/357447839">Link</a>
 
 - Guo, Q., and Song, C. C. S. (1994).  
   *A numerical model for the entire river ice breakup and jamming process.*  
   Proceedings of the River Ice Seminar, National Weather Service, Minneapolis, MN, pp. 233–243.  
-  https://www.researchgate.net/publication/357632536
-
+  <a href="https://https://www.researchgate.net/publication/357632536">Link</a>
+  
 - Guo, Q. (2002).  
   *Applicability of criterion for onset of river ice breakup.*  
   Journal of Hydraulic Engineering, ASCE, 128(11), 1023–1026.  
-  https://doi.org/10.1061/(ASCE)0733-9429(2002)128:11(1023)
+  <a href="https://doi.org/10.1061/(ASCE)0733-9429(2002)128:11(1023)">Link</a>
 
 - Wang, J., He, G., and Chen, X. (2013).  
   *Mechanical breakup of river ice cover considering fluid–solid coupling.*  
   Journal of Hydrodynamics, 25(2), 193–202.  
-  https://doi.org/10.1016/S1001-6058(11)60380-7
-
+  <a href="https://doi.org/10.1016/S1001-6058(11)60380-7">Link</a>
+  
 - Lindenschmidt, K.-E. (2017).  
   *RIVICE—A non-proprietary, open-source, one-dimensional river-ice model.*  
   Water, 9(5), 314.  
-  https://doi.org/10.3390/w9050314
+  <a href="https://doi.org/10.3390/w9050314">Link</a>
 
 - Shen, H. T., and Huang, J. (2025).  
   *Nowcasting mechanical breakup ice jams based on hydrologic change and ice thickness.*  
   Hydrology, 12(3), 324.  
-  https://doi.org/10.3390/hydrology12120324
+  <a href="https://doi.org/10.3390/hydrology12120324">Link</a> 
 
 ---
 
