@@ -18,7 +18,7 @@ Some reflections may also be selectively shared on LinkedIn, while others—part
 
 ## Recent Reflections
 
-- [A Brief on River Ice Breakup, Ice Jams, and Flooding →](/reflections/river-ice-breakup/)
+- [February 8, 2026: A Brief on River Ice Breakup, Ice Jams, and Flooding (PDF)](/files/reflections/River_Breakup_Ice_Jam_Brief.pdf){:target="_blank"}
 
 For previously shared commentary and shorter reflections, please visit:  
 [View posts on LinkedIn →](https://www.linkedin.com/in/qizhong-george-guo-a351102/)
