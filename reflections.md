@@ -16,10 +16,6 @@ New reflections will be added here as they are developed. This space is intended
 
 Some reflections may also be selectively shared on LinkedIn, while others—particularly more exploratory or opinionated pieces—will remain exclusive to this site.
 
-## Recent Reflections
-
-## Recent Reflections
-
 - [A Brief on River Ice Breakup, Ice Jams, and Flooding →](https://qizhong-guo.org/reflections/river-ice-breakup/)
 
 For previously shared commentary and shorter reflections, please visit:  
