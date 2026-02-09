@@ -50,7 +50,7 @@ Rutgers University–New Brunswick
 
 ## Employment History
 
-**Rutgers, The State University of New Jersey–New Brunswick**, Piscataway, NJ  
+**Rutgers University–New Brunswick**, Piscataway, NJ  
 Professor; Associate Professor; Assistant Professor (1992–Present)  
 Department of Civil and Environmental Engineering  
 
