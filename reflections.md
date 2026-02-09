@@ -16,7 +16,9 @@ New reflections will be added here as they are developed. This space is intended
 
 Some reflections may also be selectively shared on LinkedIn, while others—particularly more exploratory or opinionated pieces—will remain exclusive to this site.
 
-- [A Brief on River Ice Breakup, Ice Jams, and Flooding (PDF)](/files/reflections/River_Breakup_Ice_Jam_Brief.pdf){:target="_blank"}
+## Recent Reflections
+
+- [A Brief on River Ice Breakup, Ice Jams, and Flooding →](/reflections/river-ice-breakup/)
 
 For previously shared commentary and shorter reflections, please visit:  
 [View posts on LinkedIn →](https://www.linkedin.com/in/qizhong-george-guo-a351102/)
