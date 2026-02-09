@@ -51,15 +51,15 @@ Rutgers University–New Brunswick
 ## Employment History
 
 **Rutgers, The State University of New Jersey–New Brunswick**, Piscataway, NJ  
-Professor / Associate Professor / Assistant Professor (1992–Present)  
+Professor; Associate Professor; Assistant Professor (1992–Present)  
 Department of Civil and Environmental Engineering  
 
 **Lemna Corporation**, St. Paul, MN  
 Research and Development Engineer (1992)
 
 **University of Minnesota**, Minneapolis, MN  
-Teaching Assistant / Research Assistant / Research Associate (1985–1992)  
-St. Anthony Falls Hydraulic Laboratory
+Research Associate; Research Assistant; Teaching Assistant (1985–1992)  
+St. Anthony Falls Laboratory
 
 ---
 
