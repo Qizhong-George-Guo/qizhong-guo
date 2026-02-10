@@ -22,9 +22,9 @@ Rutgers University–New Brunswick
 ## Education
 
 - **Ph.D.**, Civil Engineering (Water Resources),  
-  University of Minnesota, Minneapolis, MN (1991)
+  University of Minnesota-Twin Cities, Minneapolis, MN (1991)
 - **M.S.**, Civil Engineering (Water Resources),  
-  University of Minnesota, Minneapolis, MN (1987)
+  University of Minnesota-Twin Cities, Minneapolis, MN (1987)
 - **B.E.**, Civil Engineering (Hydraulic & Hydropower),  
   Tianjin University, Tianjin, China (1982)
 
