@@ -142,8 +142,11 @@ Supervised **15 doctoral students**, **65 master’s students**, and **4 postdoc
     "name": "Rutgers University–New Brunswick"
   },
   "url": "https://qizhong-guo.org",
-  "email": "mailto:Qguo@rutgers.edu",
+  "email": "mailto:qguo@rutgers.edu",
   "sameAs": [
+    "https://qizhong-guo.org"
+  ],
+    "sameAs": [
     "https://cee.rutgers.edu/qizhong-george-guo"
   ],
   "knowsAbout": [
@@ -152,7 +155,8 @@ Supervised **15 doctoral students**, **65 master’s students**, and **4 postdoc
     "Green Infrastructure",
     "Hydraulics and Hydrology",
     "Estuarine and Coastal Processes",
-    "Green–Grey–Blue–Smart Infrastructure"
+    "Green–Grey–Blue–Intelligent Infrastructure"
+  "Green–Grey–Blue–Smart Infrastructure"
   ]
 }
 </script>
