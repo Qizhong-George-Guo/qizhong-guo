@@ -34,7 +34,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Brooklyn’s Response to Sea Level Rise</strong>, WNYC, June 30, 2022.</li>
 
-<li><strong>Interview on Limitations of Urban Infrastructure against Extreme Flash Flooding</strong>, WNYC, April 11, 2022.  
+<li><strong>Interview on Limitations of Urban Infrastructure against Extreme Flash Flooding</strong>, Gothamist (WNYC), April 11, 2022.  
 <a href="https://gothamist.com/news/even-after-sandy-and-ida-nyc-still-lacks-a-solid-evacuation-plan-for-emergency-flash-floods">Link</a></li>
 
 <li><strong>Interview on New York City Subway Flooding</strong>, <em>New York Post</em>, July 15, 2021.</li>
