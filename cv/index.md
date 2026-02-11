@@ -110,7 +110,7 @@ Author of **over 200 publications**, including books, peer-reviewed journal arti
 - Principal Investigator, State of New Jersey post-Sandy flood risk reduction strategy  
 - Chair, ASCE Task Committee on Stormwater Manufactured Treatment Devices  
 - President, Chinese American Water Resources Association  
-- Media Expert: *Politico*, Science Channel, MSNBC, *Gothamist*, *The Star-Ledger*
+- Media Expert: *POLITICO*, Science Channel, MSNBC, *Gothamist*, *The Star-Ledger*
 
 ---
 
