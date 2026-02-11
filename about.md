@@ -15,7 +15,7 @@ My recent interests include synthesizing lessons from long-term work in water sy
 My Chinese name is 郭祺忠.
 
 A concise curriculum vitae is available on the  
-[**Short CV page**](/cv/), including a downloadable PDF version.
+[**Short CV page**](/cv/), where a downloadable PDF version may also be accessed.
 
 ---
 
