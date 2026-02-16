@@ -55,7 +55,7 @@ This graduate course introduces sediment transport as a fluid–particle interac
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-IV_Particle_Settling_Velocity_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-IV_Particle_Settling_Velocity_(Infographic).pdf){:target="_blank"}
 
-### Topic 4: Scour Criteria and Design of Stable Channels
+### Topic 5: Scour Criteria and Design of Stable Channels
 - [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-V_Scour_Criteria_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-V_Scour_Criteria_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-V_Scour_Criteria_(Infographic).pdf){:target="_blank"}
