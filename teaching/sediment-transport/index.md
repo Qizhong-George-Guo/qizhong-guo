@@ -65,7 +65,7 @@ This graduate course introduces sediment transport as a fluid–particle interac
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-VI_Bed_Forms_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-VI_Bed_Forms_(Infographic).pdf){:target="_blank"}
 
- ### Topic 7: Bed Load 
+### Topic 7: Bed Load 
 - [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-VII_Bed_Load_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-VII_Bed_Load_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-VII_Bed_Load_(Infographic).pdf){:target="_blank"}
