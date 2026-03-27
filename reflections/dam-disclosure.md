@@ -133,3 +133,9 @@ A related news article that motivated this brief is available here:
 ## Final Note
 
 This brief builds on a recent *NJ.com* article and provides additional technical and historical context for understanding why dams—particularly small, historic embankments—can become part of modern residential properties, and why their presence may not always be apparent during real-estate transactions.
+
+---
+
+**Download:**  
+[PDF version of this brief →](/files/reflections/Dam-Disclosure-Brief.pdf)
+
