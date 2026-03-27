@@ -25,6 +25,9 @@ Within the UCWS Lab, I have used equipment to demonstrate fluid flow concepts, v
 
 - **LiveBIG 2019-20: Rutgers engineers infrastructure that addresses sea-level change**
   <https://www.youtube.com/watch?v=VL3ZZZZRKsI>
+
+- **School of Engineering – LAB REPORT**  
+  <https://soe.rutgers.edu/news/lab-report-improving-resilience-and-sustainability-urban-and-coastal-water-systems>
   
 - **School of Engineering – Labs & Facilities Overview**  
   <https://soe.rutgers.edu/research/labs-and-facilities>
