@@ -18,6 +18,9 @@ Some reflections may also be selectively shared on LinkedIn, while others—part
 
 - [A Brief on River Ice Breakup, Ice Jams, and Flooding →](https://qizhong-guo.org/reflections/river-ice-breakup/)
 
+- 
+- [When a Homeowner Discovers a Dam →](https://qizhong-guo.org/reflections/dam-disclosure/)
+
 For previously shared commentary and shorter reflections, please visit:  
 [View posts on LinkedIn →](https://www.linkedin.com/in/qizhong-george-guo-a351102/)
 
