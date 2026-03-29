@@ -134,7 +134,7 @@ These tools are effective for screening large areas but do not replace on-the-gr
 
 The pond behind the Institute for Advanced Study (IAS) in Princeton provides an illustrative example.
 
-![IAS pond overall view](/assets/images/reflections/dam-disclosure/IAS_Pond_Surface.jpg)
+![IAS pond overall view](/assets/images/reflections/IAS_Pond_Surface.jpg)
 
 *Figure 1. IAS pond in Princeton, New Jersey. While it appears natural, it is formed and maintained by a man-made embankment dam and outlet structure. Photo by the author, October 18, 2025.*
 
@@ -150,11 +150,11 @@ Field observations further reveal:
 - a constructed outlet structure  
 - a well-defined earthen embankment and crest  
 
-![IAS pond outlet structure](/assets/images/reflections/dam-disclosure/IAS_Pond_Outlet.jpg)
+![IAS pond outlet structure](/assets/images/reflections/IAS_Pond_Outlet.jpg)
 
 *Figure 2. Outlet structure of the IAS pond showing controlled discharge. Photo by the author, October 18, 2025.*
 
-![IAS pond embankment](/assets/images/reflections/dam-disclosure/IAS_Pond_Berm.jpg)
+![IAS pond embankment](/assets/images/reflections/IAS_Pond_Berm.jpg)
 
 *Figure 3. Earthen embankment (dam) of the IAS pond, showing crest and downstream slope. Photo by the author, October 18, 2025.*
 
