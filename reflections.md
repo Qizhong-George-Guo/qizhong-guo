@@ -16,11 +16,10 @@ New reflections will be added here as they are developed. This space is intended
 
 Some reflections may also be selectively shared on LinkedIn, while others—particularly more exploratory or opinionated pieces—will remain exclusive to this site.
 
-- [A Brief on River Ice Breakup, Ice Jams, and Flooding →](...)
+- [A Brief on River Ice Breakup, Ice Jams, and Flooding →](https://qizhong-guo.org/reflections/river-ice-breakup/)
   *A synthesis of river ice breakup and ice-jam flooding processes, with a 30-year perspective and practical indicators for risk awareness and preparedness.*
 
-- [When a Homeowner Discovers a Dam →](...)
-  *Reflection on hidden dam infrastructure, disclosure challenges, and practical identification methods.*
+- [When a Homeowner Discovers a Dam →](https://qizhong-guo.org/reflections/dam-disclosure/) *Reflection on hidden dam infrastructure, disclosure challenges, and practical identification methods.*
 
 For previously shared commentary and shorter reflections, please visit:  
 [View posts on LinkedIn →](https://www.linkedin.com/in/qizhong-george-guo-a351102/)
