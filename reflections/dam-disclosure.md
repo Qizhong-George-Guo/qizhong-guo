@@ -126,7 +126,7 @@ Modern geospatial tools can complement field observations:
 
 - **Aerial and satellite imagery** identify impounded water bodies and linear features  
 - **Digital elevation models (DEMs)** detect subtle embankments and terrain changes  
-- **Machine learning and computer vision** are increasingly used to identify small dams  
+- **Machine learning, artificial intelligence (AI), and computer vision** are increasingly used to identify small dams  
 
 Low-head dams—sometimes referred to as *“drowning machines”*—can be difficult to detect visually but may pose significant hazards.
 
