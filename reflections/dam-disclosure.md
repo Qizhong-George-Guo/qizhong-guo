@@ -4,7 +4,7 @@ title: "When a Homeowner Discovers a Dam"
 permalink: /reflections/dam-disclosure/
 ---
 
-*Originally prepared on March 27, 2026; expanded on March 29, 2026*  
+*Originally prepared on March 27, 2026; expanded on March 30, 2026*  
 *Qizhong (George) Guo*  
 *Rutgers University–New Brunswick*  
 
@@ -74,11 +74,13 @@ States have adopted different approaches to disclosure of dams in residential re
 
 These requirements are intended to improve transparency and reduce unexpected obligations for homebuyers.
 
+An additional consideration is the distinction between dams or embankments located in upland areas (e.g., small ponds or drainage features) and those spanning significant streams. This distinction can influence decisions on maintenance, rehabilitation, or removal, as such structures may affect both upstream and downstream conditions—including fish migration, water quality, sediment transport, and flooding. It also highlights the importance of clearly defining what constitutes a “dam” in disclosure frameworks, particularly in the context of proposed legislation in New Jersey.
+
 ---
 
 ## Practical Challenges
 
-Although disclosure appears straightforward, practical challenges arise.
+Although disclosure may appear straightforward, practical challenges arise.
 
 - Many homeowners may not know whether a small embankment legally qualifies as a dam  
 - Records for older structures may be incomplete  
