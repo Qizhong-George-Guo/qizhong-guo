@@ -4,7 +4,7 @@ title: "When a Homeowner Discovers a Dam"
 permalink: /reflections/dam-disclosure/
 ---
 
-*Originally prepared on March 27, 2026; expanded on March 30, 2026*  
+*Originally prepared on March 27, 2026; expanded on March 29 and 30, 2026 to incorporate additional analysis and case study material*  
 *Qizhong (George) Guo*  
 *Rutgers University–New Brunswick*  
 
