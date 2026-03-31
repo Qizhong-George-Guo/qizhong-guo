@@ -221,5 +221,6 @@ This expanded brief provides additional technical, historical, and practical con
 [Slide_Deck →](/files/reflections/Slide_Deck_based_on_Qizhong_Guo_brief.pdf){:target="_blank"}
 [Infographic →](/files/reflections/Infographic_based_on_Qizhong_Guo_brief.pdf){:target="_blank"}
 [Briefing_Document →](/files/reflections/Briefing_Document_based_on_Qizhong_Guo_brief.pdf){:target="_blank"}
+[Video →](https://www.youtube.com/watch?v=IDtDJujPIKE){:target="_blank"}
 
 
