@@ -216,3 +216,10 @@ This expanded brief provides additional technical, historical, and practical con
 **Download:**  
 [PDF version of this brief →](/files/reflections/Dam-Disclosure-Brief.pdf)
 
+
+**NotebookLM summaries:**  
+[Slide_Deck →](/files/reflections/Slide_Deck_based_on_Qizhong_Guo_brief.pdf)
+[Infographic →](/files/reflections/Infographic_based_on_Qizhong_Guo_brief.pdf)
+[Briefing_Document →](/files/reflections/Briefing_Document_based_on_Qizhong_Guo_brief.pdf)
+
+
