@@ -84,6 +84,11 @@ This graduate course introduces sediment transport as a fluid–particle interac
 - [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-X_Cohesive_Sediment_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-X_Cohesive_Sediment_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-X_Cohesive_Sediment_(Infographic).pdf){:target="_blank"}
+
+### Topic 11: Channel aggregation and degradation (HEC-RAS Program) 
+- [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-XI_Channel_Morphodynamics_(Briefing_Document).pdf){:target="_blank"}
+- [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-XI_Channel_Morphodynamics_(Slide_Deck).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/sediment_transport/Topic-XI_Channel_Morphodynamics_(Infographic).pdf){:target="_blank"}
  
 *(The briefing document, slide deck, and infographic linked above were generated using NotebookLM based on my original Spring 2026 lecture slides. These AI-generated materials are intended to support review, synthesis, and reflection, but they do not replace the original lecture slides. The original slides remain the authoritative and most complete course materials and should be used to guide homework assignments and other coursework. Please contact me if you need access to the original slides or additional course resources.)*
 
