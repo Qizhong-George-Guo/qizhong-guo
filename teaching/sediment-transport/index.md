@@ -14,14 +14,14 @@ This graduate course introduces sediment transport as a fluid–particle interac
 
 - Introduction
 - Sediment properties
--	Review of Fluid Mechanics
+-	Review of fluid mechanics
 - Particle settling 
 -	Scour criteria and design of stable channels
 -	Alluvial bed forms and flow resistance
 -	Bed load 
 -	Suspended load
 -	Total load
--	Cohesive Sediment 
+-	Cohesive sediment transport
 -	Channel aggregation and degradation (HEC-RAS Program)
 -	Overland erosion processes
 -	Reservoir sedimentation and management
@@ -80,15 +80,21 @@ This graduate course introduces sediment transport as a fluid–particle interac
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-IX_Total_Load_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-IX_Total_Load_(Infographic).pdf){:target="_blank"}
 
-### Topic 10: Cohesive Sediment 
+### Topic 10: Cohesive Sediment Transport
 - [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-X_Cohesive_Sediment_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-X_Cohesive_Sediment_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-X_Cohesive_Sediment_(Infographic).pdf){:target="_blank"}
 
-### Topic 11: Channel aggregation and degradation (HEC-RAS Program) 
+### Topic 11: Channel Aggregation and Degradation (HEC-RAS Program) 
 - [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-XI_Channel_Morphodynamics_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-XI_Channel_Morphodynamics_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-XI_Channel_Morphodynamics_(Infographic).pdf){:target="_blank"}
+
+
+### Topic 12: Overland Erosion Processes 
+- [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-XII_Overland_Erosion_(Briefing_Document).pdf){:target="_blank"}
+- [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-XII_Overland_Erosion_(Slide_Deck).pdf){:target="_blank"}
+- [Infographic (PDF)](/files/teaching/sediment_transport/Topic-XII_Overland_Erosion_(Infographic).pdf){:target="_blank"}
  
 *(The briefing document, slide deck, and infographic linked above were generated using NotebookLM based on my original Spring 2026 lecture slides. These AI-generated materials are intended to support review, synthesis, and reflection, but they do not replace the original lecture slides. The original slides remain the authoritative and most complete course materials and should be used to guide homework assignments and other coursework. Please contact me if you need access to the original slides or additional course resources.)*
 
