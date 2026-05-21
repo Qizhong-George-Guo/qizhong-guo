@@ -97,7 +97,7 @@ This graduate course introduces sediment transport as a fluid–particle interac
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-XII_Overland_Erosion_(Infographic).pdf){:target="_blank"}
 
 
-### Topic 13: Reservoir Sedimentation 
+### Topic 13: Reservoir Sedimentation and Management
 - [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-XIII_Reservoir_Sedimentation_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-XIII_Reservoir_Sedimentation_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-XIII_Reservoir_Sedimentation_(Infographic).pdf){:target="_blank"}
