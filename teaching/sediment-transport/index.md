@@ -70,7 +70,7 @@ This graduate course introduces sediment transport as a fluid–particle interac
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-VII_Bed_Load_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-VII_Bed_Load_(Infographic).pdf){:target="_blank"}
 
- ### Topic 8: Suspended Load 
+### Topic 8: Suspended Load  
 - [Briefing Document (PDF)](/files/teaching/sediment_transport/Topic-VIII_Suspended_Load_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/sediment_transport/Topic-VIII_Suspended_Load_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/sediment_transport/Topic-VIII_Suspended_Load_(Infographic).pdf){:target="_blank"}
