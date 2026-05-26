@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Green Infrastructure for Water Management"
+title: "Green Infrastructure for Water Management (Stormwatet Focused)"
 permalink: /teaching/green-infrastructure/
 
 ---
