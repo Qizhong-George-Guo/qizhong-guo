@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Green Infrastructure for Water Management (Stormwater Focused)
+title: Green Infrastructure for Water Management <small>(Stormwater Focused)</small>
+
 ---
 permalink: /teaching/green-infrastructure/
 
