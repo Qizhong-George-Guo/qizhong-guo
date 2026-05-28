@@ -1,5 +1,5 @@
 ---
-layout: page
+page
 title: Green Infrastructure for Water Management <span style="font-size:70%; font-weight:normal;">(Stormwater Focused)</span>
 ---
 permalink: /teaching/green-infrastructure/
