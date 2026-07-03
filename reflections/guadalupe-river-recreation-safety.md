@@ -10,7 +10,7 @@ permalink: /reflections/guadalupe-river-recreation-safety/
 
 *A brief reflection by Qizhong (George) Guo*  
 *Rutgers University, New Jersey*  
-*July 2026*
+*July 1, 2026*
 
 Nearly one year after the deadly July 2025 Guadalupe River flood in the Texas Hill Country, the immediate pathogen contamination from the original floodwater is probably no longer the primary recreation-safety concern. In a flowing river, fecal indicator bacteria and many pathogens introduced during a flood are usually reduced over time by dilution, flushing, sunlight, settling, and natural die-off.
 
