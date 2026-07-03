@@ -4,8 +4,6 @@ title: "Clear Water, Changed River: Post-Flood Recreation Safety"
 permalink: /reflections/guadalupe-river-recreation-safety/
 ---
 
-# Clear Water, Changed River: Post-Flood Recreation Safety
-
 ## Lessons from the Guadalupe River Flood in the Texas Hill Country
 
 *A brief reflection by Qizhong (George) Guo*  
