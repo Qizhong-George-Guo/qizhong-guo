@@ -38,7 +38,7 @@ Examples from other flood-affected rivers support this general principle, even t
 
 Post-flood debris removal and river-corridor restoration have occurred along the Guadalupe River, including underwater debris surveys and removal at popular recreation areas. Local reporting described nonprofit dive teams working to survey and remove submerged debris from more than 20 high-contact recreation sites along the river, from Hunt to Center Point.
 
-That work is important, but targeted debris removal is not the same as comprehensive in-channel inspection or confirmation that all submerged hazards have been addressed. Low visibility, rebar, concrete, splintered trees, metal, and other debris can remain dangerous even when water-quality results look acceptable.
+That work is important, but targeted debris removal is not the same as comprehensive in-channel inspection or confirmation that all submerged hazards and post-flood channel changes have been addressed. Low visibility, rebar, concrete, splintered trees, metal, altered depths, changed currents, and other hidden conditions can remain dangerous even when water-quality results look acceptable.
 
 ## Practical public-safety message
 
@@ -58,5 +58,18 @@ Clear water is not the same as a safe river. After a catastrophic flood, the riv
 
 *Source note: This shortened reflection is based on a longer brief prepared using U.S. EPA recreational water-quality criteria and methods; TCEQ Texas Surface Water Quality Standards and Guadalupe River materials; Upper Guadalupe River Authority swimability guidance and RiverHub/current-condition resources; NJDEP freshwater recreation criteria; local reporting by San Antonio Express-News and KSAT-TV San Antonio; and post-flood river-safety examples from Washington State and North Carolina.*
 
+
+---
+
+**Download:**  
+[PDF version of this brief →](/files/reflections/Guadalupe_River_Recreation_Safety_Brief_Qizhong_Guo.pdf){:target="_blank"}  
+
+---
+
+**Presentations of this brief by NotebookLM:**  
+[Slide_Deck →](/files/reflections/Slide_Deck_based_on_Qizhong_Guo_brief.pdf){:target="_blank"}
+[Infographic →](/files/reflections/Infographic_based_on_Qizhong_Guo_brief.pdf){:target="_blank"}
+[Briefing_Document →](/files/reflections/Briefing_Document_based_on_Qizhong_Guo_brief.pdf){:target="_blank"}
+[Video →](https://www.youtube.com/watch?v=IDtDJujPIKE){:target="_blank"}
 
 
