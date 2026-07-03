@@ -21,6 +21,9 @@ Some reflections may also be selectively shared on LinkedIn, while others—part
 
 - [When a Homeowner Discovers a Dam →](https://qizhong-guo.org/reflections/dam-disclosure/) *Reflection on hidden dam infrastructure, disclosure challenges, and practical identification methods.*
 
+- [Clear Water, Changed River: Post-Flood Recreation Safety →](/reflections/guadalupe-river-recreation-safety/)  
+  *A reflection based on the Guadalupe River flood in the Texas Hill Country, emphasizing that post-flood recreation safety depends not only on water quality, but also on debris, altered currents, unstable banks, access points, and changed channel conditions.*
+
 For previously shared commentary and shorter reflections, please visit:  
 [View posts on LinkedIn →](https://www.linkedin.com/in/qizhong-george-guo-a351102/)
 
