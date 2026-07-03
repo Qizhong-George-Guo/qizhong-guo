@@ -67,9 +67,9 @@ Clear water is not the same as a safe river. After a catastrophic flood, the riv
 ---
 
 **Presentations of this brief by NotebookLM:**  
-[Slide_Deck →](/files/reflections/Slide_Deck_based_on_Qizhong_Guo_brief.pdf){:target="_blank"}
-[Infographic →](/files/reflections/Infographic_based_on_Qizhong_Guo_brief.pdf){:target="_blank"}
-[Briefing_Document →](/files/reflections/Briefing_Document_based_on_Qizhong_Guo_brief.pdf){:target="_blank"}
+[Slide_Deck →](/files/reflections/Slide_Deck_Guadalupe_River_Safety_Redefined.pdf){:target="_blank"}
+[Infographic →](/files/reflections/Infographic_Post-Flood_River_Safety_Guide.pdf){:target="_blank"}
+[Briefing_Document →](/files/reflections/Briefing_Document_Guadalupe_River_Recreation_Safety.pdf){:target="_blank"}
 [Video →](https://www.youtube.com/watch?v=2o0J_8ev164){:target="_blank"}
 
 
