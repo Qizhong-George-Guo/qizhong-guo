@@ -17,9 +17,7 @@ The brief emphasizes that the event should not be attributed to a single cause b
 
 Beyond the immediate dam-breach mechanism, the event raises broader questions about the safety of aging earth dams under climate-amplified extremes, reservoir operation under超-standard floods, sediment and water-quality impacts, downstream warning and evacuation, post-disaster recovery, and the need to shift from design-standard-based protection toward risk-based system management.
 
----
-
-*Note: This brief is based on public information available during July 6–8, 2026, and does not substitute for official hydrologic review, dam-safety assessment, or forensic investigation.*
+This brief is based on public information available during July 6–8, 2026, and does not substitute for official hydrologic review, dam-safety assessment, or forensic investigation.
 
 ---
 
