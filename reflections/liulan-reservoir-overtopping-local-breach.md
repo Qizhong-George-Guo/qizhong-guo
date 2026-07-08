@@ -3,11 +3,10 @@ layout: page
 title: "Technical Brief: Overtopping and Local Breach of Liulan Reservoir Earthen Dam, Guangxi, China"
 permalink: /reflections/liulan-reservoir-overtopping-local-breach/
 ---
-
-## A preliminary technical review was prepared to support professional discussion on aging earth-dam safety, overtopping risk, spillway performance, and reservoir resilience under extreme rainfall.
-
 *Authored by Qizhong (George) Guo*  
 *July 8, 2026*
+
+## A preliminary technical review was prepared to support professional discussion on aging earth-dam safety, overtopping risk, spillway performance, and reservoir resilience under extreme rainfall.
 
 On July 6, 2026, Liulan Reservoir in Hengzhou, Nanning, Guangxi, China, experienced overtopping and local breaches of its earthen dam during an exceptionally intense rainfall event associated with Typhoon Maysak. Based on public reports, official updates, satellite imagery, and preliminary engineering reasoning, this technical brief reviews the possible hydrologic, hydraulic, geotechnical, and risk-management factors involved in the event.
 
@@ -25,10 +24,10 @@ This brief is based on public information available during July 6–8, 2026, and
 
 # 技术简报：广西横州六蓝水库土坝漫顶与局部决口事件
 
-## 本技术简报旨在支持关于老旧土坝安全、漫顶风险、溢洪设施性能、超标准洪水下水库运行调度，以及极端降雨条件下水库韧性的专业讨论。
-
 *作者：郭祺忠*  
 *2026年7月8日*
+
+## 本技术简报旨在支持关于老旧土坝安全、漫顶风险、溢洪设施性能、超标准洪水下水库运行调度，以及极端降雨条件下水库韧性的专业讨论。
 
 2026年7月6日，广西南宁市横州市六蓝水库在台风“美莎克”带来的特大暴雨过程中出现漫顶及坝体局部缺口，形成严重洪水险情。本文基于公开报道、官方通报、卫星影像和水利工程基本原理，对该事件可能涉及的水文、水力、岩土工程和风险管理问题进行了初步技术复盘。
 
