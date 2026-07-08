@@ -25,6 +25,9 @@ Some reflections may also be selectively shared on LinkedIn, while others—part
 - [Clear Water, Changed River: Post-Flood Recreation Safety →](https://qizhong-guo.org/reflections/guadalupe-river-recreation-safety/)  
   *A reflection based on the Guadalupe River flood in the Texas Hill Country, emphasizing that post-flood recreation safety depends not only on water quality, but also on debris, altered currents, unstable banks, access points, and changed channel conditions.*
 
+- [Technical Brief: Overtopping and Local Breach of Liulan Reservoir Earthen Dam, Guangxi, China →](https://qizhong-guo.org/reflections/liulan-reservoir-overtopping-local-breach/)   
+  *A technical reflection based on the Liulan Reservoir incident in Hengzhou, Guangxi, emphasizing that aging earth-dam safety under extreme rainfall depends not only on design standards, but also on overtopping vulnerability, spillway performance, reservoir operation during floods exceeding the design standard, downstream exposure, multi-reservoir interactions, and risk-based emergency management.*
+
 For previously shared commentary and shorter reflections, please visit:  
 [View posts on LinkedIn →](https://www.linkedin.com/in/qizhong-george-guo-a351102/)
 
