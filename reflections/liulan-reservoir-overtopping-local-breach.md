@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Overtopping and Local Breach of Liulan Reservoir Earthen Dam, Guangxi, China"
+title: "Technical Brief: Overtopping and Local Breach of Liulan Reservoir Earthen Dam, Guangxi, China"
 permalink: /reflections/liulan-reservoir-overtopping-local-breach/
 ---
 
 ## A preliminary technical review was prepared to support professional discussion on aging earth-dam safety, overtopping risk, spillway performance, and reservoir resilience under extreme rainfall.
 
-*Technical Brief by Qizhong Guo*  
+*Authored by Qizhong Guo*  
 *July 8, 2026*
 
 On July 6, 2026, Liulan Reservoir in Hengzhou, Nanning, Guangxi, China, experienced overtopping and local breaches of its earthen dam during an exceptionally intense rainfall event associated with Typhoon Maysak. Based on public reports, official updates, satellite imagery, and preliminary engineering reasoning, this technical brief reviews the possible hydrologic, hydraulic, geotechnical, and risk-management factors involved in the event.
