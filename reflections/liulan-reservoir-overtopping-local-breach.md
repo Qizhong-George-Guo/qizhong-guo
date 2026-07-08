@@ -19,6 +19,8 @@ Beyond the immediate dam-breach mechanism, the event raises broader questions ab
 
 This brief is based on public information available during July 6–8, 2026, and does not substitute for official hydrologic review, dam-safety assessment, or forensic investigation.
 
+*The full technical brief, in both English and Chinese, is available for download at the links below.*
+
 ---
 
 # 技术简报：广西横州六蓝水库土坝漫顶与局部决口事件
@@ -38,6 +40,7 @@ This brief is based on public information available during July 6–8, 2026, and
 
 本简报基于2026年7月6日至8日期间可获得的公开信息撰写，不替代政府部门正式水文复核、大坝安全鉴定或事故调查。
 
+*完整技术简报的英文版和中文版可通过以下链接下载。*
 
 ---
 
