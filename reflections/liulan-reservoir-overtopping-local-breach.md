@@ -26,7 +26,7 @@ Beyond the immediate dam-breach mechanism, the event raises broader questions ab
 
 **Download:**  
 [PDF version of this brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
-[PDF version of this brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}  
+[Chinese version of this brief （技术简报中文版） →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}  
 
 ---
 
