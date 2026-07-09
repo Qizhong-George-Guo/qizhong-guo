@@ -47,10 +47,4 @@ This brief is based on public information available during July 6–8, 2026, and
 [PDF version of this brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
 [Chinese version of this brief （技术简报中文版） →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}  
 
----
 
-**Presentations of this brief by NotebookLM:**  
-[Slide_Deck →](/files/reflections/Slide_Deck_Guadalupe_River_Safety_Redefined.pdf){:target="_blank"}
-[Infographic →](/files/reflections/Infographic_Post-Flood_River_Safety_Guide.pdf){:target="_blank"}
-[Briefing_Document →](/files/reflections/Briefing_Document_Guadalupe_River_Recreation_Safety.pdf){:target="_blank"}
-[Video →](https://www.youtube.com/watch?v=2o0J_8ev164){:target="_blank"}
