@@ -14,7 +14,7 @@ Liulan Reservoir is an older medium-sized reservoir with a homogeneous earth-fil
 
 The brief emphasizes that the event should not be attributed to a single cause before completion of official investigation. Key issues requiring further review include rainfall and inflow reconstruction, reservoir water-level and gate-operation records, actual spillway capacity, breach development, downstream flood routing, interaction with nearby reservoirs that also experienced distress, and the function of the normal spillway and a possible auxiliary or emergency spillway channel visible in pre-event satellite imagery.
 
-Beyond the immediate dam-breach mechanism, the event raises broader questions about the safety of aging earth dams under climate-amplified extremes, reservoir operation under超-standard floods, sediment and water-quality impacts, downstream warning and evacuation, post-disaster recovery, and the need to shift from design-standard-based protection toward risk-based system management.
+Beyond the immediate dam-breach mechanism, the event raises broader questions about the safety of aging earth dams under climate-amplified extremes, reservoir operation during floods exceeding the design standard, sediment and water-quality impacts, downstream warning and evacuation, post-disaster recovery, and the need to shift from design-standard-based protection toward risk-based system management.
 
 This brief is based on public information available during July 6–8, 2026, and does not substitute for official hydrologic review, dam-safety assessment, or forensic investigation.
 
