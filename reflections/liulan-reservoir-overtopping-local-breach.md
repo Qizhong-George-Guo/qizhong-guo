@@ -23,9 +23,10 @@ This brief is based on public information available during July 6–8, 2026, and
 ---
 
 **Download:**  
-[PDF version of this brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
 
-[Chinese version of this brief （技术简报中文版）→](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}  
+[English PDF Version of the Technical Brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
+
+[技术简报中文 PDF 版本 →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}  
 
 
 ---
@@ -52,8 +53,9 @@ This brief is based on public information available during July 6–8, 2026, and
 ---
 
 **下载:**  
-[Chinese version of this brief （技术简报中文版）→](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}  
 
-[PDF version of this brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
+[技术简报中文 PDF 版本 →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}  
+
+[English PDF Version of the Technical Brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
 
 
