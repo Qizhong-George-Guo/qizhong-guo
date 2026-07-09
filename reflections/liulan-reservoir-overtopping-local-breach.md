@@ -20,6 +20,8 @@ This brief is based on public information available during July 6–8, 2026, and
 
 *The full technical brief, in both English and Chinese, is available for download at the links below.*
 
+---
+
 **Download:**  
 [PDF version of this brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
 
