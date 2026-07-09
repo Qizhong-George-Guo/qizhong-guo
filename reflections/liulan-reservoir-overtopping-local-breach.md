@@ -20,6 +20,9 @@ This brief is based on public information available during July 6–8, 2026, and
 
 *The full technical brief, in both English and Chinese, is available for download at the links below.*
 
+**Download:**  
+[PDF version of this brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
+
 ---
 
 # 技术简报：广西横州六蓝水库土坝漫顶与局部决口事件
@@ -44,7 +47,6 @@ This brief is based on public information available during July 6–8, 2026, and
 ---
 
 **Download:**  
-[PDF version of this brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
-[Chinese version of this brief （技术简报中文版） →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}  
+[Chinese version of this brief （技术简报中文版下载） →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}  
 
 
