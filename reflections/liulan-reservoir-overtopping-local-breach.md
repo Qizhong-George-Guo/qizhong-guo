@@ -6,7 +6,7 @@ permalink: /reflections/liulan-reservoir-overtopping-local-breach/
 *Authored by Qizhong (George) Guo*  
 *July 8, 2026*
 
-## A preliminary technical review was prepared to support professional discussion on aging earth-dam safety, overtopping risk, spillway performance, and reservoir resilience under extreme rainfall.
+## This technical brief was prepared to support professional discussion on aging earth-dam safety, overtopping risk, spillway performance, adaptive reassessment of design floods and engineering design standards under non-stationary climate conditions, reservoir operation during floods exceeding the design standard, and reservoir resilience under extreme rainfall.
 
 On July 6, 2026, Liulan Reservoir in Hengzhou, Nanning, Guangxi, China, experienced overtopping and local breaches of its earthen dam during an exceptionally intense rainfall event associated with Typhoon Maysak. Based on public reports, official updates, satellite imagery, and preliminary engineering reasoning, this technical brief reviews the possible hydrologic, hydraulic, geotechnical, and risk-management factors involved in the event.
 
@@ -14,7 +14,7 @@ Liulan Reservoir is an older medium-sized reservoir with a homogeneous earth-fil
 
 The brief emphasizes that the event should not be attributed to a single cause before completion of official investigation. Key issues requiring further review include rainfall and inflow reconstruction, reservoir water-level and gate-operation records, actual spillway capacity, breach development, downstream flood routing, interaction with nearby reservoirs that also experienced distress, and the function of the normal spillway and a possible auxiliary or emergency spillway channel visible in pre-event satellite imagery.
 
-Beyond the immediate dam-breach mechanism, the event raises broader questions about the safety of aging earth dams under climate-amplified extremes, reservoir operation during floods exceeding the design standard, sediment and water-quality impacts, downstream warning and evacuation, post-disaster recovery, and the need to shift from design-standard-based protection toward risk-based system management.
+Beyond the immediate mechanisms of overtopping and local breach, the event raises broader questions about aging earth-dam safety under climate-amplified extremes, including whether existing design floods, flood-release capacity, and overtopping-resistance standards should be adaptively reassessed and, where necessary, upgraded under non-stationary climate conditions. It also highlights reservoir operation during floods exceeding the design standard, sediment and water-quality impacts, downstream warning and evacuation, post-disaster recovery, and the need to shift from design-standard-based protection toward risk-based system management.
 
 This brief is based on public information available during July 6–8, 2026, and does not substitute for official hydrologic review, dam-safety assessment, or forensic investigation.
 
@@ -36,7 +36,7 @@ This brief is based on public information available during July 6–8, 2026, and
 *作者：郭祺忠*  
 *2026年7月8日*
 
-## 本技术简报旨在支持关于老旧土坝安全、漫顶风险、溢洪设施性能、超标准洪水下水库运行调度，以及极端降雨条件下水库韧性的专业讨论。
+## 本技术简报旨在支持关于老旧土坝安全、漫顶风险、溢洪设施性能、非平稳气候条件下设计洪水与工程设计标准的适应性复核、超标准洪水下水库运行调度，以及极端降雨条件下水库韧性的专业讨论。
 
 2026年7月6日，广西南宁市横州市六蓝水库在台风“美莎克”带来的特大暴雨过程中出现漫顶及坝体局部缺口，形成严重洪水险情。本文基于公开报道、官方通报、卫星影像和水利工程基本原理，对该事件可能涉及的水文、水力、岩土工程和风险管理问题进行了初步技术复盘。
 
@@ -44,7 +44,7 @@ This brief is based on public information available during July 6–8, 2026, and
 
 本文强调，在正式调查结论公布前，不宜将事件简单归因于单一因素。后续需要重点复核的内容包括：降雨与入库洪水过程重建、水库水位与闸门调度记录、实际溢洪能力、坝体缺口发展过程、下游洪水演进、邻近水库同日出险造成的多源洪水叠加，以及正常溢洪道和事件前卫星影像中可见的疑似辅助或非常溢洪通道的工程功能与运行状态。
 
-除直接的坝体漫顶和局部决口机制外，该事件也提出了更广泛的行业问题，包括老旧土坝在极端气候条件下的安全冗余度、超标准洪水下的水库运行调度、泥沙与水质次生影响、下游预警转移、灾后恢复，以及水利工程安全管理从“基于设计标准的工程防御”向“基于风险的系统管理”转型的必要性。
+除直接的坝体漫顶和局部决口机制外，该事件也提出了更广泛的行业问题，包括老旧土坝在极端气候条件下的安全冗余度，现有设计洪水、泄洪能力和防漫顶标准在非平稳气候条件下的适应性复核与必要提升，超标准洪水下的水库运行调度，泥沙与水质次生影响，下游预警转移，灾后恢复，以及水利工程安全管理从“基于设计标准的工程防御”向“基于风险的系统管理”转型的必要性。
 
 本简报基于2026年7月6日至8日期间可获得的公开信息撰写，不替代政府部门正式水文复核、大坝安全鉴定或事故调查。
 
