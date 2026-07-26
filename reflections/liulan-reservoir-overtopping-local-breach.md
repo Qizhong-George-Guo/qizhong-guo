@@ -33,10 +33,8 @@ This technical review is based on public information that could be obtained and 
 
 **Download:**
 
-[English PDF — Revised July 25, 2026 →](/files/reflections/Technical_Review_Liulan_Reservoir_Dam_Failure_Revised_July_25_2026.pdf){:target="_blank" rel="noopener"}
-
-[中文 PDF——2026年7月25日修订版 →](/files/reflections/Liulan_Reservoir_7-6_Dam_Failure_Technical_Review_Chinese_Revised_July_25_2026.pdf){:target="_blank" rel="noopener"}
-
+[English PDF Version of the Technical Brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
+[技术简报中文 PDF 版本 →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}
 
 ---
 # 广西横州六蓝水库“7·6”溃坝灾害技术复盘
@@ -72,9 +70,6 @@ This technical review is based on public information that could be obtained and 
 
 **下载：**
 
-[中文版 PDF——2026年7月25日修订版 →](/files/reflections/Liulan_Reservoir_7-6_Dam_Failure_Technical_Review_Chinese_Revised_July_25_2026.pdf){:target="_blank" rel="noopener"}
-
-[English PDF — Revised July 25, 2026 →](/files/reflections/Technical_Review_Liulan_Reservoir_Dam_Failure_Revised_July_25_2026.pdf){:target="_blank" rel="noopener"}
-
-
+[技术简报中文 PDF 版本 →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"} 
+[English PDF Version of the Technical Brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"}
 
