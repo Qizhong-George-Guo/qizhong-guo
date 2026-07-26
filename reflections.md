@@ -17,8 +17,8 @@ New reflections will be added here as they are developed. This space is intended
 Some reflections may also be selectively shared on LinkedIn, while others—particularly more exploratory or opinionated pieces—will remain exclusive to this site.
 
 - **No. 004 · 2026-07-08**  
-  [Technical Brief: Overtopping and Local Breach of Liulan Reservoir Earthen Dam, Guangxi, China →](https://qizhong-guo.org/reflections/liulan-reservoir-overtopping-local-breach/)  
-  *A technical reflection based on the Liulan Reservoir incident in Hengzhou, Guangxi, emphasizing that aging earth-dam safety under extreme rainfall depends not only on design standards, but also on overtopping vulnerability, spillway performance, reservoir operation during floods exceeding the design standard, downstream exposure, multi-reservoir interactions, and risk-based emergency management.*
+  [Technical Review of the Liulan Reservoir “7·6” Dam Failure Disaster, Hengzhou, Guangxi, China →](https://qizhong-guo.org/reflections/liulan-reservoir-overtopping-local-breach/)  
+*A technical review of the extreme rainfall, reservoir operations, spillway and gate performance, overtopping, breach development, warning and evacuation, and broader lessons for adaptive dam-safety assessment and risk-based management.*
 
 - **No. 003 · 2026-07-01**  
   [Clear Water, Changed River: Post-Flood Recreation Safety →](https://qizhong-guo.org/reflections/guadalupe-river-recreation-safety/)  
