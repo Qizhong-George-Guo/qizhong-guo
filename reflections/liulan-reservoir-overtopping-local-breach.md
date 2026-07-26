@@ -9,7 +9,7 @@ permalink: /reflections/liulan-reservoir-overtopping-local-breach/
 
 ## Overview
 
-This revised technical brief was prepared to support professional discussion of aging earth-dam safety, overtopping risk, the actual performance and reliability of flood-release facilities, adaptive reassessment of design floods and engineering standards under nonstationary climate conditions, reservoir operation during floods exceeding the design standard, and risk-based management of reservoir systems.
+This technical brief was prepared to support professional discussion of aging earth-dam safety, overtopping risk, the actual performance and reliability of flood-release facilities, adaptive reassessment of design floods and engineering standards under nonstationary climate conditions, reservoir operation during floods exceeding the design standard, and risk-based management of reservoir systems.
 
 On July 6, 2026, Liulan Reservoir in Hengzhou, Nanning, Guangxi, China, experienced overtopping, local breach initiation, and rapid breach enlargement during typhoon-related extreme rainfall and rapidly increasing reservoir inflow. On July 24, the State Council established an investigation and assessment team for the Liulan Reservoir “7·6” dam failure disaster. This revised brief incorporates publicly available information through July 25, including official announcements, later expert hydrologic interpretations, more detailed reporting on reservoir operations and flood-release facilities, pre- and post-event imagery, and professional discussions. It supersedes the initial version published on July 8.
 
