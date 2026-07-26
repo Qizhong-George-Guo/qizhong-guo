@@ -27,7 +27,7 @@ The brief further proposes evaluating the “effective age” of the entire dam 
 
 This technical review is based on public information that could be obtained and cross-checked through July 25, 2026. Original hydrologic records, gate-operation logs, design documents, monitoring data, and complete field-investigation findings have not yet been publicly released. The numerical values and mechanistic interpretations presented in the brief therefore remain provisional and should ultimately be confirmed, corrected, or superseded by the formal investigation.
 
-*The revised technical review is available in both English and Chinese at the links below.*
+*The English and Chinese technical review files each include the revised version followed by the original version and are available for download below.*
 
 ---
 
@@ -44,7 +44,7 @@ This technical review is based on public information that could be obtained and 
 
 ## 概述
 
-本修订版技术简报旨在支持有关老旧土坝安全、漫顶风险、泄洪设施实际性能与运行可靠性、非平稳气候条件下设计洪水与工程标准的适应性复核、超标准洪水下的水库运行调度，以及水库系统风险管理的专业讨论。
+本技术简报旨在支持有关老旧土坝安全、漫顶风险、泄洪设施实际性能与运行可靠性、非平稳气候条件下设计洪水与工程标准的适应性复核、超标准洪水下的水库运行调度，以及水库系统风险管理的专业讨论。
 
 2026年7月6日，广西南宁市横州市六蓝水库在台风相关极端降雨和入库洪水快速增加的过程中发生漫顶、局部缺口形成及缺口迅速扩大。7月24日，国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组。本修订版纳入了截至7月25日能够获得的公开资料，包括官方通报、后续专家水文分析、有关水库运行和泄洪设施的进一步报道、事件前后影像及专业讨论，并取代7月8日发布的初版简报。
 
@@ -64,7 +64,7 @@ This technical review is based on public information that could be obtained and 
 
 本技术复盘基于截至2026年7月25日能够获得并进行交叉核对的公开资料。原始降雨和水位记录、完整闸门运行日志、工程设计文件、监测资料及系统性现场调查成果尚未全部公开。因此，简报中的部分数值、时间节点和机理分析仍属于阶段性判断，简报中的部分数值、时间节点，最终应由正式调查结果加以确认、修正或取代。本简报不替代政府部门的正式水文复核、大坝安全鉴定或溃坝灾害调查评估。
 
-*修订后的中文版和英文版技术复盘可通过以下链接下载。*
+*中英文技术复盘文件均包含修订版及附于其后的初版，可通过以下链接下载。*
 
 ---
 
