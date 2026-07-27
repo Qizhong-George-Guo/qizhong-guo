@@ -33,7 +33,7 @@ This technical review is based on public information that could be obtained and 
 
 **Download:**
 
-[English PDF Version of the Technical Brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"} 
+[English PDF Version of the Technical Brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"}  
 [技术简报中文 PDF 版本 →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}
 
 ---
@@ -70,6 +70,6 @@ This technical review is based on public information that could be obtained and 
 
 **下载：**
 
-[技术简报中文 PDF 版本 →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"} 
+[技术简报中文 PDF 版本 →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_in_Chinese.pdf){:target="_blank"}  
 [English PDF Version of the Technical Brief →](/files/reflections/Technical_Review_Liulan_Reservoir_Overtopping_Local_Breach_English_Translation.pdf){:target="_blank"}
 
