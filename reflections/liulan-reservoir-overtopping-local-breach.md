@@ -11,7 +11,7 @@ permalink: /reflections/liulan-reservoir-overtopping-local-breach/
 
 This technical brief was prepared to support professional discussion of aging earth-dam safety, overtopping risk, the actual performance and reliability of flood-release facilities, adaptive reassessment of design floods and engineering standards under nonstationary climate conditions, reservoir operation during floods exceeding the design standard, and risk-based management of reservoir systems.
 
-On July 6, 2026, Liulan Reservoir in Hengzhou, Nanning, Guangxi, China, experienced overtopping, local breach initiation, and rapid breach enlargement during typhoon-related extreme rainfall and rapidly increasing reservoir inflow. On July 24, the State Council established an investigation and assessment team for the Liulan Reservoir “7·6” dam failure disaster. This brief incorporates publicly available information through July 25, including official announcements, later expert hydrologic interpretations, more detailed reporting on reservoir operations and flood-release facilities, pre- and post-event imagery, and professional discussions. It supersedes the initial version published on July 8.
+On July 6, 2026, Liulan Reservoir in Hengzhou, Nanning, Guangxi, China, experienced overtopping, local breach initiation, and rapid breach enlargement during Typhoon "Maysak"-related extreme rainfall and rapidly increasing reservoir inflow. On July 24, the State Council established an investigation and assessment team for the Liulan Reservoir “7·6” dam failure disaster. This brief incorporates publicly available information through July 25, including official announcements, later expert hydrologic interpretations, more detailed reporting on reservoir operations and flood-release facilities, pre- and post-event imagery, and professional discussions. It supersedes the initial version published on July 8.
 
 The combined evidence indicates that extreme hydrologic loading was the primary external driver of the event. Available information supports the view that erosion of the homogeneous earthfill dam under sustained overtopping was likely one of the key mechanisms responsible for local breach initiation and rapid enlargement. The event, however, should not be attributed to a single factor before completion of the formal investigation.
 
@@ -46,7 +46,7 @@ This technical review is based on public information that could be obtained and 
 
 本技术简报旨在支持有关老旧土坝安全、漫顶风险、泄洪设施实际性能与运行可靠性、非平稳气候条件下设计洪水与工程标准的适应性复核、超标准洪水下的水库运行调度，以及水库系统风险管理的专业讨论。
 
-2026年7月6日，广西南宁市横州市六蓝水库在台风相关极端降雨和入库洪水快速增加的过程中发生漫顶、局部缺口形成及缺口迅速扩大。7月24日，国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组。本版纳入了截至7月25日能够获得的公开资料，包括官方通报、后续专家水文分析、有关水库运行和泄洪设施的进一步报道、事件前后影像及专业讨论，并取代7月8日发布的初版简报。
+2026年7月6日，广西南宁市横州市六蓝水库在台风“美莎克”相关极端降雨和入库洪水快速增加的过程中发生漫顶、局部缺口形成及缺口迅速扩大。7月24日，国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组。本版纳入了截至7月25日能够获得的公开资料，包括官方通报、后续专家水文分析、有关水库运行和泄洪设施的进一步报道、事件前后影像及专业讨论，并取代7月8日发布的初版简报。
 
 现有综合资料表明，极端水文荷载是本次事件的主要外部驱动因素。持续漫顶水流对均质土坝的冲刷，很可能是局部缺口形成和迅速扩展的关键机制之一。不过，在正式调查完成前，仍不宜将事件简单归因于任何单一因素。
 
