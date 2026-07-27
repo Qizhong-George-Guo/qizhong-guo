@@ -11,7 +11,7 @@ permalink: /reflections/liulan-reservoir-overtopping-local-breach/
 
 This technical brief was prepared to support professional discussion of aging earth-dam safety, overtopping risk, the actual performance and reliability of flood-release facilities, adaptive reassessment of design floods and engineering standards under nonstationary climate conditions, reservoir operation during floods exceeding the design standard, and risk-based management of reservoir systems.
 
-On July 6, 2026, Liulan Reservoir in Hengzhou, Nanning, Guangxi, China, experienced overtopping, local breach initiation, and rapid breach enlargement during typhoon-related extreme rainfall and rapidly increasing reservoir inflow. On July 24, the State Council established an investigation and assessment team for the Liulan Reservoir “7·6” dam failure disaster. This revised brief incorporates publicly available information through July 25, including official announcements, later expert hydrologic interpretations, more detailed reporting on reservoir operations and flood-release facilities, pre- and post-event imagery, and professional discussions. It supersedes the initial version published on July 8.
+On July 6, 2026, Liulan Reservoir in Hengzhou, Nanning, Guangxi, China, experienced overtopping, local breach initiation, and rapid breach enlargement during typhoon-related extreme rainfall and rapidly increasing reservoir inflow. On July 24, the State Council established an investigation and assessment team for the Liulan Reservoir “7·6” dam failure disaster. This brief incorporates publicly available information through July 25, including official announcements, later expert hydrologic interpretations, more detailed reporting on reservoir operations and flood-release facilities, pre- and post-event imagery, and professional discussions. It supersedes the initial version published on July 8.
 
 The combined evidence indicates that extreme hydrologic loading was the primary external driver of the event. Available information supports the view that erosion of the homogeneous earthfill dam under sustained overtopping was likely one of the key mechanisms responsible for local breach initiation and rapid enlargement. The event, however, should not be attributed to a single factor before completion of the formal investigation.
 
@@ -19,7 +19,7 @@ Public information indicates that staged gate releases began on the evening of J
 
 The available evidence more strongly supports the following provisional sequence: rapidly increasing inflow caused the reservoir water level to reach the dam crest and overtopping to begin; concentrated erosion and an initial breach developed at or shortly after the east abutment; and a larger breach subsequently formed and expanded in the central portion of the dam. It is not yet possible to determine precisely whether a clearly distinguishable time interval existed between the beginning of overtopping and initial breaching near the east abutment.
 
-The revised brief examines rainfall and inflow reconstruction, pre-event reservoir storage, the operating timeline, actual gate performance, the service and emergency spillways, monitoring and communications, downstream warning and evacuation, breach development and flood routing, sediment and water-quality effects, and post-disaster functional recovery. It also considers possible local flow concentration associated with reservoir and dam geometry, while treating this as a hypothesis requiring hydrodynamic modeling and field verification rather than as an established cause.
+The brief examines rainfall and inflow reconstruction, pre-event reservoir storage, the operating timeline, actual gate performance, the service and emergency spillways, monitoring and communications, downstream warning and evacuation, breach development and flood routing, sediment and water-quality effects, and post-disaster functional recovery. It also considers possible local flow concentration associated with reservoir and dam geometry, while treating this as a hypothesis requiring hydrodynamic modeling and field verification rather than as an established cause.
 
 Beyond the immediate event, the brief emphasizes two complementary priorities. First, design floods, effective discharge capacity, dam-crest freeboard, overtopping protection, and related engineering standards should be adaptively reassessed using updated hydrologic, climate, land-use, and downstream-exposure information. Second, because no design standard can eliminate all risk, reservoir owners and public agencies must also manage the residual risk associated with floods exceeding the design standard, including equipment failure, nonactivation of emergency facilities, communications loss, evacuation difficulties, and simultaneous emergencies at multiple reservoirs.
 
@@ -46,7 +46,7 @@ This technical review is based on public information that could be obtained and 
 
 本技术简报旨在支持有关老旧土坝安全、漫顶风险、泄洪设施实际性能与运行可靠性、非平稳气候条件下设计洪水与工程标准的适应性复核、超标准洪水下的水库运行调度，以及水库系统风险管理的专业讨论。
 
-2026年7月6日，广西南宁市横州市六蓝水库在台风相关极端降雨和入库洪水快速增加的过程中发生漫顶、局部缺口形成及缺口迅速扩大。7月24日，国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组。本修订版纳入了截至7月25日能够获得的公开资料，包括官方通报、后续专家水文分析、有关水库运行和泄洪设施的进一步报道、事件前后影像及专业讨论，并取代7月8日发布的初版简报。
+2026年7月6日，广西南宁市横州市六蓝水库在台风相关极端降雨和入库洪水快速增加的过程中发生漫顶、局部缺口形成及缺口迅速扩大。7月24日，国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组。本版纳入了截至7月25日能够获得的公开资料，包括官方通报、后续专家水文分析、有关水库运行和泄洪设施的进一步报道、事件前后影像及专业讨论，并取代7月8日发布的初版简报。
 
 现有综合资料表明，极端水文荷载是本次事件的主要外部驱动因素。持续漫顶水流对均质土坝的冲刷，很可能是局部缺口形成和迅速扩展的关键机制之一。不过，在正式调查完成前，仍不宜将事件简单归因于任何单一因素。
 
@@ -54,7 +54,7 @@ This technical review is based on public information that could be obtained and 
 
 现有证据较为支持以下初步过程：快速增加的入库洪水推动库水位持续上涨，直至达到坝顶并发生漫顶；东侧坝肩附近在漫顶开始时或其后不久出现集中冲刷和初始缺口；随后坝体中部又形成较大的缺口并迅速扩展。目前尚无法准确判断东侧坝肩初始漫顶与局部缺口形成之间是否存在清晰可辨的时间间隔，也无法仅依据现有影像确定各处缺口形成的精确顺序和机制。
 
-修订版简报重点讨论了降雨与入库洪水过程重建、事发前水库蓄水状况、运行调度时间线、闸门实际运行状态、正常溢洪道与非常溢洪道的功能、监测与通信条件、下游预警和人员转移、缺口演变与洪水演进、泥沙和水质影响，以及灾后水库功能恢复等问题。简报还讨论了水库平面形态、坝体几何条件及东侧坝肩局部地形可能造成水流集中这一假设，但将其作为需要通过水动力模拟、现场测量和原始记录加以验证的研究问题，而不是已经确定的事故原因。
+简报重点讨论了降雨与入库洪水过程重建、事发前水库蓄水状况、运行调度时间线、闸门实际运行状态、正常溢洪道与非常溢洪道的功能、监测与通信条件、下游预警和人员转移、缺口演变与洪水演进、泥沙和水质影响，以及灾后水库功能恢复等问题。简报还讨论了水库平面形态、坝体几何条件及东侧坝肩局部地形可能造成水流集中这一假设，但将其作为需要通过水动力模拟、现场测量和原始记录加以验证的研究问题，而不是已经确定的事故原因。
 
 本次事件提出了两个相互补充的行业重点。第一，应根据更新后的水文、气候、土地利用和下游暴露资料，对设计洪水、有效泄洪能力、坝顶安全超高、防漫顶措施及相关工程标准开展适应性复核，并在必要时进行提升。第二，由于任何设计标准都不能完全消除风险，水库管理部门还必须系统管理超标准洪水下的剩余风险，包括泄洪设备故障、非常泄洪设施未能启用、监测和通信中断、人员转移困难以及多座水库同时出险等情形。
 
