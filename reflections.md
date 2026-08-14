@@ -16,6 +16,10 @@ New reflections will be added here as they are developed. This space is intended
 
 Some reflections may also be selectively shared on LinkedIn, while others—particularly more exploratory or opinionated pieces—will remain exclusive to this site.
 
+- **No. 005 · 2026-08-14**
+  [From Dam Disclosure to Better Dam Stewardship →](https://qizhong-guo.org/reflections/new-jersey-dam-disclosure-law/)
+  *A companion reflection following enactment of New Jersey’s new dam-disclosure law, examining dam definitions and inventories, inspection and maintenance, ownership costs, extreme-weather risks, and opportunities for improved dam stewardship.*
+
 - **No. 004 · 2026-07-08**  
   [Technical Review of the Liulan Reservoir “7·6” Dam Failure Disaster, Hengzhou, Guangxi, China →](https://qizhong-guo.org/reflections/liulan-reservoir-overtopping-local-breach/)  
 *A technical review of the extreme rainfall, reservoir operations, spillway and gate performance, overtopping, breach development, warning and evacuation, and broader lessons for adaptive dam-safety assessment and risk-based management.*
