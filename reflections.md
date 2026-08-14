@@ -16,7 +16,7 @@ New reflections will be added here as they are developed. This space is intended
 
 Some reflections may also be selectively shared on LinkedIn, while others—particularly more exploratory or opinionated pieces—will remain exclusive to this site.
 
-- **No. 005 · 2026-08-14**
+- **No. 005 · 2026-08-14** 
   [From Dam Disclosure to Better Dam Stewardship →](https://qizhong-guo.org/reflections/new-jersey-dam-disclosure-law/)
   *A companion reflection following enactment of New Jersey’s new dam-disclosure law, examining dam definitions and inventories, inspection and maintenance, ownership costs, extreme-weather risks, and opportunities for improved dam stewardship.*
 
