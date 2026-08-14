@@ -112,7 +112,7 @@ A dam can simultaneously be **infrastructure, a source of risk, an environmental
 - [NJDEP Bureau of Dam Safety](https://dep.nj.gov/wlm/drec/dam-safety/){:target="_blank"}
 - [NJDEP Dam Safety FAQ](https://dep.nj.gov/wlm/drec/dam-safety/dam-safety-faq/){:target="_blank"}
 - [New Jersey State Auditor — Bureau of Dam Safety Audit](https://pub.njleg.state.nj.us/publications/auditor/2025/42001523.pdf){:target="_blank"}
-- [Earlier March 2026 reflection: *When a Homeowner Discovers a Dam*](/reflections/dam-disclosure/)
+- [Earlier March 2026 reflection: *When a Homeowner Discovers a Dam*](https://qizhong-guo.org/reflections/dam-disclosure/)
 
 ---
 
