@@ -31,9 +31,13 @@ A buyer should know when a property includes a dam and understand the associated
 
 ### The five-foot threshold is not simply a dam’s physical height
 
-The law generally defines a dam using a **water-level rise of 5 ft or more**, measured from the downstream toe to the emergency-spillway crest or, if there is no emergency spillway, to the top of the dam.
+The adopted law now explicitly defines “dam”
 
-NJDEP separately defines **“dam height.”** The two measurements should not be casually interchanged. This distinction is particularly important for homeowners trying to determine whether a relatively small embankment or pond is subject to disclosure.
+The introduced bill required disclosure of a dam but did not itself define the term. The amended and enacted legislation added an explicit definition that closely follows the definition already used under New Jersey’s existing Dam Safety Standards, N.J.A.C. 7:20.
+
+The general definition uses a water-level rise of 5 ft or more, measured from the downstream toe-of-dam to the emergency-spillway crest or, if there is no emergency spillway, to the top-of-dam. Thus, the 5-ft water-level-rise criterion is not new; what is new here is its explicit inclusion in the dam-disclosure law.
+
+N.J.A.C. 7:20 separately defines “height-of-dam,” a physical dimension used for other regulatory purposes, including the size criteria for Class IV dams. The 5-ft water-level-rise criterion and “height-of-dam” therefore should not be casually interchanged.
 
 The law also provides a special exception for certain dams in the Pinelands Area based on three combined criteria: water-level rise, drainage area, and impoundment area.
 
@@ -109,6 +113,7 @@ A dam can simultaneously be **infrastructure, a source of risk, an environmental
 
 - [NJ.com: “N.J. new dam law could save homebuyers from a financial nightmare. Here’s what it does.”](https://www.nj.com/news/2026/08/nj-new-dam-law-could-save-homebuyers-from-a-financial-nightmare-heres-what-it-does.html){:target="_blank"}
 - [New Jersey Legislature — Assembly No. 4007 [First Reprint]](https://pub.njleg.state.nj.us/Bills/2026/A4500/4007_R1.PDF){:target="_blank"}
+- [New Jersey Administrative Code, N.J.A.C. 7:20 — Dam Safety Standards](https://dep.nj.gov/wp-content/uploads/rules/rules/njac7_20.pdf){:target="_blank"}
 - [NJDEP Bureau of Dam Safety](https://dep.nj.gov/wlm/drec/dam-safety/){:target="_blank"}
 - [NJDEP Dam Safety FAQ](https://dep.nj.gov/wlm/drec/dam-safety/dam-safety-faq/){:target="_blank"}
 - [New Jersey State Auditor — Bureau of Dam Safety Audit](https://pub.njleg.state.nj.us/publications/auditor/2025/42001523.pdf){:target="_blank"}
