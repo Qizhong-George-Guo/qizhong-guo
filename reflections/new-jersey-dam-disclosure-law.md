@@ -35,9 +35,9 @@ The adopted law now explicitly defines “dam”
 
 The introduced bill required disclosure of a dam but did not itself define the term. The amended and enacted legislation added an explicit definition that closely follows the definition already used under New Jersey’s existing Dam Safety Standards, N.J.A.C. 7:20.
 
-The general definition uses a water-level rise of 5 ft or more, measured from the downstream toe-of-dam to the emergency-spillway crest or, if there is no emergency spillway, to the top-of-dam. Thus, the 5-ft water-level-rise criterion is not new; what is new here is its explicit inclusion in the dam-disclosure law.
+The general definition uses a **water-level rise of 5 ft or more**, measured from the downstream toe-of-dam to the emergency-spillway crest or, if there is no emergency spillway, to the top-of-dam. Thus, the 5-ft water-level-rise criterion is not new; what is new here is its explicit inclusion in the dam-disclosure law.
 
-N.J.A.C. 7:20 separately defines “height-of-dam,” a physical dimension used for other regulatory purposes, including the size criteria for Class IV dams. The 5-ft water-level-rise criterion and “height-of-dam” therefore should not be casually interchanged.
+N.J.A.C. 7:20 separately defines “**height-of-dam**,” a physical dimension used for other regulatory purposes, including the size criteria for Class IV dams. The 5-ft water-level-rise criterion and “height-of-dam” therefore should not be casually interchanged.
 
 The law also provides a special exception for certain dams in the Pinelands Area based on three combined criteria: water-level rise, drainage area, and impoundment area.
 
