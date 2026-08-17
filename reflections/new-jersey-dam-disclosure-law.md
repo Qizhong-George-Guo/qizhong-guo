@@ -112,9 +112,9 @@ Extreme rainfall can increase inflow and hydraulic loading on reservoirs, spillw
 
 ### Dams are not simply liabilities
 
-Dams have played important roles in American industrialization and can continue to provide water supply and storage, irrigation, hydropower, recreation, habitat, historical and cultural value, and attractive landscape features.
+Dams have played important roles in American industrialization and can continue to provide water supply and storage, irrigation, hydropower, flood control, recreation, habitat, historical and cultural value, and attractive landscape features.
 
-At the same time, dams spanning streams can affect fish migration, sediment transport, water quality, aquatic habitat, flooding, and recreational safety.
+At the same time, dams spanning streams can affect fish migration, sediment transport, water quality, aquatic habitat, and recreational safety. While many dams reduce downstream flood risk by storing floodwaters and regulating releases, dam failure, overtopping, or unusually large releases can create serious downstream flooding hazards.
 
 The appropriate decision is therefore broader than simply “keep or remove”:
 
