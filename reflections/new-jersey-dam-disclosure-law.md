@@ -1,5 +1,3 @@
-# New Jersey’s New Dam Disclosure Law: From Disclosure to Better Dam Stewardship
-
 ## Engineering Perspectives Following Enactment of New Jersey’s Dam-Disclosure Law
 
 *August 14, 2026*  
