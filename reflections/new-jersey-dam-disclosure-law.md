@@ -108,7 +108,7 @@ Extreme rainfall can increase inflow and hydraulic loading on reservoirs, spillw
 
 ### Dams are not simply liabilities
 
-Dams have played important roles in American industrialization and can continue to provide water supply, storage, recreation, habitat, historical and cultural value, and attractive landscape features.
+Dams have played important roles in American industrialization and can continue to provide water supply and storage, irrigation, hydropower, recreation, habitat, historical and cultural value, and attractive landscape features.
 
 At the same time, dams spanning streams can affect fish migration, sediment transport, water quality, aquatic habitat, flooding, and recreational safety.
 
