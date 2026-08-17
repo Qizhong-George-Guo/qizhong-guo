@@ -7,7 +7,7 @@ permalink: /reflections/new-jersey-dam-disclosure-law/
 ## Engineering Perspectives Following Enactment of New Jersey’s Dam-Disclosure Law
 
 *August 14, 2026*  
-*Updated August 16, 2026*  
+*Updated August 17, 2026*  
 *Qizhong (George) Guo*  
 *Professor, Civil and Environmental Engineering*  
 *Rutgers University–New Brunswick*
