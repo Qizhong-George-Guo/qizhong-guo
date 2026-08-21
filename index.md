@@ -73,7 +73,7 @@ This section also highlights broader mentorship through teaching, advising, coll
 
 ## Facilities
 
-A brief overview of laboratory and instructional facilities that support teaching, experimentation, and selected research in water resources and environmental systems.
+An overview of laboratory and instructional facilities that support teaching, experimentation, and selected research in water resources and environmental systems.
 
 These facilities include flumes, hydraulic and hydrologic apparatus, and other tools used in coursework, student projects, and collaborative studies.
 
