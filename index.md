@@ -35,7 +35,7 @@ The site provides a central record of my academic and professional work, includi
 
 My research spans urban stormwater and green infrastructure; hydraulics and hydrology; estuarine and coastal processes; watershed and basin-scale studies; and integrated systems such as the Green–Grey–Blue–Intelligent (GGBI) framework.
 
-Current work emphasizes resilient, sustainable, and equitable water and urban systems across scales—from site-based practices to watershed and regional planning.
+My work emphasizes resilient, sustainable, and equitable water and urban systems across scales—from site-based practices to watershed and regional infrastructure.
 
 [Explore Research →](https://qizhong-guo.org/research)
 
