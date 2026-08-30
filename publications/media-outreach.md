@@ -85,7 +85,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Flood Prevention and Mitigation Research</strong>, <em>The Daily Targum</em>, October 7, 2013.</li>
 
-<li><strong>Interview on Aging Water Infrastructure and Fire Hydrants</strong>, <em>The Star-Ledger</em>, August 11, 2013. <a href="https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html">Link</a></li>
+<li><strong>Interview on Aging Water Infrastructure and Fire Hydrants</strong>, <em>The Star-Ledger</em>, August 11, 2013. <a href="https://www.nj.com/essex/2013/08/hundreds_of_newark_fire_hydrants_out_of_commission_as_city_grapples_with_ailing_water_system.html">Link</a></li>
 
 <li><strong>Interview on Route 3 Bridge Construction and Flooding</strong>, WBGO Jazz 88.3 FM, July 26, 2013 (audio recording).</li>
 
