@@ -15,7 +15,7 @@ The following media interviews document public communication and outreach relate
 <li><strong>Interview on Water Conservation</strong>, TIME Magazine, August 26, 2026.  
 <a href="https://time.com/article/2026/08/26/water-experts-s-habits-to-reduce-their-water-footprint/">Link</a></li> 
 
-<li><strong>Interview on Dam Disclosure Law</strong>, PIX11 TV, August 14, 2026.  
+<li><strong>Interview on Dam Disclosure Law</strong>, NJ.COM, August 14, 2026.  
 <a href="https://www.nj.com/news/2026/08/nj-new-dam-law-could-save-homebuyers-from-a-financial-nightmare-heres-what-it-does.html">Link</a></li>
 
 <li><strong>Interview on Aging Urban Storm Drainage Systems</strong>, PIX11 TV, July 29, 2026.  
