@@ -16,8 +16,8 @@ title: "Qizhong (George) Guo"
     <p>
       Professor of Civil & Environmental Engineering at Rutgers University
 
-<br>
-
+</p>
+<p>
 Urban Stormwater • Flood Resilience • Coastal Processes • Green–Grey–Blue–Intelligent (GGBI) Systems
     </p>
   </div>
@@ -27,7 +27,7 @@ Urban Stormwater • Flood Resilience • Coastal Processes • Green–Grey–B
 
 ## About
 
-I am a professor of civil and environmental engineering at Rutgers University. My work focuses on how water moves through natural and built environments, with research and teaching spanning hydraulics, hydrology, stormwater management, flood mitigation, watershed resilience, coastal processes and restoration, and integrated water and urban infrastructure, including the Green–Grey–Blue–Intelligent (GGBI) framework.
+I am a professor of civil and environmental engineering at Rutgers University. My work focuses on how water moves through natural and built environments, with research and teaching spanning hydraulics, hydrology, stormwater management, flood mitigation, watershed resilience, coastal processes and restoration, and integrated water and urban infrastructure.
 
 The site provides a central record of my academic and professional work, including research contributions, publications, teaching materials, invited talks, and reflections developed over the course of my career.
 
