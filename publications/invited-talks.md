@@ -59,8 +59,11 @@ This section includes invited academic, professional, and public talks delivered
 
 ## Other Presentations, Lectures, and Demonstrations (Most Recent)
 <ul>
+
+<li><strong>129.</strong> “Watershed Resilience through Green–Grey–Blue–Intelligent (GGBI) Infrastructure Synergy.” World Environmental & Water Resources Congress, Mobile, Alabama, April 29, 2026. <a href="https://www.researchgate.net/publication/413762890_Watershed_Resilience_through_Green-Grey-Blue-Intelligent_GGBI_Infrastructure_Synergy">ResearchGate</a></li>
+<li><strong>128.</strong> “Designing Bioretention for Balance: Achieving Runoff Volume Reduction and Peak-Flow Attenuation at the Site Scale.” World Environmental & Water Resources Congress, Mobile, Alabama, April 29, 2026.</li>
 <li><strong>129.</strong> “Assessing Plant Growth Variability and Elevated Substrate Temperatures on Green Roofs.” ASCE-EWRI World Environmental & Water Resources Congress, Anchorage, Alaska, May 21, 2025. <a href="https://www.researchgate.net/publication/392130495_Assessing_Plant_Growth_Variability_and_Elevated_Substrate_Temperatures_on_Green_Roofs_Exposed_to_Excessive_Reflective_Heat">ResearchGate</a></li>
-<li><strong>128.</strong> “Quantifying Plant Growth Variability and Elevated Substrate Temperatures on a Green Roof Subjected to Excessive Reflective Heat.” AGU Fall Meeting, Washington D.C., December 11, 2024 (oral).</li>
+<li><strong>128.</strong> “Quantifying Plant Growth Variability and Elevated Substrate Temperatures on a Green Roof Subjected to Excessive Reflective Heat.” AGU Fall Meeting, Washington D.C., December 11, 2024.</li>
 <li><strong>127.</strong> “Approaches for Fostering Resilience, Sustainability, and Equity in the Mississippi River Basin.” ASCE-EWRI World Environmental & Water Resources Congress, Milwaukee, Wisconsin, May 22, 2024.</li>
 <li><strong>126.</strong> “Accumulation of Woody Debris at Urban and Suburban Stream Crossings: Consequences for Flash Flood Risks.” ASCE-EWRI World Environmental & Water Resources Congress, Milwaukee, Wisconsin, May 22, 2024.<a href="https://www.researchgate.net/publication/398949765_Woody_Debris_Accumulation_at_Urban_and_Suburban_Stream_Crossings_Consequences_for_Flash_Flood">ResearchGate</a></li>
 <li><strong>125.</strong> “Impacts of Land Cover, Rainfall Intensity, Subsoil Hydraulic Conductivity and Depth to Groundwater Table on Initial Abstraction, Runoff, Infiltration and SCS-Curve Number.” ASCE-EWRI World Environmental & Water Resources Congress, Henderson, Nevada, May 24, 2023.</li>
