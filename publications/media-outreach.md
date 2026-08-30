@@ -10,7 +10,19 @@ The following media interviews document public communication and outreach relate
 
 ---
 
-<ol reversed start="63">
+<ol reversed start="67">
+
+<li><strong>Interview on Water Conservation</strong>, TIME Magazine, August 26, 2026.  
+<a href="https://time.com/article/2026/08/26/water-experts-s-habits-to-reduce-their-water-footprint/">Link</a></li> 
+
+<li><strong>Interview on Dam Disclosure Law</strong>, PIX11 TV, August 14, 2026.  
+<a href="https://www.nj.com/news/2026/08/nj-new-dam-law-could-save-homebuyers-from-a-financial-nightmare-heres-what-it-does.html">Link</a></li>
+
+<li><strong>Interview on Aging Urban Storm Drainage Systems</strong>, PIX11 TV, July 29, 2026.  
+<a href="https://pix11.com/video/aging-nj-infrastructure-ruined-in-flooding/12018107/">Link</a></li>
+
+<li><strong>Interview on Hidden Dams</strong>, NJ.COM, March 27, 2026.  
+<a href="https://www.nj.com/hunterdon/2026/03/new-nj-homeowner-nightmare-can-cost-500k-to-fix-how-to-spot-the-hidden-money-pits.html">Link</a></li>
 
 <li><strong>Interview on Green Infrastructure</strong>, CivicStory, January 12, 2026.  
 <a href="https://www.civicstory.org/civicstory-blog/2026/1/12/unpacking-with-civicstory-green-infrastructure">Link</a></li>
