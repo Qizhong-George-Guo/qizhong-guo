@@ -27,7 +27,7 @@ Urban Stormwater • Flood Resilience • Coastal Processes • Green–Grey–B
 
 ## About
 
-I am a professor of civil and environmental engineering at Rutgers University. My work focuses on how water moves through natural and built environments, with research and teaching spanning hydraulics, hydrology, stormwater management, flood mitigation, watershed resilience, coastal processes and restoration, and integrated water and urban infrastructure.
+I am a professor of civil and environmental engineering at Rutgers University. My work focuses on how water moves through natural and built environments, with research and teaching spanning hydraulics, hydrology, stormwater management, flood mitigation, watershed resilience, coastal processes and restoration, and integrated water and urban infrastructure, including the Green–Grey–Blue–Intelligent (GGBI) framework.
 
 The site provides a central record of my academic and professional work, including research contributions, publications, teaching materials, invited talks, and reflections developed over the course of my career.
 
