@@ -12,15 +12,15 @@ title: "Qizhong (George) Guo"
     />
   </figure>
 
-  <div class="home-intro-text">
-    <p>
-      Professor of Civil & Environmental Engineering at Rutgers University
+ <div class="home-intro-text">
+  <p style="margin-bottom: 1.5em;">
+    Professor of Civil & Environmental Engineering at Rutgers University
+  </p>
 
-</p>
-<p>
-Urban Stormwater • Flood Resilience • Coastal Processes • Green–Grey–Blue–Intelligent (GGBI) Systems
-    </p>
-  </div>
+  <p>
+    Urban Stormwater • Flood Resilience • Coastal Processes • Green–Grey–Blue–Intelligent (GGBI) Systems
+  </p>
+</div>
 </div>
  
 ---
