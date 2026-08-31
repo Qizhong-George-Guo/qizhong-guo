@@ -18,7 +18,8 @@ This page includes authored books and edited volumes arising from research proje
 
 <li>Horikawa, K. and Guo, Q., Editors (2009). <em>Encyclopedia of Life Support Systems, Civil Engineering.</em> Vol. 1 & Vol. 2, EOLSS Publishers, Oxford. ISBN: 978-1-84826-973-6, 978-1-84826-974-3. 
 
-<li>Weinstein, M., Feng, H., and Guo, Q., Editors (2007). <em>Proceedings of the US-China Workshop on Sustainable Development of Urban Coast</em>.  Tianjin, China, January 08-11. 
+<li>Weinstein, M., Feng, H., and Guo, Q., Editors (2007). <em>Proceedings of the US-China Workshop on Sustainable Development of Urban Coast</em>.  Tianjin, China, January 08-11. </li>
+
 
 </ol>
 
