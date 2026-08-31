@@ -18,7 +18,7 @@ title: "Qizhong (George) Guo"
   </p>
 
   <p>
-    Hydraulics • Urban Stormwater •  Coastal Processes • Flood Resilience • GGBI Infrastructure Systems  
+    Hydraulics • Urban Stormwater • Flood Resilience • Coastal Processes • GGBI Infrastructure Systems  
   </p>
 </div>
 </div>
