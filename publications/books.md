@@ -20,10 +20,8 @@ This page includes authored books and edited volumes arising from research proje
 
 <li>Weinstein, M., Feng, H., and Guo, Q., Editors (2007). <em>Proceedings of the US-China Workshop on Sustainable Development of Urban Coast</em>.  Tianjin, China, January 08-11. </li>
 
-
 </ol>
 
 ---
 
-Back to **[Publications & Reports →](/publications)**
-
+[Back to Publications & Reports →](/publications)
