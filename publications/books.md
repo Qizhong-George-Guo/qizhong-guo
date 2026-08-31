@@ -22,6 +22,7 @@ This page includes authored books and edited volumes arising from research proje
 
 </ol>
 
----
+<hr>
 
-[Back to Publications & Reports →](/publications)
+<p><a href="/publications">Back to Publications &amp; Reports →</a></p>
+
