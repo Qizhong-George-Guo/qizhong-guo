@@ -18,7 +18,7 @@ title: "Qizhong (George) Guo"
   </p>
 
   <p>
-    Urban Stormwater • Flood Resilience • Coastal Processes • Green–Grey–Blue–Intelligent (GGBI) Infrastructure Synergy
+    Hydraulics • Urban Stormwater • Flood Resilience • Coastal Processes • GGBI Infrastructure Systems  
   </p>
 </div>
 </div>
