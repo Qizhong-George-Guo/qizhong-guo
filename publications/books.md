@@ -16,7 +16,7 @@ This page includes authored books and edited volumes arising from research proje
 
 <li> Guo, Q. (2014). <em>Automatic Vacuum Flushing Technology for Combined Sewer Solids.</em> IWA Publishing, ISBN: 9781780400471. <a href="https://doi.org/10.2166/9781780400471">Link</a></li>
 
-<li>Horikawa, K. and Guo, Q., Editors (2009). <em>Encyclopedia of Life Support Systems, Civil Engineering.</em> Vol. 1 & Vol. 2, EOLSS Publishers, Oxford. ISBN: 978-1-84826-973-6, 978-1-84826-974-3. 
+<li>Horikawa, K. and Guo, Q., Editors (2009). <em>Encyclopedia of Life Support Systems, Civil Engineering.</em> Vol. 1 &amp; Vol. 2, EOLSS Publishers, Oxford. ISBN: 978-1-84826-973-6, 978-1-84826-974-3.</li>
 
 <li>Weinstein, M., Feng, H., and Guo, Q., Editors (2007). <em>Proceedings of the US-China Workshop on Sustainable Development of Urban Coast</em>.  Tianjin, China, January 08-11. </li>
 
