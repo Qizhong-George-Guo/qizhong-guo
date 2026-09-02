@@ -57,6 +57,8 @@ The following media interviews document public communication and outreach relate
 <li><strong>Interview on Stormwater Infrastructure Upgrades</strong>, <em>POLITICO</em>, July 16, 2020.  
 <a href="https://subscriber.politicopro.com/article/2020/07/16/recent-flooding-raises-alarm-about-stormwater-infrastructure-upgrades-1301098">Link</a></li>
 
+<li><strong>Interview on Remote Teaching during COVID-19</strong>, Rutgers School of Engineering, July 2020 (reprint).</li>
+
 <li><strong>Interview on Using Porous Parking Lots for Flood Mitigation</strong>, FOX 5 New York News, October 17, 2019 (video recording).  
 <a href="https://www.fox5ny.com/video/616070">Video</a></li>
 
