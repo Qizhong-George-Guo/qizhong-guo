@@ -142,7 +142,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Stormwater Runoff Treatment Technologies</strong>, <em>Asbury Park Press</em>, June 15, 2011.</li>
 
-<li><strong>Interview on Passaic River Flooding</strong>, <em>The Record</em>, December 1, 2009 (reprint).</li>
+<li><strong>Interview on Passaic River Flooding</strong>, <em>The Record</em>, December 1, 2009. (reprint)</li>
 
 <li><strong>Interview on Flooding Threats and Disaster Management in South Jersey</strong>, <em>South Jersey Magazine</em>, September 3, 2009.</li>
 
