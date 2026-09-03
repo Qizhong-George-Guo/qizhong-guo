@@ -18,11 +18,14 @@ The following media interviews document public communication and outreach relate
 <li><strong>Interview on Dam Disclosure Law</strong>, NJ.COM, August 14, 2026.  
 <a href="https://www.nj.com/news/2026/08/nj-new-dam-law-could-save-homebuyers-from-a-financial-nightmare-heres-what-it-does.html">Link</a></li>
 
-<li><strong>Interview on Aging Urban Storm Drainage Systems</strong>, PIX11 TV, July 29, 2026.  
+<li><strong>Interview on Aging Stormwater Infrastructure</strong>, PIX11 TV, July 29, 2026.  
 <a href="https://pix11.com/video/aging-nj-infrastructure-ruined-in-flooding/12018107/">Link</a></li>
 
 <li><strong>Interview on Hidden Dams</strong>, NJ.COM, March 27, 2026.  
 <a href="https://www.nj.com/hunterdon/2026/03/new-nj-homeowner-nightmare-can-cost-500k-to-fix-how-to-spot-the-hidden-money-pits.html">Link</a></li>
+
+<li><strong>Interview on Urban and Coastal Water Systems Resilience</strong>, Rutgers School of Engineering, March 11, 2026.  
+<a href="https://soe.rutgers.edu/news/lab-report-improving-resilience-and-sustainability-urban-and-coastal-water-systems">Link</a></li>   
 
 <li><strong>Interview on Green Infrastructure</strong>, CivicStory, January 12, 2026.  
 <a href="https://www.civicstory.org/civicstory-blog/2026/1/12/unpacking-with-civicstory-green-infrastructure">Link</a></li>
@@ -46,6 +49,9 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Brooklyn’s Response to Sea Level Rise</strong>, WNYC, June 30, 2022.</li>
 
+<li><strong>Interview on Rain Garden Drainage Alternatives</strong>, Rutgers School of Engineering, April 28, 2022.  
+<a href="https://soe.rutgers.edu/news/right-rain">Link</a></li>
+
 <li><strong>Interview on Limitations of Urban Infrastructure against Extreme Flash Flooding</strong>, Gothamist (WNYC), April 11, 2022.  
 <a href="https://gothamist.com/news/even-after-sandy-and-ida-nyc-still-lacks-a-solid-evacuation-plan-for-emergency-flash-floods">Link</a></li>
 
@@ -59,8 +65,17 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Remote Teaching during COVID-19</strong>, Rutgers School of Engineering, July 2020 (reprint).</li>
 
+<li><strong>Interview on Linden Flood Mitigation Project</strong>, <em>Rutgers University–New Brunswick</em>, November 5, 2019. 
+<a href="https://cee.rutgers.edu/final-phase-27-flood-mitigation-project-linden-nj-nears-completion">Link</a></li> 
+
 <li><strong>Interview on Using Porous Parking Lots for Flood Mitigation</strong>, FOX 5 New York News, October 17, 2019 (video recording).  
 <a href="https://www.fox5ny.com/video/616070">Video</a></li>
+
+<li><strong>Interview on Green Infrastructure in Linden</strong>, <em>Rutgers University–New Brunswick</em>, October 16, 2019.  
+<a href="https://www.newswise.com/articles/rutgers-expert-can-discuss-new-green-infrastructure-in-linden-n-j">Link</a></li>
+
+<li><strong>Interview on Porous Pavement and Flood Mitigation in Linden</strong>, <em>Rutgers Center for Advanced Infrastructure and Transportation</em>, October 2, 2019.  
+<a href="https://cait.rutgers.edu/porous-parking-lots-help-relieve-flooding-and-enhance-ecosystem-in-linden-nj">Link</a></li>
 
 <li><strong>Interview on Coastal Erosion and Flooding in Long Beach Island</strong>, <em>Asbury Park Press</em>, September 5, 2019.  
 <a href="https://www.app.com/story/news/local/land-environment/2019/09/05/lbi-disappearing-can-we-save-it/1569171001/">Link</a></li>
@@ -75,35 +90,43 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Responses to Sea Level Rise</strong>, PBS America, February 10, 2018.</li>
 
+<li><strong>Interview on Flood Reduction and Ecosystem Restoration in Linden</strong>, <em>Rutgers Today</em>, May 30, 2017. <a href="https://www.rutgers.edu/news/rutgers-uses-27-million-grant-reduce-flooding-and-restore-ecosystem-linden">Link</a></li>
+
+<li><strong>Interview on Rain Garden in Tremley Point</strong>, <em>Union County Daily</em>,  May 14, 2017. (Reprint)</li>
+
+<li><strong>Interview on Interview on Flood Mitigation in Linde</strong>, <em>Rutgers School of Engineering</em>, April 29, 2017. <a href="https://www.linkedin.com/pulse/phillips-66-bayway-refinery-supports-rutgers-flood-mitigation-guo/">Link</a></li>
+
+<li><strong>Interview on Coastal Flood Risk Reduction</strong>, <em>Rutgers School of Engineerin</em>, December 17, 2014. (Reprint)</li>
+
 <li><strong>Interview on Back-Bay Flooding and Sea Level Rise</strong>, <em>Asbury Park Press</em>, February 17, 2014.</li>
 
 <li><strong>Interview on Coastal Resiliency Center</strong>, <em>The Daily Targum</em>, February 10, 2014.</li>
 
 <li><strong>Interview on Seaside Heights Boardwalk Protection</strong>, <em>Asbury Park Press</em>, December 31, 2013.</li>
 
-<li><strong>Interview on Meadowlands Regional Flood Plan</strong>, <em>The Star-Ledger</em>, October 29, 2013 (reprint).</li>
+<li><strong>Interview on Meadowlands Regional Flood Plan</strong>, <em>The Star-Ledger</em>, October 29, 2013. (reprint)</li>
 
 <li><strong>Interview on Flood Prevention and Mitigation Research</strong>, <em>The Daily Targum</em>, October 7, 2013.</li>
 
 <li><strong>Interview on Aging Water Infrastructure and Fire Hydrants</strong>, <em>The Star-Ledger</em>, August 11, 2013. <a href="https://www.nj.com/essex/2013/08/hundreds_of_newark_fire_hydrants_out_of_commission_as_city_grapples_with_ailing_water_system.html">Link</a></li>
 
-<li><strong>Interview on Route 3 Bridge Construction and Flooding</strong>, WBGO Jazz 88.3 FM, July 26, 2013 (audio recording).</li>
+<li><strong>Interview on Route 3 Bridge Construction and Flooding</strong>, WBGO Jazz 88.3 FM, July 26, 2013. (audio recording)</li>
 
-<li><strong>Interview on Water Main Breaks in Hoboken</strong>, WNYC, April 4, 2013 (reprint).</li>
+<li><strong>Interview on Water Main Breaks in Hoboken</strong>, WNYC, April 4, 2013. (reprint)</li>
 
 <li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, WBGO Jazz 88.3 FM, February 25, 2013.</li>
 
 <li><strong>Interview on Coastal Flood Protection Strategies</strong>, <em>The Philadelphia Inquirer</em>, December 6, 2012.</li>
 
-<li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, <em>The Star-Ledger</em>, November 19, 2012 (reprint).</li>
+<li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, <em>The Star-Ledger</em>, November 19, 2012. (reprint)</li>
 
-<li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, <em>The Record</em>, November 12, 2012 (reprint).</li>
+<li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, <em>The Record</em>, November 12, 2012. (reprint)</li>
 
-<li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, <em>The Star-Ledger</em>, November 5, 2012 (reprint).</li>
+<li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, <em>The Star-Ledger</em>, November 5, 2012. (reprint)</li>
 
-<li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, <em>The Star-Ledger</em>, November 3, 2012 (reprint).</li>
+<li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, <em>The Star-Ledger</em>, November 3, 2012. (reprint)</li>
 
-<li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, CCTV America, November 1, 2012 (video recording).</li>
+<li><strong>Interview on Rebuilding the Jersey Shore after Hurricane Sandy</strong>, CCTV America, November 1, 2012. (video recording)</li>
 
 <li><strong>Interview on Infrastructure Resilience after Hurricane Irene</strong>, <em>The Star-Ledger</em>, August 25, 2012. <a href="https://www.nj.com/news/2012/08/in_wake_of_irene_experts_say_n.html">Link</a></li>
 
@@ -115,9 +138,9 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on the 1939 New Jersey–Manhattan Connection Plan</strong>, CBS SmartPlanet, March 9, 2012.</li>
 
-<li><strong>Interview on Impacts of Extreme Weather in 2011</strong>, <em>The Record</em>, December 30, 2011 (reprint).</li>
+<li><strong>Interview on Impacts of Extreme Weather in 2011</strong>, <em>The Record</em>, December 30, 2011. (reprint)</li>
 
-<li><strong>Interview on Green Infrastructure for Flood Mitigation</strong>, <em>Home News Tribune</em>, November 17, 2011 (newspaper clipping).</li>
+<li><strong>Interview on Green Infrastructure for Flood Mitigation</strong>, <em>Home News Tribune</em>, November 17, 2011. (newspaper clipping)</li>
 
 <li><strong>Interview on Stormwater Runoff Treatment Technologies</strong>, <em>Asbury Park Press</em>, June 15, 2011.</li>
 
@@ -129,13 +152,13 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Record Rainfall and Its Impacts</strong>, <em>Atlantic City Press</em>, November 16, 2006.</li>
 
-<li><strong>Interview on Hurricane Katrina Recovery and Levee Failures</strong>, MSNBC Live, September 16, 2005 (video recording).</li>
+<li><strong>Interview on Hurricane Katrina Recovery and Levee Failures</strong>, MSNBC Live, September 16, 2005. (video recording)</li>
 
 <li><strong>Interview on Budd Lake Management Plan</strong>, <em>Mt. Olive Chronicle</em>, May 4, 2005.</li>
 
-<li><strong>Interview on Barnegat Bay Circulation Patterns</strong>, <em>Asbury Park Press</em>, April 25, 2005 (newspaper clipping).</li>
+<li><strong>Interview on Barnegat Bay Circulation Patterns</strong>, <em>Asbury Park Press</em>, April 25, 2005. (newspaper clipping)</li>
 
-<li><strong>Interview on Flooding Research</strong>, NJN News / New York Public Television (Channel 13), April 6, 2005 (video recording).</li>
+<li><strong>Interview on Flooding Research</strong>, NJN News / New York Public Television (Channel 13), April 6, 2005. (video recording)</li>
 
 <li><strong>Interview on Septic Tanks versus Sewerage</strong>, <em>The Star-Ledger</em>, September 24, 2004.</li>
 
@@ -157,7 +180,7 @@ The following media interviews document public communication and outreach relate
 
 <li><strong>Interview on Urban Flooding Issues</strong>, <em>Courier News</em>, Somerset, NJ, October 18, 1994.</li>
 
-<li><strong>Interview on River Ice–Induced Flooding Research</strong>, KSTP-TV, St. Paul, MN, April 11, 1989 (with Prof. Charles C. S. Song; video recording available).</li>
+<li><strong>Interview on River Ice–Induced Flooding Research</strong>, KSTP-TV, St. Paul, MN, April 11, 1989. (with Prof. Charles C. S. Song; video recording available)</li>
 
 </ol>
 
