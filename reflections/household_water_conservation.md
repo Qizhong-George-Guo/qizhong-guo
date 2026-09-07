@@ -4,7 +4,7 @@ title: "Household Water Conservation by the Numbers"
 permalink: /reflections/household_water_conservation/
 ---
 
-**Indoor Efficiency, Outdoor Irrigation, Leakage, Rainwater Management, and Local Water Reuse**
+**Indoor Efficiency, Outdoor Irrigation, Leakage, Rainwater and Stormwater Management, and Local Water Reuse**
 
 *Technical Brief — September 6, 2026*  
 *Qizhong (George) Guo, Ph.D., P.E., BC.WRE*  
