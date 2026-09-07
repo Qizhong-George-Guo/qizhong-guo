@@ -11,6 +11,7 @@ permalink: /reflections/household_water_conservation/
 *Professor, Civil and Environmental Engineering*  
 *Rutgers University–New Brunswick*
 
+
 On August 26, 2026, *TIME* published **“We Asked Experts For the Easiest Ways to Shrink Your Home Water Usage,”** which included interviews with me and two other university professors. The article prompted me to look more closely at the numbers behind household water conservation and to place everyday conservation practices in a broader water-systems context.
 
 ## Indoor Efficiency Has Improved Dramatically
