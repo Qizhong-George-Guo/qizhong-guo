@@ -6,7 +6,7 @@ permalink: /reflections/household_water_conservation/
 
 **Indoor Efficiency, Outdoor Irrigation, Leakage, Rainwater and Stormwater Management, and Local Water Reuse**
 
-*Technical Brief — September 6, 2026*  
+*Technical Brief — September 7, 2026*  
 *Qizhong (George) Guo, Ph.D., P.E., BC.WRE*  
 *Professor, Civil and Environmental Engineering*  
 *Rutgers University–New Brunswick*
