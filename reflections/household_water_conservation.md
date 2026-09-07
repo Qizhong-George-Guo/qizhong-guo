@@ -41,7 +41,7 @@ A less explored possibility is **foundation-drainage or sump-pump water**, which
 
 The broader lesson is simple:
 
-> **Use potable water efficiently. Eliminate avoidable losses. Match water quality to the intended use. Retain and reuse local water where practical. And maintain the infrastructure that delivers the water in the first place.**
+> **Use potable water efficiently. Eliminate avoidable losses. Choose landscapes suited to local climate and need. Match water quality to the intended use. Retain and reuse local water where practical. And maintain the infrastructure that delivers the water in the first place.**
 
 A broader **water footprint** also includes the water embedded in food, energy, manufactured goods, and other products and services. That perspective is important, but this synthesis focuses primarily on the water supplied to and used in and around our homes.
 
