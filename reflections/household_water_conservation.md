@@ -24,7 +24,7 @@ At the same time, the commonly cited U.S. household-use figure of about **82 gal
 
 Significant opportunities remain. Household leaks collectively waste large quantities of water, although losses vary greatly from home to home. Beyond the house, leaking service lines and aging public water systems form another major source of loss.
 
-These problems occur at very different scales—from replacing an inexpensive toilet flapper, to repairing an underground service line, to renewing major water mains—but they are **complementary parts of the same conservation challenge**. Household conservation cannot substitute for maintaining the infrastructure that captures, treats, pumps, and delivers drinking water.
+These problems must be addressed at very different scales—from replacing an inexpensive toilet flapper, to repairing an underground service line, to renewing major water mains—but they are **complementary parts of the same conservation challenge**. Household conservation cannot substitute for maintaining the infrastructure that captures, treats, pumps, and delivers drinking water.
 
 ## Outdoor Water Use Depends Strongly on Climate and Landscape
 
