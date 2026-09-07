@@ -18,7 +18,7 @@ Some reflections may also be selectively shared on LinkedIn, while others—part
 
 - **No. 006 · 2026-09-06**  
   [Household Water Conservation by the Numbers →](https://qizhong-guo.org/reflections/household_water_conservation/)
-  *A quantitative look at indoor efficiency, water losses, outdoor irrigation and landscape choices, rainwater management, and local water reuse.*
+  *A quantitative look at indoor efficiency, water losses, outdoor irrigation and landscape choices, rainwater and stormwater management, and local water reuse.*
 
 - **No. 005 · 2026-08-14**  
   [From Dam Disclosure to Better Dam Stewardship →](https://qizhong-guo.org/reflections/new-jersey-dam-disclosure-law/)
