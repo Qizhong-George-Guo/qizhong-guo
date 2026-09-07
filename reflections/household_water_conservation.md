@@ -1,1 +1,50 @@
+---
+layout: page
+title: "Household Water Conservation by the Numbers"
+permalink: /reflections/household_water_conservation/
+---
 
+**Indoor Efficiency, Outdoor Irrigation, Leakage, Rainwater Management, and Local Water Reuse**
+
+*Technical Brief — September 6, 2026*  
+*Qizhong (George) Guo, Ph.D., P.E., BC.WRE*  
+*Professor, Civil and Environmental Engineering*  
+*Rutgers University–New Brunswick*
+
+On August 26, 2026, *TIME* published **“We Asked Experts For the Easiest Ways to Shrink Your Home Water Usage,”** which included interviews with me and two other university professors. The article prompted me to look more closely at the numbers behind household water conservation and to place everyday conservation practices in a broader water-systems context.
+
+## Indoor Efficiency Has Improved Dramatically
+
+One encouraging finding is how much **indoor water efficiency has improved**. The Water Research Foundation's 2026 *Residential End Uses of Water* study reports average single-family indoor use of about **38.5 gallons per person per day**, down **44.4% from 69.3 gallons in 1999**. More efficient toilets, clothes washers, showerheads, faucets, and dishwashers have played a major role.
+
+At the same time, the commonly cited U.S. household-use figure of about **82 gallons per person per day** includes both indoor and outdoor use and comes from an older national dataset. The two figures therefore should not be directly subtracted to estimate current outdoor consumption.
+
+## Water Losses Occur from the Home to the Public System
+
+Significant opportunities remain. Household leaks collectively waste enormous quantities of water, although losses vary greatly from home to home. Beyond the house, leaking service lines and aging public water systems form another major source of loss.
+
+These problems occur at very different scales—from an inexpensive toilet-flapper replacement, to underground service-line repair, to capital-intensive renewal of water mains—but they are **complementary parts of the same conservation challenge**. Household conservation cannot substitute for maintaining the infrastructure that captures, treats, pumps, and delivers drinking water.
+
+## Outdoor Water Use Depends Strongly on Climate
+
+Outdoor use is even more dependent on climate and season. Nationally, roughly **30% of residential water use occurs outdoors**, while the share can become much higher in hot or dry conditions.
+
+Conservation can come not only from reducing unnecessary turf, but also from watering according to actual plant needs, accounting for rainfall, irrigating when evaporative losses are lower, using better controls, and selecting native or climate-adapted vegetation.
+
+## Rainfall Can Be Treated as a Local Resource
+
+Rainfall itself is also a resource. **One inch of rain on 1,000 square feet of roof represents about 623 gallons of water.** Rain barrels, larger cisterns, downspout disconnection, and rain gardens can therefore be viewed as complementary ways to reuse or manage water close to where it falls.
+
+A less explored possibility is **foundation-drainage or sump-pump water**, which may sometimes provide another nonpotable source for irrigation. Its availability, water quality, timing, and storage requirements deserve further research rather than being assumed beneficial everywhere.
+
+## From Conservation to Water-System Resilience
+
+The broader lesson is simple:
+
+> **Use potable water efficiently. Eliminate avoidable losses. Match water quality to the intended use. Retain and reuse local water where practical. And maintain the infrastructure that delivers the water in the first place.**
+
+A broader **water footprint** also includes the water embedded in food, energy, manufactured goods, and other products and services. That perspective is important, but this synthesis focuses primarily on the water supplied to and used in and around our homes.
+
+**[Read the full technical brief (PDF)](/files/reflections/Household_Water_Conservation_Brief_Qizhong_Guo.pdf){:target="_blank"}
+
+**Related:** *TIME*, [“We Asked Experts For the Easiest Ways to Shrink Your Home Water Usage”](https://time.com/article/2026/08/26/water-experts-s-habits-to-reduce-their-water-footprint/){:target="_blank"}, August 26, 2026.
