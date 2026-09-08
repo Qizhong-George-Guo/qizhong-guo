@@ -111,7 +111,7 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_V-Sustainability_(Infographic).pdf){:target="_blank"}
 
 
-*(The briefing document, slide deck, and infographic linked above were generated using NotebookLM based on my original Fall 2024 lecture slides, with Topic I-3, Stormwater Rules, updated in late January 2026.
+*The course materials on this page are being updated as I teach this course again in Fall 2026. The briefing document, slide deck, and infographic linked above were initially generated using NotebookLM based on my original Fall 2024 lecture slides. Topic I-3, Stormwater Rules, was updated in late January 2026, and additional course content is being revised and expanded during the Fall 2026 semester.*
 
 These AI-generated materials are intended to support review, synthesis, and reflection, but they do not replace the original lecture slides. The original slides remain the authoritative and most complete course materials and should be used to guide homework assignments and other coursework. Please contact me if you need access to the original slides or additional course resources.)*
 
