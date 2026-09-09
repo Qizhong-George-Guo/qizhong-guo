@@ -11,7 +11,7 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 
 ---
 
-## Course Outline
+## Course Outline (updated Fall 2026)
 - Topic I - Stormwater Management 
    <p>   
         1. Hydrology; 2. Water Quality; 3. Stormwater Rules; 4. Small-Scale Green Infrastructure BMPs; 5. Large-Scale GI and Non-GI BMPs; 6. Hydraulics; 7. Groundwater Recharge; 8. Soil Erosion and Sediment Control; 9. Cost & Benefit Estimates; 10. Design Procedures and Examples
@@ -46,12 +46,12 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_I-2_Water_Quality_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_I-2_Water_Quality_(Infographic).pdf){:target="_blank"}
 
-### Topic I-3 Stormwater Rules (updated 2026)
+### Topic I-3 Stormwater Rules (updated January 2026)
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Topic_I-3_Stormwater_Rules_(Briefing_Document).pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/Topic_I-3_Stormwater_Rules_(Slide_Deck).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Topic_I-3_Stormwater_Rules_(Infographic).pdf){:target="_blank"}
 
-### New Jersey Stormwater Management Rules (amended 2026)
+### New Jersey Stormwater Management Rules (amended January 2026)
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/New_Jersey_Stormwater_Rules-2026_%28Briefing_Document%29.pdf){:target="_blank"}
 - [Slide Deck (PDF)](/files/teaching/green-infrastructure/New_Jersey_Stormwater_Rules-2026_%28Slide_Deck%29.pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/New_Jersey_Stormwater_Rules-2026_%28Infographic%29.pdf){:target="_blank"}
