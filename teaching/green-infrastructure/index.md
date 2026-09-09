@@ -11,7 +11,7 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 
 ---
 
-## Course Outline (updated Fall 2026)
+## Course Outline 
 - Topic I - Stormwater Management 
    <p>   
         1. Hydrology; 2. Water Quality; 3. Stormwater Rules; 4. Small-Scale Green Infrastructure BMPs; 5. Large-Scale GI and Non-GI BMPs; 6. Hydraulics; 7. Groundwater Recharge; 8. Soil Erosion and Sediment Control; 9. Cost & Benefit Estimates; 10. Design Procedures and Examples
@@ -28,7 +28,7 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 
 ---
 ## Lecture Materials
-### Outline
+### Outline (updated Fall 2026)
 - [Course Outline (PDF)](/files/teaching/green-infrastructure/Course_Outline-Green_Water_Infrastructure-Fall_2026.pdf){:target="_blank"}
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Course_Outline_(Briefing_Document).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Course_Outline_(Infographic).pdf){:target="_blank"}
