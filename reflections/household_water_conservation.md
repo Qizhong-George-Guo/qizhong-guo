@@ -69,6 +69,4 @@ The broader lesson is simple:
 
 **[Read the full technical brief (PDF)](/files/reflections/Household_Water_Conservation_Brief_Qizhong_Guo.pdf){:target="_blank"}
 
-**[Read the full technical brief (PDF) — Chinese Translation of the English Version (中文翻译版)](/files/reflections/Household_Water_Conservation_Brief_Qizhong_Guo_(Chinese_Translation).pdf){:target="_blank"}
-
 **Related:** *TIME*, [“We Asked Experts For the Easiest Ways to Shrink Your Home Water Usage”](https://time.com/article/2026/08/26/water-experts-s-habits-to-reduce-their-water-footprint/){:target="_blank"}, August 26, 2026.
