@@ -28,7 +28,7 @@ Green Infrastructure for Water Management is a graduate-level course centered on
 
 ---
 ## Lecture Materials
-### Outline (updated Fall 2026)
+### Outline (updated September 2026)
 - [Course Outline (PDF)](/files/teaching/green-infrastructure/Course_Outline-Green_Water_Infrastructure-Fall_2026.pdf){:target="_blank"}
 - [Briefing Document (PDF)](/files/teaching/green-infrastructure/Course_Outline_(Briefing_Document).pdf){:target="_blank"}
 - [Infographic (PDF)](/files/teaching/green-infrastructure/Course_Outline_(Infographic).pdf){:target="_blank"}
