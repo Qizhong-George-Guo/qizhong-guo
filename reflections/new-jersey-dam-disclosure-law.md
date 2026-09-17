@@ -44,9 +44,9 @@ The 5-ft regulatory concept itself has deep roots in New Jersey. State regulatio
 
 The law also provides a special exception for certain dams in the Pinelands Area based on three combined criteria: water-level rise, drainage area, and impoundment area.
 
-### Hazard classification is not dam condition
+### Hazard classification is not the same as dam condition
 
-New Jersey’s Class I–III classifications primarily describe the **potential consequences of failure**, rather than the dam’s present physical condition. Class IV combines small-dam size criteria with the requirement that the dam not meet Class I or II criteria.
+New Jersey’s Class I–III classifications primarily describe the **potential consequences of failure**, rather than the dam’s present physical condition. Class IV is a special small-dam, low-hazard category: it must meet specified size criteria and must not qualify as Class I or II. Low-hazard dams that do not meet the Class IV size criteria are classified as Class III.
 
 A high-hazard dam can be well maintained, while a low-hazard dam can be in poor condition.
 
