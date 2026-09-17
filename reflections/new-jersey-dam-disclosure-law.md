@@ -46,7 +46,7 @@ The law also provides a special exception for certain dams in the Pinelands Area
 
 ### Hazard classification is not dam condition
 
-New Jersey’s Class I–III classifications primarily describe the **potential consequences of failure**, rather than the dam’s present physical condition. Class IV is a special small-dam, low-hazard category: it must meet specified size criteria and must not qualify as Class I or II.
+New Jersey’s Class I–III classifications primarily describe the **potential consequences of failure**, rather than the dam’s present physical condition. Class IV combines small-dam size criteria with the requirement that the dam not meet Class I or II criteria. 
 
 A high-hazard dam can be well maintained, while a low-hazard dam can be in poor condition.
 
