@@ -6,7 +6,7 @@ permalink: /reflections/household_water_conservation/
 
 **Indoor Efficiency, Outdoor Irrigation, Leakage, Rainwater and Stormwater Management, and Local Water Reuse**
 
-*Technical Brief — September 7, 2026*  
+*Technical Brief — September 7, 2026 (Updated September 16, 2026)*  
 *Qizhong (George) Guo, Ph.D., P.E., BC.WRE*  
 *Professor, Civil and Environmental Engineering*  
 *Rutgers University–New Brunswick*
@@ -50,7 +50,7 @@ A less explored possibility is **foundation-drainage or sump-pump water**, which
 
 A conserved gallon does not necessarily have the same financial value everywhere. Indoor conservation can often reduce both water and sewer costs and, where hot water is involved, energy costs as well. Outdoor irrigation savings may reduce only the water bill where sewer charges are flat or based on winter water use.
 
-**Appendix A of the full brief compares two New Jersey communities** to illustrate this quantitatively. The same reduction in indoor water use can produce substantially different household savings because one community charges a flat residential sewer fee while another uses a volumetric, winter-based sewer formula.
+**Appendix A of the full brief compares three New Jersey communities** to illustrate this quantitatively. The same amount of water conservation can produce substantially different household savings because the communities use different water and sewer rate structures. Piscataway charges a flat residential sewer fee; New Brunswick charges sewer volumetrically based on total metered water use, with no seasonal or winter-use adjustment; and Montgomery uses a base-plus-volumetric sewer formula in which the winter-consumption basis can exclude summer irrigation from sewer charges.
 
 Stormwater utilities introduce a **third household cost signal**. Unlike potable-water and sewer bills, stormwater fees are generally related to runoff contribution or impervious area rather than gallons of water consumed. New Brunswick became the **first municipality in New Jersey to establish a stormwater utility in 2024**, following state enabling legislation enacted in 2019. Its program also provides for credits for qualifying onsite stormwater-management measures.
 
